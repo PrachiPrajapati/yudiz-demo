@@ -1,0 +1,16 @@
+.get-snaps-box { background-color:#E5F4F7; }  
+.follow-btn-box { height:100%; padding:32px 24px; border-radius: 16px; background: #FFF; box-shadow: 3px 3px 33px 0px rgba(0, 0, 0, 0.10); }
+.follow-btn-box img { width:80px; margin-bottom: 24px; }
+.follow-btn-box h5 { margin-bottom: 8px; color: #333; text-align: center; font-family: Poppins; font-size: 30px; font-style: normal; font-weight: 700; line-height: 40px; }
+.follow-btn-box p { margin-bottom: 11px; color: rgba(0, 0, 0, 0.80); text-align: center; font-family: Poppins; font-size: 16px; font-style: normal; font-weight: 400; line-height: 24px; }
+.foll-det { margin-bottom: 30px; }
+.fancybox-content { max-width: 700px; padding: 60px 3%; }
+@media(max-width: 767px) {
+    .get-snaps-box .row { margin-inline:-7.5px; }
+    .follow-btn-box { padding:24px 10px; border-radius: 16px;  }
+.follow-btn-box img { width:70px; margin-bottom: 10px; }
+.follow-btn-box h5 { margin-bottom: 8px;  font-size: 16px; line-height: 24px; }
+.follow-btn-box p { margin-bottom: 11px;  font-size: 14px; line-height: 18px; }
+    .foll-det { padding-inline:7.5px; margin-bottom: 15px; width:50%; }
+    .theme-btn a, .theme-btn button, input.load-more { padding: 9px 22px; font-size: 16px; line-height: 16px; }
+}

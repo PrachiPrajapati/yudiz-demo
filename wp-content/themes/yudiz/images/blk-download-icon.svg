@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="13_Yudiz-Branding" transform="translate(-836.000000, -6590.000000)" fill-rule="nonzero">
+            <g id="Group-66" transform="translate(180.000000, 6381.000000)">
+                <g id="Group-65-Copy" transform="translate(374.000000, 205.000000)">
+                    <g id="Group-63" transform="translate(282.000000, 4.000000)">
+                        <circle id="Oval" fill="#333333" cx="28" cy="28" r="28"></circle>
+                        <g id="Group-64" transform="translate(16.000000, 16.000000)" fill="#FFFFFF">
+                            <path d="M24,22.6 L22.6,24 L22.6,22.6 L24,22.6 Z M22.6,11.6129032 L24,11.6129032 L24,24 L0,24 L0,11.6129032 L1.4,11.6129032 L1.4,22.6 L22.6,22.6 L22.6,11.6129032 Z M1.4,24 L0,22.6 L1.4,22.6 L1.4,24 Z M1.4,24 L0,22.6 L1.4,22.6 L1.4,24 Z M22.6,22.6 L22.6,11.6129032 L24,11.6129032 L24,24 L0,24 L0,11.6129032 L1.4,11.6129032 L1.4,22.6 L22.6,22.6 Z M24,22.6 L22.6,24 L22.6,22.6 L24,22.6 Z" id="Rectangle"></path>
+                            <polygon id="Line-3" points="11.3 -0.312903226 12.7 -0.312903226 12.7 17.7322581 11.3 17.7322581"></polygon>
+                            <polygon id="Line-6" points="16.8988927 12.9458227 17.8646611 13.9593766 12 19.54754 6.13533888 13.9593766 7.10110729 12.9458227 12 17.6137503"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

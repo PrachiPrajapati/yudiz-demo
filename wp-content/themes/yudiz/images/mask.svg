@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="500" height="500"></rect>
+        <g id="mask" stroke="#FF0000" stroke-width="2">
+            <g id="Layer_11" transform="translate(34.000000, 2.000000)">
+                <path d="M0,0 C11.6,0 21.8,6.2 27.4,15.5 C30.3,20.3 32.4,32 18,32 L14,32" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

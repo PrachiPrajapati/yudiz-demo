@@ -1,0 +1,284 @@
+.mb-0                                   { margin-bottom: 0 !important; }
+.mt-0                                   { margin-top: 0 !important; }
+.pb-0                                   { padding-bottom: 0 !important; }
+.pt-0                                   { padding-top: 0 !important; }
+.client-section-content                 { border-bottom: 1px solid rgba(139, 162, 189, 0.32); display: flex; align-items: center; justify-content: space-between; }
+.clnt-title                             {  font-family: 'Poppins'; text-align: center; font-weight: 500; font-size: 20px; line-height: 32px; color: rgba(32, 26, 45, 0.6); letter-spacing: 0; text-transform: none;}
+p:empty                                 { display: none !important; }
+.banner-desc-bx                         { color: rgba(0, 0, 0, 0.8);  }
+.tit-bx h3                              { font-family: 'Montserrat'; font-weight: 800; font-size: 65px; line-height: 84px; text-align: center; color: #0C1D3D;  }
+.tit-bx p                               { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; text-align: center; color: rgba(0, 0, 0, 0.8); }
+.product-trip-banner-section            { padding:165px 0;  }
+.product-trip-banner-section h1         { margin-bottom: 24px; font-family: 'Montserrat'; font-weight: 800; color: #FFFFFF; }
+.product-trip-banner-section p          { margin-bottom: 24px; font-family: 'Poppins'; font-weight: 400; font-size: 22px; line-height: 38px; color: rgba(255, 255, 255, 0.8); }
+ /* Cta Ssecion */
+ .design-second-cta .service-first-cta-content { padding:60px 63px; border-radius: 40px; }
+ .design-second-cta h3                   { margin-bottom: 16px; font-family: 'Montserrat'; font-weight: 800; font-size: 50px; line-height: 65px; text-align: center; color: #FFFFFF; }
+ .design-second-cta p                    { font-family: 'Poppins'; font-weight: 400; font-size: 18px; line-height: 28px; text-align: center; color: rgba(255, 255, 255, 0.9);  }
+ .design-second-cta .btn-ser-box         { margin-top: 37px; }
+/* Cta Ssecion */
+/* Information Section Start */
+.information-section-bx                 { background: #F5F4FA; }
+.information-section-bx h3              { font-family: 'Montserrat'; font-weight: 800; font-size: 54px; line-height: 68px; color: #0C1D3D; }
+.information-section-bx p               { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; color: rgba(0, 0, 0, 0.8); }
+.information-section-bx .white-box      { background: #FFFFFF; border-radius: 8px; }
+.information-section-bx .white-box p    { padding:16px 32px; font-family: 'Poppins'; font-weight: 400; font-size: 20px; line-height: 34px; color: rgba(0, 0, 0, 0.6); }
+/* Information Section End */
+/* Products cycle Section Start */
+.product-cycle-section                  { background: #F8F8F8; }
+.product-cycle-section h2               { font-family: 'Montserrat'; font-weight: 800; color: #0C1D3D;}
+.product-cycle-img                      { position:relative;height: 100%; }
+.product-cycle-img  .shapeimg           { position: absolute; left:-14%; top:6%; }
+.product-cycle-contentbox .tabs-nav-box { padding: 0; background-color: transparent; }
+.product-cycle-contentbox .tabs-nav-box ul li:after { background-color: #D9D9D9; opacity: 1; }
+.product-cycle-contentbox .tabs-nav-box ul li.active:after ,.product-cycle-contentbox .tabs-nav-box ul li:hover:after{ background-color: #0487FF;  }
+.product-cycle-contentbox .tabs-nav-box ul li { margin-bottom: 32px; padding:0; padding-left: 24px; }
+.product-cycle-contentbox .tabs-nav-box ul li h5 { margin-bottom: 8px; font-family: 'Montserrat'; font-weight: 700; font-size: 24px; line-height: 32px; color: #121212; }
+.product-cycle-contentbox .tabs-nav-box ul li p { font-family: 'Poppins'; font-weight: 400; font-size: 14px; line-height: 22px; color: #000000; opacity: 0.75; }
+.product-cycle-contentbox .experties-tabs-content { background: #FFFFFF; border: 6px solid #D9D9D9;}
+.product-cycle-contentbox .experties-tabs-content h3 { margin-bottom: 16px; letter-spacing: -1.5px; color: #000000; font-weight: 600; }
+.product-cycle-contentbox .experties-tabs-content p { margin-bottom: 16px; font-family: 'Poppins'; font-weight: 500; color: rgba(0, 0, 0, 0.8); }
+.product-cycle-contentbox .experties-tab-list li { width: 100%; margin-bottom: 24px; }
+.product-cycle-contentbox .experties-tab-list li:last-child { margin-bottom: 0; }
+.product-cycle-contentbox .experties-tab-list li:before { background: url('../images/blue-round-tick-bullet.svg')no-repeat center center/cover; width:32px; height: 32px; }
+.product-cycle-contentbox .experties-tab-list { padding-left: 30px; margin-bottom: 0; }
+/* Products cycle Section End */
+/* Product Box Section Start */
+.product-detail-img                     { border-radius: 16px 16px 0px 0px; position: relative; overflow: hidden;  }
+.product-detail-img:after               { content:""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden; background-color: rgba(0, 0, 0, 0.1); z-index: 2; transition: all 0.5s ease-in-out;}
+.product-trip-col                       { margin-bottom: 40px; }
+.product-trip-box:hover .product-detail-img:after { transform: translateX(-200%); }
+.product-trip-box:hover .prod-desc-box h5 { color: #0487FF; }
+.prod-desc-box                          { padding: 40px; }
+.prod-desc-box h5                       { margin-bottom: 8px; font-family: 'Montserrat'; font-weight: 700; font-size: 32px; line-height: 39px; letter-spacing: -1.5px; color: #000000; transition: all 0.5s ease-in-out; }
+.prod-desc-box h6                       { margin-bottom: 32px; font-family: 'Poppins'; font-weight: 500; font-size: 14px; line-height: 18px; color: #0487FF; letter-spacing: 0; text-transform: none; }
+.prod-desc-box p                        { margin-bottom: 40px; font-family: 'Poppins'; font-weight: 500; font-size: 18px; line-height: 30px; color: rgba(0, 0, 0, 0.8); }
+.prod-desc-box ul                       { display: flex; flex-wrap: wrap; }
+.prod-desc-box ul li                    { margin-right: 8px; background: #EBF2F7; border-radius: 4px; padding: 6px 10px; font-family: 'Poppins';  font-weight: 400; font-size: 14px; line-height: 18px; color: #000000; }
+/* Product Box Section End */
+@media(min-width:1400px) and (max-width:1600px){
+    .inner-service-section p                { font-size: 20px; line-height: 32px;}
+    .clnt-title                             { font-size: 18px; line-height: 28px; }
+    .tit-bx h3                              {  font-size: 50px; line-height: 62px;  }
+    .tit-bx p                               { font-size: 18px; line-height:30px;  }
+    .product-trip-banner-section            { padding:120px 0;  }
+    .product-trip-banner-section h1         { margin-bottom: 20px;  }
+    .product-trip-banner-section p          { margin-bottom: 20px;  font-size: 22px; line-height: 38px;  }
+    /* Cta Ssecion */
+    .service-first-cta-content h3           { font-size: 44px; line-height: 55px; }
+    .design-second-cta .service-first-cta-content { padding:40px 43px; border-radius: 30px; }
+    .design-second-cta p                    { font-size: 16px; line-height: 24px;   }
+    .design-second-cta .btn-ser-box         { margin-top: 30px; }
+    /* Cta Ssecion */
+    /* Information Section Start */
+    .information-section-bx h3              {  font-size: 48px; line-height: 58px; }
+    .information-section-bx p               { font-size: 20px; line-height: 34px;  }
+    .information-section-bx .white-box p    { padding:12px 26px; font-size: 18px; line-height: 30px; }
+    /* Information Section End */
+    /* Products cycle Section Start */
+    .product-cycle-img  .shapeimg           { left:-28%; top:5%; }
+    .product-cycle-contentbox .tabs-nav-box ul li { margin-bottom: 28px;  padding-left: 20px; }
+    .product-cycle-contentbox .tabs-nav-box ul li h5 { margin-bottom: 6px;  font-size: 22px; line-height: 30px;  }
+    .product-cycle-contentbox .tabs-nav-box ul li p {  font-size: 14px; line-height: 22px; }
+    .product-cycle-contentbox .experties-tabs-content {  border: 5px solid #D9D9D9;}
+    .product-cycle-contentbox .experties-tabs-content h3 { margin-bottom: 14px; letter-spacing: -1.5px; }
+    .product-cycle-contentbox .experties-tabs-content p { margin-bottom: 14px; }
+    .product-cycle-contentbox .experties-tab-list li {  margin-bottom: 20px; }
+    .product-cycle-contentbox .experties-tab-list li:before {  width:28px; height: 28px; }
+    .product-cycle-contentbox .experties-tab-list { padding-left: 26px;  }
+    /* Products cycle Section End */
+    /* Product Box Section Start */
+    .product-detail-img                     { border-radius: 14px 14px 0px 0px;   }
+    .product-trip-col                       { margin-bottom: 30px; }
+    .prod-desc-box                          { padding: 30px; }
+    .prod-desc-box h5                       { margin-bottom: 8px; font-size: 26px; line-height: 34px; letter-spacing: -1px;  }
+    .prod-desc-box h6                       { margin-bottom: 32px;  font-size: 14px; line-height: 18px;  }
+    .prod-desc-box p                        { margin-bottom: 32px;  font-size: 16px; line-height: 24px;  }
+    .prod-desc-box ul li                    { margin-right: 8px;  padding: 6px 8px;  font-size: 14px; line-height: 18px;  }
+    /* Product Box Section End */
+}
+@media(min-width:1200px) and (max-width:1399px){
+    .service-bannerbx h1                { letter-spacing: 0; font-size: 46px; line-height: 57px; }
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:0 20px; }
+    .inner-service-section p            { font-size: 18px; line-height: 26px;}
+    .tit-bx h3                          {  font-size: 40px; line-height: 50px;  }
+    .tit-bx p                           { font-size: 18px; line-height:26px;  }
+    .product-trip-banner-section        { padding:100px 0;  }
+    .product-trip-banner-section h1     { margin-bottom: 16px;  }
+    .product-trip-banner-section p      { margin-bottom: 16px;  font-size: 20px; line-height: 32px; }
+        /* Cta Ssecion */
+        .service-first-cta-content h3           { font-size: 40px; line-height: 50px; }
+        .design-second-cta .service-first-cta-content { padding:30px 32px; border-radius: 30px; }
+        .design-second-cta p                    { font-size: 16px; line-height: 24px;   }
+        .design-second-cta .btn-ser-box         { margin-top:20px; }
+        /* Cta Ssecion */
+    /* Information Section Start */
+    .information-section-bx h3              {  font-size: 42px; line-height: 52px; }
+    .information-section-bx p               { font-size:18px; line-height: 32px;  }
+    .information-section-bx .white-box p    { padding:12px 24px; font-size: 18px; line-height: 30px; }
+    /* Information Section End */
+        /* Products cycle Section Start */
+        .product-cycle-img  .shapeimg           { left:-28%; top:5%; max-width: 60px; }
+        .product-cycle-contentbox .tabs-nav-box ul li { margin-bottom: 20px;  padding-left: 16px; }
+        .product-cycle-contentbox .tabs-nav-box ul li h5 { margin-bottom: 6px;  font-size:20px; line-height: 30px;  }
+        .product-cycle-contentbox .tabs-nav-box ul li p {  font-size: 13px; line-height: 20px; }
+        .product-cycle-contentbox .experties-tabs-content {  border:4px solid #D9D9D9;}
+        .product-cycle-contentbox .experties-tabs-content h3 { margin-bottom: 10px; letter-spacing: -1px; }
+        .product-cycle-contentbox .experties-tabs-content p { margin-bottom: 10px; }
+        .product-cycle-contentbox .experties-tab-list li {  margin-bottom: 14px; }
+        .product-cycle-contentbox .experties-tab-list li:before {  width:24px; height: 24px; }
+        .product-cycle-contentbox .experties-tab-list { padding-left: 22px;  }
+        /* Products cycle Section End */
+     /* Product Box Section Start */
+     .product-detail-img                     { border-radius: 14px 14px 0px 0px;   }
+     .product-trip-col                       { margin-bottom: 24px; }
+     .prod-desc-box                          { padding: 24px; }
+     .prod-desc-box h5                       { margin-bottom: 8px; font-size: 24px; line-height:32px; letter-spacing: -1px;  }
+     .prod-desc-box h6                       { margin-bottom: 26px;  font-size: 12px; line-height: 16px;  }
+     .prod-desc-box p                        { margin-bottom: 26px;  font-size: 16px; line-height: 24px;  }
+     .prod-desc-box ul li                    { margin-right: 8px;  padding: 5px 8px;  font-size: 13px; line-height: 17px;  }
+     /* Product Box Section End */
+}
+@media(min-width:992px) and (max-width:1199px){
+    .service-bannerbx h1                { letter-spacing: 0; font-size: 40px; line-height: 52px; }
+    .inner-service-section p            { font-size: 18px; line-height: 26px;}
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:0 16px; }
+    .tit-bx h3                          { font-size: 30px; line-height: 42px;  }
+    .tit-bx p                           { font-size: 16px; line-height:24px;  }
+    .product-trip-banner-section        { padding:80px 0;  }
+    .product-trip-banner-section h1     { margin-bottom: 12px;  }
+    .product-trip-banner-section p      { margin-bottom: 12px;  font-size: 16px; line-height: 24px; }
+    /* Cta Ssecion */
+    .service-first-cta-content h3           { font-size: 34px; line-height: 48px; }
+    .design-second-cta .service-first-cta-content { padding:30px 34px; border-radius: 30px; }
+    .design-second-cta p                    { font-size: 16px; line-height: 24px;   }
+    .design-second-cta .btn-ser-box         { margin-top:20px; }
+    /* Cta Ssecion */
+    /* Information Section Start */
+    .information-section-bx h3              {  font-size: 36px; line-height: 48px; }
+    .information-section-bx p               { font-size:18px; line-height: 26px;  }
+    .information-section-bx .white-box p    { padding:8px 20px; font-size: 16px; line-height: 24px; }
+    /* Information Section End */
+    /* Products cycle Section Start */
+    .product-cycle-img  .shapeimg           { left:-28%; top:5%; max-width:50px; }
+    .product-cycle-contentbox .tabs-nav-box ul li { margin-bottom: 8px;  padding-left: 14px; }
+    .product-cycle-contentbox .tabs-nav-box ul li h5 { margin-bottom: 4px;  font-size:16px; line-height: 24px;  }
+    .product-cycle-contentbox .tabs-nav-box ul li p {  font-size: 12px; line-height: 18px; }
+    .product-cycle-contentbox .experties-tabs-content {  border:3px solid #D9D9D9;}
+    .product-cycle-contentbox .experties-tabs-content h3 { margin-bottom: 8px; letter-spacing: -1px; }
+    .product-cycle-contentbox .experties-tabs-content p { margin-bottom: 8px; }
+    .product-cycle-contentbox .experties-tab-list li {  margin-bottom: 14px; }
+    .product-cycle-contentbox .experties-tab-list li:before {  width:15px; height: 15px; }
+    .product-cycle-contentbox .experties-tab-list { padding-left: 12px;  }
+    /* Products cycle Section End */
+    /* Product Box Section Start */
+    .product-detail-img                     { border-radius: 12px 12px 0px 0px;   }
+    .product-trip-col                       { margin-bottom: 20px; }
+    .prod-desc-box                          { padding: 20px; }
+    .prod-desc-box h5                       { margin-bottom: 8px; font-size: 18px; line-height:26px; letter-spacing: -0.5px;  }
+    .prod-desc-box h6                       { margin-bottom: 20px;  font-size: 12px; line-height: 16px;  }
+    .prod-desc-box p                        { margin-bottom: 20px;  font-size: 16px; line-height: 24px;  }
+    .prod-desc-box ul li                    { margin-right: 8px;  padding: 5px 8px;  font-size: 13px; line-height: 17px;  }
+    /* Product Box Section End */
+}
+@media(min-width:768px) and (max-width:991px){
+    .clnt-title                         { letter-spacing: 0; font-size: 18px; line-height: 28px; }
+    .inner-service-section p                { font-size: 16px; line-height: 24px;}
+    .clien-bx-img                       { margin:0 16px; }
+    .service-img-ban                    { margin-top: 30px; }
+    .tit-bx h3                              {  font-size: 26px; line-height: 38px;  }
+    .tit-bx p                                   { font-size: 16px; line-height:24px;  }
+    .product-trip-banner-section        { padding:60px 0;  }
+    .product-trip-banner-section h1     { margin-bottom: 12px;  }
+    .product-trip-banner-section p      { margin-bottom: 12px;  font-size: 16px; line-height: 24px; }
+    /* Cta Ssecion */
+    .service-first-cta-content h3           { font-size: 30px; line-height: 40px; }
+    .design-second-cta .service-first-cta-content { padding:24px 34px; border-radius: 20px; }
+    .design-second-cta p                    { font-size: 16px; line-height: 24px;   }
+    .design-second-cta .btn-ser-box         { margin-top:14px; }
+    /* Cta Ssecion */
+      /* Information Section Start */
+      .information-section-bx h3              {  font-size: 32px; line-height: 42px; }
+      .information-section-bx p               { font-size:16px; line-height: 24px;  }
+      .information-section-bx .white-box p    { padding:8px 18px; font-size: 16px; line-height: 24px; }
+      .img-info-bx                           { margin-top: 30px; }
+      /* Information Section End */
+      /* Products cycle Section Start */
+      .product-cycle-img { position: relative; }
+      .product-cycle-img  .shapeimg           { display: none; }
+      .product-cycle-imgbox                 { width: 100%; }
+      .product-cycle-imgbox .mainimg        {   width: 100%; object-fit: cover; object-position: center; height: 300px;}
+      .product-cycle-img:after { content:""; position: absolute; top:0; left: 0; background-color: rgba(0, 0, 0, 0.5); width: 100%; height: 100%; z-index: 2; }
+      .product-cycle-contentbox .tabs-nav-box ul li { margin-bottom: 20px;  padding-left: 16px; }
+      .product-cycle-contentbox .tabs-nav-box ul li h5 { margin-bottom: 6px;  font-size:20px; line-height: 30px;  }
+      .product-cycle-contentbox .tabs-nav-box ul li p {  font-size: 13px; line-height: 20px; }
+      .product-cycle-contentbox .experties-tabs-content {  border:3px solid #D9D9D9;}
+      .product-cycle-contentbox .experties-tabs-content h3 { margin-bottom: 10px; letter-spacing: -1px; }
+      .product-cycle-contentbox .experties-tabs-content p { margin-bottom: 10px; }
+      .product-cycle-contentbox .experties-tab-list li {  margin-bottom: 14px; }
+      .product-cycle-contentbox .experties-tab-list li:before {  width:24px; height: 24px; }
+      .product-cycle-contentbox .experties-tab-list { padding-left: 22px;  }
+      /* Products cycle Section End */
+    /* Product Box Section Start */
+    .product-detail-img                     { border-radius: 12px 12px 0px 0px;   }
+    .product-trip-col                       { margin-bottom: 14px; }
+    .prod-desc-box                          { padding: 14px; }
+    .prod-desc-box h5                       { margin-bottom: 8px; font-size: 18px; line-height:26px; letter-spacing: 0px;  }
+    .prod-desc-box h6                       { margin-bottom: 14px;  font-size: 12px; line-height: 16px;  }
+    .prod-desc-box p                        { margin-bottom: 14px;  font-size: 16px; line-height: 24px;  }
+    .prod-desc-box ul li                    { margin-right: 8px;  padding: 5px 8px;  font-size: 12px; line-height: 17px;  }
+    /* Product Box Section End */
+}
+@media(max-width:767px){
+    .clnt-title                         { letter-spacing: 0; font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:16px 0px; padding:0 20px; width:calc(100% / 2); }
+    .service-img-ban                    { margin-top: 30px; }
+    .client-section-content             { flex-wrap: wrap; }
+    .inner-service-section p            { font-size: 16px; line-height: 24px;}
+    .tit-bx h3                          {  font-size: 24px; line-height: 38px;  }
+    .tit-bx p                           { font-size: 16px; line-height:24px;  }
+    .product-trip-banner-section        { padding:40px 0; background-position: left center !important; }
+    .product-trip-banner-section h1     { margin-bottom: 10px;  }
+    .product-trip-banner-section p      { margin-bottom: 10px;  font-size: 16px; line-height: 24px; }
+    /* Cta Ssecion */
+    .service-first-cta-content h3           { font-size: 26px; line-height: 36px; }
+    .design-second-cta .service-first-cta-content { padding:24px 15px; border-radius: 20px; }
+    .design-second-cta p                    { font-size: 16px; line-height: 24px;   }
+    .design-second-cta .btn-ser-box         { margin-top:14px; }
+    /* Cta Ssecion */
+     /* Information Section Start */
+     .information-section-bx h3              {  font-size: 32px; line-height: 42px; }
+     .information-section-bx p               { font-size:16px; line-height: 24px;  }
+     .information-section-bx .white-box p    { padding:8px 18px; font-size: 16px; line-height: 24px; }
+     .img-info-bx                           { margin-top: 30px; }
+     /* Information Section End */
+     /* Products cycle Section Start */
+     .product-cycle-img { position: relative; }
+     .product-cycle-img  .shapeimg           { display: none; }
+     .product-cycle-imgbox                 { width: 100%; }
+     .product-cycle-imgbox .mainimg        {   width: 100%; object-fit: cover; object-position: center; height: 300px;}
+     .product-cycle-img:after { content:""; position: absolute; top:0; left: 0; background-color: rgba(0, 0, 0, 0.5); width: 100%; height: 100%; z-index: 2; }
+     .product-cycle-contentbox .tabs-nav-box ul { margin-bottom: 30px; }
+     .product-cycle-contentbox .tabs-nav-box ul li { margin-bottom: 6px;  padding-left: 16px; }
+     .product-cycle-contentbox .tabs-nav-box ul li h5 { margin-bottom: 6px;  font-size:20px; line-height: 30px;  }
+     .product-cycle-contentbox .tabs-nav-box ul li p {  font-size: 13px; line-height: 20px; }
+     .product-cycle-contentbox .experties-tabs-content {  border:3px solid #D9D9D9;}
+     .product-cycle-contentbox .experties-tabs-content h3 { margin-bottom: 10px; letter-spacing: -1px; }
+     .product-cycle-contentbox .experties-tabs-content p { margin-bottom: 10px; }
+     .product-cycle-contentbox .experties-tab-list li {  margin-bottom: 14px; }
+     .product-cycle-contentbox .experties-tab-list li:before {  width:24px; height: 24px; }
+     .product-cycle-contentbox .experties-tab-list { padding-left: 22px;  }
+     /* Products cycle Section End */
+     /* Product Box Section Start */
+     .product-detail-img                     { border-radius: 12px 12px 0px 0px;   }
+     .product-detail-img img                 { width: 100%; object-fit: cover; object-position: center;  }
+     .product-trip-col                       { margin-bottom: 14px; }
+     .prod-desc-box                          { padding: 14px; }
+     .prod-desc-box h5                       { margin-bottom: 8px; font-size: 18px; line-height:26px; letter-spacing: 0px;  }
+     .prod-desc-box h6                       { margin-bottom: 14px;  font-size: 12px; line-height: 16px;  }
+     .prod-desc-box p                        { margin-bottom: 14px;  font-size: 16px; line-height: 24px;  }
+     .prod-desc-box ul li                    { margin-right: 8px;  padding: 5px 8px;  font-size: 12px; line-height: 17px;  }
+     /* Product Box Section End */
+}

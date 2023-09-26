@@ -1,0 +1,112 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+/* common css starts */
+.process-number-box h4           { font-size: 42px; line-height: 52px; font-family: 'Montserrat'; font-weight: 800; }
+.common-gap                 { margin-bottom: 32px; }
+.common-box-padding         { padding: 90px 0px; }
+/* common css ends */
+.align-center { display: flex; align-items: center; -webkit-align-items: center; justify-content: center; -webkit-justify-content: center;}
+.contact-form label { display:inline-block; margin-bottom: 13px; font-size: 20px;}
+.contact-form .row { margin-top:15px; margin-bottom: 15px; }
+.contact-form p.desc { margin-top: 0; margin-bottom: 20px; font-size: 14px; line-height: 22px;}
+.contact-form textarea { resize: none; }
+a { transition:all 0.3s ease; }
+.contact-info a:hover , .contact-info a:focus ,.footer-info a:hover , .footer-info a:focus ,.fusion-contact-info-phone-number a:hover{ text-decoration: underline !important; }
+#wrapper .post-content h2 { font-weight: 700; }
+.rev-btn { background-color: transparent !important;  }
+.rev-btn:hover , .rev-btn:focus { background-color: transparent !important; padding:0 !important; border:0 !important; transform:none !important; } 
+.fusion-page-title-bar .fusion-page-title-row h1 ,.post-content h1 { text-shadow: 2px 2px rgba(0,0,0,0.5);}
+.rev-btn .fusion-button.button-flat.fusion-button-default-size.button-default { max-height: 43px; line-height: 20px !important; }
+.rev-btn .fusion-button.button-flat.fusion-button-default-size.button-default span{ line-height: 20px !important;}
+.post-content.post-details   { padding-top:3%;  }
+.post-content p.post-data { margin-left: 1.92%; margin-top:20px; margin-bottom:10px; }
+.our-lodges-content .fusion-column-wrapper { background-size:70% auto !important; }
+.post-data.fusion-single-line-meta { font-size: 14px; }
+.content-box-heading { font-family : "Mulish" !important; font-weight: 400 !important;  }
+.our-lodges-section .fusion-content-boxes.content-boxes-icon-with-title .heading-with-icon {  width: 45% !important; margin: 0 0 0 auto; }
+.our-lodges-section-detail  .fusion-content-boxes.content-boxes-icon-with-title .heading-with-icon {  width: 45% !important; margin: 0; }
+.our-lodges-section .fusion-content-boxes  ,.our-lodges-section-detail .fusion-content-boxes{ margin-bottom: 0 !important;}
+.fusion-widget-area .widget h4.widget-title { font-size: 28px !important; }
+.map-section .fusion-column-wrapper { margin-left: 0 !important; margin-right: 0 !important; }
+.post-content .error-page h3 { font-size: 34px; }
+.our-lodges-section { background-size:55% auto !important; }
+.single .fusion-meta-info { display:none; }
+.wpcf7-not-valid-tip { font-size: 12px !important; margin:5px 0 0; }
+.fusion-alert { font-size: 12px !important;  }
+.wpcf7 .wpcf7-form .wpcf7-response-output { padding: 15px 25px; }
+/* hire dedicated page css starts */
+.dedicated-banner-section   { padding: 170px 0px; background: linear-gradient(0deg, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), url("../images/dedicated-banner.jpg") no-repeat center center / cover; color: #fff; }
+.banner-text-box            { margin: 0 auto; max-width: 80%; text-align: center; }
+.banner-text-box h2         {  line-height: 82px; font-weight: 800;  }
+.banner-text-box p          { max-width: 83.5%; margin-left: auto; margin-right: auto; font-size: 22px; line-height: 38px; font-weight: 400; opacity: 0.8; }
+.banner-btn-box             { justify-content: center; }
+.banner-btn-box .theme-btn:last-child               { margin-left: 30px; }
+.banner-btn-box .theme-btn:last-child a             { color: #fff; }
+.banner-btn-box .theme-btn:last-child a:hover       { border-color: #0487FF; background: transparent; color: #0487FF; }
+/* hire dedicated page css ends */
+/* our clients css starts */
+.dedicated-page .ourclient-title { text-align: left; }
+.dedicated-page .slick-prev, .dedicated-page .slick-next { display: none !important; }
+.dedicated-page .hire-now-wrap  { color: #fff; padding: 36px 0px; background: linear-gradient(270deg, rgba(8, 45, 63, 0) -2.99%, rgba(8, 45, 63, 0.86) 16.82%, #082D3F 46.4%, rgba(8, 45, 63, 0.85) 78.88%, rgba(8, 45, 63, 0) 108.1%), url("../images/hire-now-bg.png")  no-repeat center center / cover; }
+.dedicated-page h2              { margin-bottom: 40px; font-family: 'Montserrat'; }
+.dedicated-page .hire-now-section h6              { margin-bottom: 2px; color: #fff; font-weight: 700;  }
+/* our clients css ends */
+/* hire process section starts */
+.hire-process-tree              { margin-top: -85px; width: calc(100% / 5 - 5px); display: inline-block;}
+/* .hire-process-title-box         { padding: 90px 0px; } */
+.hire-process-tree-box          { background-color: #0C1D3D; padding: 30px 0px; }
+/* .hire-process-tree-box > .container { justify-content: space-between; } */
+.process-number-box             { padding: 25px 28px; box-shadow: 0px 4px 20px 9px rgba(0, 0, 0, 0.06); background-color: #fff; border-radius: 100%; display: inline-block; }
+.process-number-box h4          { text-align: center; }
+.process-description            { margin-top: 30px; }
+.process-description p          { font-size: 24px; line-height: 32px; font-family: 'Montserrat'; font-weight: 700; color: #fff;  }
+.process-number-box { position: relative;}
+.hire-process-tree .process-number-box::before { content: ''; background: url('../images/border-pattern1.svg')no-repeat; background-size: 100% auto; height: 64px; width: 221px; position: absolute; top: 25px; right: -221px; display: block;}
+.hire-process-tree:nth-child(2n) .process-number-box::before { content: ''; background: url('../images/border-pattern2.svg')no-repeat; background-size: 100% auto; height: 64px; width: 221px; position: absolute; top: 25px; right: -221px; display: block;}
+.hire-process-tree:last-child .process-number-box::before { display: none;}
+/* hire process section ends */
+/* why-choose-section starts  */
+.our-speciality-box > div:first-child { padding: 30px; border-radius: 16px; background: #EAFAF6; display: inline-block; }
+.our-speciality-box > * { }
+/* why-choose-section ends  */
+ 
+
+/* responsive starts */
+@media(min-width:1200px) and (max-width:1500px){
+    #post-404page .title-heading-left { font-size: 46px !important; }
+    #post-404page .error-message { font-size: 150px; }
+   
+ }
+@media(min-width:992px) and (max-width:1199px){ 
+    .map-section  .fusion-google-map { height:400px !important; }
+    .fusion-body .fusion-flex-container.fusion-builder-row-6.map-section { padding-left:0 !important; padding-right:0 !important; }
+   
+}
+@media(min-width:768px) and (max-width:991px){ 
+    .map-section  .fusion-google-map { height:350px !important; }
+    .fusion-body .fusion-flex-container.fusion-builder-row-6.map-section { padding-left:0 !important; padding-right:0 !important; }
+   
+}
+@media(max-width:767px){
+    .fusion-imageframe img { max-width: 66%; }
+    #rev_slider_1_1_wrapper .hesperiden.tparrows { width:30px !important; height:30px !important; }
+    #rev_slider_1_1_wrapper .hesperiden.tparrows:before { font-size:15px !important; line-height: 30px !important; }
+    #rev_slider_1_1_wrapper .hesperiden.tparrows.tp-rightarrow { transform: translate(-40px, -15px) !important; }
+    #rev_slider_1_1_wrapper .hesperiden.tparrows.tp-leftarrow {  transform: translate(10px, -15px) !important; }
+    #wrapper .post-content h2 { font-size: 26px !important; line-height: 34px !important; }
+    #wrapper .post-content h2.content-box-heading {  font-size: 18px !important; line-height: 24px !important;}
+     .fusion-content-boxes .fusion-column.content-box-column { width: 50% !important; margin-bottom: 10px !important; display: inline-block; }
+    .our-lodges-mob-section .fusion-content-boxes { margin-bottom: 0 !important;}
+    .fusion-body .fusion-flex-container.fusion-builder-row-6.map-section { padding-left:0 !important; padding-right:0 !important; }
+    .map-section  .fusion-google-map { height:300px !important; }
+    #post-404page .error-message { font-size: 70px; }
+    .post-content .error-page h3 { margin:10px 0; font-size: 28px !important; }
+
+}

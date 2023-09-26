@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="74.9759738%" y1="-5.55111512e-15%" x2="25.0240262%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#048FFF" offset="0%"></stop>
+            <stop stop-color="#093EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-26-Copy">
+            <g>
+                <g>
+                    <rect id="Rectangle-17" fill-opacity="0" fill="#EBF1F7" x="0" y="0" width="200" height="200"></rect>
+                    <g id="Group-25" transform="translate(44.970414, 22.485207)">
+                        <rect id="Rectangle-51" fill="url(#linearGradient-1)" x="0" y="0" width="111.242604" height="157.39645" rx="5.28000011"></rect>
+                        <polygon id="Line" fill-opacity="0.64" fill="#FFFFFF" fill-rule="nonzero" points="41.6568047 19.704142 41.6568047 14.0236686 69.5857988 14.0236686 69.5857988 19.704142"></polygon>
+                        <rect id="Rectangle-53" fill="#FFFFFF" x="22.2485207" y="30.9171598" width="66.7455621" height="67.4556213"></rect>
+                        <polygon id="Rectangle-53-Copy-3" fill="#47EBC6" points="22.2485207 68.3109539 54.544066 50.2175716 88.9940828 81.7280563 88.9940828 98.3727811 22.2485207 98.3727811"></polygon>
+                        <polygon id="Line-2" fill-opacity="0.64" fill="#FFFFFF" fill-rule="nonzero" points="29.0828402 113.890533 29.0828402 102.529586 84.9408284 102.529586 84.9408284 113.890533"></polygon>
+                        <polyline id="Rectangle-53-Copy" fill="#FFFFFF" points="103.926012 98.3727811 94.556213 98.3727811 94.556213 30.9171598 103.926012 30.9171598"></polyline>
+                        <polyline id="Rectangle-53-Copy-2" fill="#FFFFFF" transform="translate(13.028095, 64.644970) scale(-1, 1) translate(-13.028095, -64.644970) " points="17.7129946 98.3727811 8.34319527 98.3727811 8.34319527 30.9171598 17.7129946 30.9171598"></polyline>
+                        <ellipse id="Oval-5" fill="#FFFFFF" cx="58.4023669" cy="137.721893" rx="8.34319527" ry="8.43195266"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

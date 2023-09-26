@@ -1,0 +1,627 @@
+.mb-0                                   { margin-bottom: 0 !important; }
+.pb-0                                   { padding-bottom: 0 !important; }
+.pt-0                                   { padding-top: 0 !important; }
+.service-bannerbx h1                    { font-weight: 800; font-family: 'Montserrat'; }
+.service-banner-image img                   { height:587px; }
+.client-section-content                 { border-bottom: 1px solid rgba(139, 162, 189, 0.32); display: flex; align-items: center; justify-content: space-between; }
+.clnt-title                             {  font-family: 'Poppins'; text-align: center; font-weight: 500; font-size: 20px; line-height: 32px; color: rgba(32, 26, 45, 0.6); letter-spacing: 0; text-transform: none;}
+p:empty                                 { display: none !important; }
+.page-template-service-template         { padding-top: 108px !important; }
+/* Service Section  */
+.service-content-para                   { margin-bottom: 120px; }
+.service-para-title                     { font-family: 'Montserrat'; font-weight: 800; font-size: 54px; line-height: 68px; color: #0C1D3D; }
+.service-content-para p                 { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; color: rgba(0, 0, 0, 0.8); }
+.para-info-box                          { margin-top: 20px; }
+.list-para-box h4                       { margin-bottom: 32px; font-family: 'Montserrat'; font-weight: 700; font-size: 32px; line-height: 42px; color: #000000; }
+.list-para-box p                        { font-family: 'Poppins'; font-weight: 400; font-size: 20px; line-height: 34px; color: rgba(0, 0, 0, 0.6); }
+.list-para-box                          { align-self: center; }
+.service-list-content > .row            { margin:0 -25px; }
+.service-item-bx                        { margin-bottom: 50px; padding-left: 25px; padding-right: 25px; }
+.service-item-wrp                       { height: 100%; padding:40px 34px; border-radius: 16px; -webkit-transition: .6s cubic-bezier(.215, .61, .355, 1); transition: .6s cubic-bezier(.215, .61, .355, 1); }
+.service-item-bx:hover .service-item-wrp { transform: scale(0.92); }
+.service-item-wrp .img-wrp              { margin-bottom: 16px; width:64px; height:64px; border-radius: 16px; display: flex; align-items: center; justify-content: center;   }
+.service-item-wrp .service-item-des h5  { border-bottom: 1px solid; padding-bottom: 16px; margin-bottom: 16px; font-family: 'Montserrat'; font-weight: 600; letter-spacing: -1.5px; line-height: 1.220;  }
+.service-item-wrp .service-item-des p   { font-family: 'Poppins'; font-weight: 500; font-size: 18px; line-height: 30px; }
+/* Service TechStack start*/
+.service-section-techstack              { background: #F3F5FC; }
+/* Service TechStack End*/
+/*  Our Business Process Section start */
+.our-business-process-section .business-process-item { padding: 48px; border: 2px solid #CCCCCC; height:100%;}
+.business-process-box                   { margin-bottom:80px; }
+.business-process-wrap                  { margin-top:100px; }
+.business-process-item img              { margin:-100px 0 32px; }
+.business-process-item h5               { margin-bottom:32px; font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 32px; line-height: 36px; /* identical to box height, or 112% */ color: #121212; }
+.business-process-item p                { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; color: #585E63; }
+/*  Our Business Process Section End */
+/* Service Techstack Tab section start */
+.techstacktab-service .tabs-nav-box     { padding: 0; background-color: transparent; }
+.techstacktab-service .tabs-nav-box ul li:after      { display: none; }
+/* .techstacktab-service .tabs-nav-box ul li .service-techstack-item:after    { content:""; transition: all 0.3s ease-in; position: absolute;  border-radius: 4px; width:100%; height: 100%; border: 3px solid #F9A650; background-color: transparent; left: 0; top:0; opacity: 0;  } */
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon        { margin-bottom: 20px; margin-right: 0; width: 102px; height: 102px; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon img  { width: auto !important; height: auto !important; margin-right: 0; }
+.techstacktab-service .tabs-nav-box ul li span       { display: block; }
+.techstacktab-service .tabs-nav-box ul               { flex-wrap: wrap; margin:0 -20px; }
+.techstacktab-service .tabs-nav-box ul li           { margin-bottom: 0; padding:0 20px; width:calc(100% / 5);  } 
+.techstacktab-service .tabs-nav-box ul li .service-techstack-item { position: relative; transition: all 0.3s ease-in;padding: 65px 52px; width: 100%; height:100%; text-align: center; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.2); border-radius: 4px; display: flex; justify-content: center; align-items: center; flex-direction: column; }
+.techstacktab-service .tabs-nav-box ul li.active .service-techstack-item, .techstacktab-service .tabs-nav-box ul li:hover .service-techstack-item     { border: 3px solid; box-shadow: 0px 24px 60px rgba(184, 191, 215, 0.4); }
+.techstacktab-service .tabs-nav-box ul li:hover .service-techstack-item:after ,.techstacktab-service .tabs-nav-box ul li.active .service-techstack-item:after{ opacity: 1; }
+.techstacktab-service                   { margin-top: 60px; }
+.service-techstack-tabs-content         { margin-top: 80px; }
+.service-techstack-content-box h5       { margin-bottom:32px; font-family: 'Montserrat'; font-weight: 700; font-size: 40px; line-height: 52px; color: #0C1D3D;  }
+.service-techstack-content-box p        { padding-right: 20px; margin-bottom: 0; font-family: 'Poppins'; font-weight: 500; font-size: 20px; line-height: 34px; color: rgba(0, 0, 0, 0.6); }
+.service-tabstack-techicon              { margin:0 -20px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; }
+.service-tabstack-techicon li           { margin:0 20px 40px; width: 116px; height: 116px; padding:10px; display: flex; align-items: center; justify-content: center; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.2); box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.12); border-radius: 12px; }
+.service-tabstack-techicon li:nth-child(10n - 4) { margin-left: -100px; }
+/* Service Techstack Tab section End */
+/* Served in industries Section start */
+.serviced-indus-imgbox img              { height: 500px; }
+.serviced-indus-box h5                  { margin-bottom: 32px; font-family: 'Montserrat'; font-weight: 700; font-size: 32px; line-height: 39px; color: #000000; }
+.serviced-indus-box p                   { margin-bottom: 0; font-family: 'Poppins'; font-weight: 500; font-size: 20px; line-height: 34px; color: rgba(0, 0, 0, 0.6); }
+.serviced-indus-wrap                    { max-width: 80%; margin: 0 auto; }
+.service-ind-acc-list .accordion        { margin-top: 0; }
+.service-ind-acc-list .acc-listbox      { margin-bottom: 16px;  background: #FFFFFF; box-shadow: 0px 14px 80px rgba(137, 149, 189, 0.1); border-radius: 8px; }
+.service-ind-acc-list .acc-listbox > a    { display: flex; align-items: center; padding:24px; position: relative;   font-size: 22px; line-height: 28px; text-decoration: none;}
+.service-ind-acc-list .acc-listbox > a img { margin-right: 20px; }
+.service-ind-acc-list .acc-listbox > a span { width:calc(100% - 50px); display: block; font-family: 'Poppins'; font-weight: 600; font-size: 20px; line-height: 30px; color: #000000; }
+.service-ind-acc-list .title-desc       { padding:0 24px 24px; padding-left: 74px; display: none; }
+.service-ind-acc-list .title-desc p     {  font-family: 'Poppins'; font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(0, 0, 0, 0.6);}
+.service-ind-acc-list .acc-listbox >  a:after { content:''; position: absolute; top:50%; right:24px; width:30px; height:30px; top:50%; background: url('https://www.yudiz.com/wp-content/uploads/2023/02/arrow-accordian.svg')no-repeat center center/cover; transform:  translateY(-50%); transform-origin: center center; transition: all 0.5s ease; }
+.service-ind-acc-list .acc-listbox.current > a:after           { transform:translateY(-50%) rotate(-180deg) ; }
+/* Served in industries Section End */
+/* Development Journey Section Start */
+.dev-jour-desc                          { margin-top: 16px; }
+.dev-jour-detailbox h5                  { margin-bottom: 16px; font-family: 'Poppins'; font-weight: 700; font-size: 24px; line-height: 32px; color: #121212; }
+.dev-jour-detailbox p                   { font-family: 'Poppins'; font-weight: 400; font-size: 18px; line-height: 28px; color: #000000; opacity: 0.75; }
+.dev-jour-detailbox                     { padding: 40px 32px; width: 100%; height: 100%; transition: all 0.3s ease; }
+.dev-jour-detailbox:hover               { background: #FFFFFF; box-shadow: 24px 14px 100px rgba(137, 149, 189, 0.24); border-radius: 32px; }
+.development-journey-section .container { position: relative; }
+.development-journey-section .container:after ,.development-journey-section .container:before { content:""; position: absolute; background: url('https://www.yudiz.com/wp-content/uploads/2023/02/development-jour-bg.svg')no-repeat center center/cover; width:121px; height:111px; }
+.development-journey-section .container:before { left:0; top:0; }
+.development-journey-section .container:after { right:0; bottom:0; transform: rotate(180deg);}
+/* Development Journey Section End */
+/* Cta First Styart */
+.service-first-cta-content              { padding:60px 0; position: relative; border-radius: 40px; background:#0C1D3D;}
+.service-first-cta h3                   { font-family: 'Montserrat'; font-weight: 800; font-size: 50px; line-height: 65px; color: #FFFFFF; }
+.service-first-cta p                    { font-family: 'Poppins'; font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(255, 255, 255, 0.8); }
+.btn-ser-box                            { margin-top: 40px; display: flex; align-items: center; justify-content: center; }
+.btn-ser-box > div                      { margin-right: 24px; }
+.btn-ser-box > div:last-child           { margin-right: 0; }
+ .img-pattern-box img { position: absolute; }
+.service-first-cta-content .img-pattern-box .left-pattern          { left:0; bottom:0; width:297px; height:260px;}
+.service-first-cta-content .img-pattern-box .right-pattern         { right:0; bottom:0; width:240px; height:331px; }
+/* Cta End */
+/* Cta Second Start*/
+.cta-sec-ser-content                    { padding:60px 80px 50px; background: #FFF8E5; border-radius: 40px; }
+.cta-sec-ser-content h4                 { font-family: 'Montserrat'; font-weight: 500; font-size: 50px; line-height: 65px; color: #0C1D3D; }
+.cta-sec-ser-content h4 span            { display: block; font-weight: 800; }
+.cta-btn-bx                             { margin-top: 38px; }
+/* Cta Second End */
+/* Cta Third Start */
+.cta-third-ser-section                  { background: #EBF5FF; }
+.cta-third-ser-content                  { padding:60px 62px; background: #D3E7FE; border-radius: 24px; }
+.cta-third-desc h4                      { margin-bottom: 16px; font-family: 'Montserrat'; font-weight: 800; font-size: 40px; line-height: 52px; color: #0C1D3D; }
+.cta-third-desc p                       { margin-bottom: 50px;  }
+.cta-third-ser-section p                { font-family: 'Poppins'; font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(0, 0, 0, 0.8); }
+.cta-third-ser-section img              { margin-bottom: 16px; }
+/* Cta Third End */
+/* Cta Fourth Start */
+.cta-four-section                       { position: relative; background-position: center center; background-size: cover; background-repeat: no-repeat; }
+.cta-four-section h4                    { font-family: 'Montserrat'; font-weight: 800; font-size: 50px; line-height: 65px; color: #FFFFFF; }
+.cta-four-section h6                    { color: #0487FF; }
+.cta-four-ser-conten .row               { justify-content: space-between; }
+.cta-four-section .container            { position: relative; z-index: 15; }
+.cta-four-section .img-pattern-box img  { opacity: 0.28; }
+.cta-four-section .img-pattern-box .left-pattern { left:0; top:0; } 
+.cta-four-section .img-pattern-box .right-pattern { right:0; top:0; transform: scaleX(-1);}
+/* Cta Fourth End */
+/* serser-tech-box */
+.ser-tech-box h5                        { font-family: 'Montserrat'; font-style: normal; font-weight: 800; font-size: 54px; line-height: 68px; color: #0C1D3D; }
+.ser-tech-box h4                        { margin-bottom: 40px; font-family: 'Montserrat'; font-weight: 500; font-size: 32px; line-height: 42px; color: #000000; }
+.ind-list-point li                      { margin-bottom: 24px; padding-left: 48px; position: relative; font-family: 'Poppins'; font-weight: 600; font-size: 20px; line-height: 30px; color: #000000; }
+.ind-list-point li:before               { content:""; position: absolute; background:url('https://www.yudiz.com/wp-content/uploads/2023/03/tick-arrow-circle.svg')no-repeat center center/cover; left:0; top:0px; width:32px; height:32px;  }
+.ind-list-point li a                    { color: #000000; text-decoration: underline; }
+.ind-list-point li a:hover              { text-decoration: none; }
+/* other css */
+.page-id-27734 .service-list-content > .row { justify-content: center; }
+.page-id-27775 .service-tabstack-techicon { justify-content: flex-start; }
+.page-id-27775 .service-tabstack-techicon li { margin: 0 16px 32px; width: 80px; height: 80px; }
+.page-id-27775 .service-tabstack-techicon li:nth-child(10n-4) { margin-left:16px; }
+@media(min-width:1400px) and (max-width:1600px){
+.clnt-title                             { font-size: 18px; line-height: 28px; }
+.page-template-service-template         { padding-top: 106px !important; }
+.service-banner-image img                   { height:488px; }
+/* Service Section  */
+.service-content-para                   { margin-bottom: 100px; }
+ .service-para-title                    { font-size: 44px; line-height: 58px;  }
+.service-content-para p                 {  font-size: 20px; line-height: 32px;  }
+.list-para-box h4                       { margin-bottom: 26px; font-size: 28px; line-height:36px;  }
+.list-para-box p                        { font-size: 18px; line-height: 30px;  }
+.service-list-content > .row            { margin:0 -20px; }
+.service-item-bx                        { margin-bottom: 40px; padding-left: 20px; padding-right: 20px; }
+.service-item-wrp                       { padding:30px 20px; border-radius: 12px;  }
+.service-item-wrp .img-wrp              { margin-bottom: 12px; width:50px; height:50px; border-radius: 12px;   }
+.service-item-wrp .service-item-des h5  { padding-bottom: 12px; margin-bottom: 12px; letter-spacing: -1px; }
+.service-item-wrp .service-item-des p   {  font-size: 16px; line-height: 26px; }
+/* Service Techstack Tab section start */
+/* .techstacktab-service .tabs-nav-box ul li .service-techstack-item:after    { border-width: 2px; } */
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon        { margin-bottom: 16px; width: 80px; height:80px; }
+.techstacktab-service .tabs-nav-box ul               {  margin:0 -16px; }
+.techstacktab-service .tabs-nav-box ul li           { padding:0 16px;   } 
+.techstacktab-service .tabs-nav-box ul li .service-techstack-item { padding:43px; }
+.techstacktab-service                   { margin-top: 50px; }
+.service-techstack-tabs-content         { margin-top: 60px; }
+.service-techstack-content-box h5       { margin-bottom:26px;font-size: 34px; line-height: 42px; }
+.service-techstack-content-box p        { font-size: 18px; line-height: 30px; }
+.service-tabstack-techicon              { margin:0 -20px;  }
+.service-tabstack-techicon li           { margin:0 20px 30px; width: 85px; height: 85px; padding:8px;  }
+.service-tabstack-techicon li:nth-child(10n - 4) { margin-left: -62px; }
+.service-tabstack-techicon li img       { max-height: 100%; }
+/* Service Techstack Tab section End */
+/* Served in industries Section start */
+.serviced-indus-imgbox img              { height: 397px; }
+.serviced-indus-box h5                  { margin-bottom: 26px; font-size: 26px; line-height: 32px; }
+.serviced-indus-box p                   {  font-size: 18px; line-height: 30px; }
+.serviced-indus-wrap                    { max-width: 80%;  }
+.service-ind-acc-list .acc-listbox      { margin-bottom: 12px; }
+.service-ind-acc-list .acc-listbox > a    {  padding:18px;  font-size: 20px; line-height: 26px; }
+.service-ind-acc-list .acc-listbox > a img { margin-right: 16px; width:25px; }
+.service-ind-acc-list .acc-listbox > a span { width:calc(100% - 36px); font-size: 18px; line-height: 26px;  }
+.service-ind-acc-list .title-desc       { padding:0 20px 20px; padding-left: 56px; }
+.service-ind-acc-list .title-desc p     {   font-size: 16px; line-height: 24px; }
+.service-ind-acc-list .acc-listbox  a:after { top:50%; right:20px; width:25px; height:25px;   }
+/* Served in industries Section End */
+/* Development Journey Section Start */
+.dev-jour-desc                          { margin-top: 12px; }
+.dev-jour-detailbox h5                  { margin-bottom: 12px; font-size:22px; line-height: 32px;  }
+.dev-jour-detailbox p                   {  font-size: 16px; line-height: 24px; }
+.dev-jour-detailbox                     { padding: 30px 22px; }
+.dev-jour-detailbox:hover               {  border-radius: 26px; }
+.development-journey-section .container:after ,.development-journey-section .container:before {  width: 94px; height: 78px;}
+/* Development Journey Section End */
+    /*  Our Business Process Section start */
+    .our-business-process-section .business-process-item { padding: 30px; }
+    .business-process-box                           { margin-bottom:60px; }
+    .business-process-wrap                          { margin-top:80px; }
+    .business-process-item img                      { margin:-69px 0 16px; width:80px; }
+    .business-process-item h5                       { margin-bottom: 14px; font-size: 26px; line-height: 30px; }
+    .business-process-item p                        { font-size: 20px; line-height: 34px; }
+    /*  Our Business Process Section End */
+/* Cta First Styart */
+.service-first-cta-content              { padding:50px 0; border-radius: 30px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 40px; line-height: 55px;  }
+.service-first-cta p                    { font-size: 18px; line-height: 28px;  }
+.btn-ser-box                            { margin-top: 30px;  }
+.btn-ser-box > div                      { margin-right: 20px; }
+.service-first-cta-content .img-pattern-box .left-pattern          { width:200px; height:175px;}
+.service-first-cta-content .img-pattern-box .right-pattern         {  width:160px; height:220px; }
+/* Cta End */
+/* Cta Second Start*/
+.cta-sec-ser-content                    { padding:50px 70px 40px; border-radius: 30px; }
+.cta-btn-bx                             { margin-top: 30px; }
+/* Cta Second End */
+/* Cta Third Start */
+.cta-third-ser-content                  { padding:50px 52px;  border-radius: 24px; }
+.cta-third-desc h4                      { margin-bottom: 14px;  font-size: 34px; line-height: 44px;  }
+.cta-third-desc p                       { margin-bottom: 40px;  }
+.cta-third-ser-section p                { font-size: 18px; line-height: 28px;  }
+.cta-third-ser-section img              { margin-bottom: 14px; }
+.cta-four-section .img-pattern-box img  { opacity: 0.2; width: 40%; }
+/* Cta Third End */
+/* serser-tech-box */
+.ser-tech-box h5                        {  font-size: 48px; line-height: 60px;  }
+.ser-tech-box h4                        { margin-bottom: 30px;  font-size: 28px; line-height: 38px;  }
+.ind-list-point li                      { margin-bottom: 20px; padding-left: 34px; font-size: 18px; line-height: 26px; }
+.ind-list-point li:before               {  width:24px; height:24px;  }
+/* other css */
+.page-id-27775 .service-tabstack-techicon li { margin: 0 16px 32px; width: 80px; height: 80px; }
+.page-id-27775 .service-tabstack-techicon li:nth-child(10n-4) { margin-left:16px; }
+}
+@media(min-width:1200px) and (max-width:1399px){
+    .service-banner-image img                   { height:420px; }
+    .page-template-service-template         { padding-top: 94px !important; }
+    .service-bannerbx h1                { font-size: 46px; line-height: 57px; }
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:0 20px; }
+/* Service Section  */
+.service-content-para                   { margin-bottom: 60px; }
+ .service-para-title                    { font-size: 38px; line-height: 52px; }
+.service-content-para p                 {  font-size: 18px; line-height: 30px;  }
+.list-para-box h4                       { margin-bottom: 20px; font-size: 24px; line-height: 32px;  }
+.list-para-box p                        { font-size: 18px; line-height: 30px;  }
+.service-list-content > .row            { margin:0 -15px; }
+.service-item-bx                        { margin-bottom: 24px; padding-left: 15px; padding-right: 15px; }
+.service-item-wrp                       { padding:24px 16px; border-radius: 12px;  }
+.service-item-wrp .img-wrp              { margin-bottom: 12px; width:40px; height:40px; border-radius: 12px;   }
+.service-item-wrp .img-wrp img          { width: 24px; }
+.service-item-wrp .service-item-des h5  { padding-bottom: 12px; margin-bottom: 12px; letter-spacing: -1px; }
+.service-item-wrp .service-item-des p   {  font-size: 16px; line-height: 26px; }
+/* Service Techstack Tab section start */
+/* .techstacktab-service .tabs-nav-box ul li .service-techstack-item:after    { border-width: 2px; } */
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon        { margin-bottom: 12px; width: 80px; height:80px;}
+.techstacktab-service .tabs-nav-box ul               {  margin:0 -12px; }
+.techstacktab-service .tabs-nav-box ul li           { padding:0 12px;   } 
+.techstacktab-service .tabs-nav-box ul li .service-techstack-item { padding:32px; }
+.techstacktab-service                   { margin-top: 40px; }
+.service-techstack-tabs-content         { margin-top: 55px; }
+.service-techstack-content-box h5       { margin-bottom:20px;font-size: 24px; line-height: 34px; }
+.service-techstack-content-box p        { font-size: 16px; line-height: 24px; }
+.service-tabstack-techicon              { margin:0 -16px;  }
+.service-tabstack-techicon li           { margin:0 16px 24px; width: 80px; height: 80px; padding:5px;  }
+.service-tabstack-techicon li:nth-child(10n - 4) { margin-left: -30px; }
+.service-tabstack-techicon li img       { max-height: 100%; }
+/* Service Techstack Tab section End */
+/* Served in industries Section start */
+.serviced-indus-imgbox img              { height: 350px; }
+.serviced-indus-box h5                  { margin-bottom: 20px; font-size: 22px; line-height: 32px; }
+.serviced-indus-box p                   {  font-size: 16px; line-height: 24px; }
+.serviced-indus-wrap                    { max-width: 80%;  }
+.service-ind-acc-list .acc-listbox      { margin-bottom: 10px; }
+.service-ind-acc-list .acc-listbox > a    {  padding:14px;  font-size: 18px; line-height: 24px; }
+.service-ind-acc-list .acc-listbox > a img { margin-right: 12px; width:20px; }
+.service-ind-acc-list .acc-listbox > a span { width:calc(100% - 36px); font-size: 16px; line-height: 22px;  }
+.service-ind-acc-list .title-desc       { padding:0 14px 14px; padding-left: 50px; }
+.service-ind-acc-list .title-desc p     {   font-size: 16px; line-height: 24px; }
+.service-ind-acc-list .acc-listbox  a:after { top:50%; right:20px; width:20px; height:20px;   }
+/* Served in industries Section End */
+/* Development Journey Section Start */
+.dev-jour-desc                          { margin-top: 10px; }
+.dev-jour-detailbox h5                  { margin-bottom: 10px; font-size:20px; line-height: 30px;  }
+.dev-jour-detailbox  img                { width: 70px; }
+.dev-jour-detailbox p                   {  font-size: 16px; line-height: 24px; }
+.dev-jour-detailbox                     { padding: 22px 16px; }
+.dev-jour-detailbox:hover               {  border-radius: 16px; }
+.development-journey-section .container:after ,.development-journey-section .container:before {  width: 94px; height: 78px;}
+/* Development Journey Section End */
+    /*  Our Business Process Section start */
+    .our-business-process-section .business-process-item { padding: 20px; }
+    .business-process-box                           { margin-bottom:60px; }
+    .business-process-wrap                          { margin-top:60px; }
+    .business-process-item img                  { margin: -60px 0 17px; width: 60px; }
+    .business-process-item h5                       { margin-bottom: 9px; font-size: 24px; line-height: 30px; }
+    .business-process-item p                        { font-size: 18px; line-height: 30px; }
+    /*  Our Business Process Section End */
+    /* Cta First Styart */
+.service-first-cta-content              { padding:40px 0; border-radius: 30px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 32px; line-height: 44px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 24px;  }
+.btn-ser-box                            { margin-top: 20px;  }
+.btn-ser-box > div                      { margin-right: 14px; }
+.service-first-cta-content .img-pattern-box .left-pattern          { width:200px; height:175px;}
+.service-first-cta-content .img-pattern-box .right-pattern         {  width:160px; height:220px; }
+/* Cta End */
+/* Cta Second Start*/
+.cta-sec-ser-content                    { padding:40px 60px 30px; border-radius: 30px; }
+.cta-btn-bx                             { margin-top: 24px; }
+/* Cta Second End */
+/* Cta Third Start */
+.cta-third-ser-content                  { padding:40px 42px;  border-radius: 24px; }
+.cta-third-desc h4                      { margin-bottom: 12px;  font-size: 26px; line-height: 36px;  }
+.cta-third-desc p                       { margin-bottom: 30px;  }
+.cta-third-ser-section img              { margin-bottom: 12px; }
+.cta-four-section .img-pattern-box img  { opacity: 0.2; width: 40%; }
+/* Cta Third End */
+/* serser-tech-box */
+.ser-tech-box h5                        {  font-size: 42px; line-height: 54px;  }
+.ser-tech-box h4                        { margin-bottom: 25px;  font-size: 24px; line-height: 34px;  }
+.ind-list-point li                      { margin-bottom: 16px; padding-left: 30px; font-size: 18px; line-height: 26px; }
+.ind-list-point li:before               {  width:22px; height:22px;  }
+/* other css */
+.page-id-27775 .service-tabstack-techicon li { margin: 0 12px 24px; width: 60px; height: 60px; }
+.page-id-27775 .service-tabstack-techicon li:nth-child(10n-4) { margin-left:12px; }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .page-template-service-template         { padding-top: 88px !important; }
+    .service-bannerbx h1                { font-size: 40px; line-height: 52px; }
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:0 16px; }
+    .service-banner-image img                   { height:340px; }
+/* Service Section  */
+.service-content-para                   { margin-bottom: 50px; }
+ .service-para-title                    { font-size: 32px; line-height: 42px; }
+.service-content-para p                 {  font-size: 16px; line-height: 22px;  }
+.list-para-box h4                       { margin-bottom: 14px; font-size: 22px; line-height: 30px;  }
+.list-para-box p                        { font-size: 16px; line-height: 22px;  }
+.service-list-content > .row            { margin:0 -12px; }
+.service-item-bx                        { margin-bottom: 20px; padding-left: 12px; padding-right: 12px; }
+.service-item-wrp                       { padding:20px 12px; border-radius: 10px;  }
+.service-item-wrp .img-wrp              { margin-bottom: 10px; width:30px; height:30px; border-radius: 12px;   }
+.service-item-wrp .img-wrp img          { width: 18px; }
+.service-item-wrp .service-item-des h5  { padding-bottom: 10px; margin-bottom: 10px; letter-spacing: -0.5px; }
+.service-item-wrp .service-item-des p   {  font-size: 16px; line-height: 22px; }
+/* Service Techstack Tab section start */
+/* .techstacktab-service .tabs-nav-box ul li .service-techstack-item:after    { border-width: 2px; } */
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon        { margin-bottom: 10px; width: 60px; height:60px; }
+.techstacktab-service .tabs-nav-box ul               {  margin:0 -10px; }
+.techstacktab-service .tabs-nav-box ul li           { padding:0 10px;   } 
+.techstacktab-service .tabs-nav-box ul li .service-techstack-item { padding:24px; }
+.techstacktab-service                   { margin-top: 30px; }
+.service-techstack-tabs-content         { margin-top: 40px; }
+.service-techstack-content-box h5       { margin-bottom:12px;font-size: 20px; line-height: 30px; }
+.service-techstack-content-box p        { font-size: 16px; line-height: 22px; }
+.service-tabstack-techicon              { margin:0 -12px;  }
+.service-tabstack-techicon li           { margin:0 14px 24px; width: 60px; height: 60px; padding:4px;  }
+.service-tabstack-techicon li:nth-child(10n - 4) { margin-left: -24px; }
+.service-tabstack-techicon li img       { max-height: 100%; }
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon img { width:25px !important; }
+/* Service Techstack Tab section End */
+/* Served in industries Section start */
+.serviced-indus-imgbox img              { height: 279px; }
+.serviced-indus-box h5                  { margin-bottom: 12px; font-size: 20px; line-height: 30px; }
+.serviced-indus-box p                   {  font-size: 16px; line-height: 22px; }
+.serviced-indus-wrap                    { max-width: 80%;  }
+.service-ind-acc-list .acc-listbox      { margin-bottom: 8px; }
+.service-ind-acc-list .acc-listbox > a    {  padding:10px;  font-size: 16px; line-height: 22px; }
+.service-ind-acc-list .acc-listbox > a img { margin-right: 12px; width:16px; }
+.service-ind-acc-list .acc-listbox > a span { width:calc(100% - 36px); font-size: 16px; line-height: 22px;  }
+.service-ind-acc-list .title-desc       { padding:0 12px 12px; padding-left: 30px; }
+.service-ind-acc-list .title-desc p     {   font-size: 14px; line-height: 22px; }
+.service-ind-acc-list .acc-listbox  a:after { top:50%; right:12px; width:14px; height:14px;   }
+/* Served in industries Section End */
+/* Development Journey Section Start */
+.dev-jour-desc                          { margin-top: 10px; }
+.dev-jour-detailbox h5                  { margin-bottom: 10px; font-size:18px; line-height: 24px;  }
+.dev-jour-detailbox  img                { width: 40px; }
+.dev-jour-detailbox p                   {  font-size: 14px; line-height: 20px; }
+.dev-jour-detailbox                     { padding: 18px 12px; }
+.dev-jour-detailbox:hover               {  border-radius: 16px; }
+.development-journey-section .container:after ,.development-journey-section .container:before {  width: 94px; height: 78px;}
+/* Development Journey Section End */
+    /*  Our Business Process Section start */
+    .our-business-process-section .business-process-item { padding:11px; }
+    .business-process-box                           { margin-bottom:40px; }
+    .business-process-wrap                          { margin-top:40px; }
+    .business-process-item img                  { margin: -40px 0 12px; width: 45px; }
+    .business-process-item h5                       { margin-bottom: 9px; font-size: 20px; line-height: 30px; }
+    .business-process-item p                        { font-size: 16px; line-height: 28px; }
+    /*  Our Business Process Section End */
+        /* Cta First Styart */
+.service-first-cta-content              { padding:30px 0; border-radius: 20px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 28px; line-height: 36px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 24px;  }
+.btn-ser-box                            { margin-top: 16px;  }
+.btn-ser-box > div                      { margin-right: 12px; }
+.service-first-cta-content .img-pattern-box .left-pattern          { width:140px; height:122px;}
+.service-first-cta-content .img-pattern-box .right-pattern         {  width:120px; height:165px; }
+/* Cta End */
+/* Cta Second Start*/
+.cta-sec-ser-content                    { padding:30px 50px 20px; border-radius: 20px; }
+.cta-btn-bx                             { margin-top: 20px; }
+/* Cta Second End */
+/* Cta Third Start */
+.cta-third-ser-content                  { padding:30px 32px;  border-radius: 20px; }
+.cta-third-desc h4                      { margin-bottom: 10px;  font-size: 22px; line-height: 32px;  }
+.cta-third-desc p                       { margin-bottom: 20px;  }
+.cta-third-ser-section img              { margin-bottom: 12px; }
+.cta-four-section .img-pattern-box img  { opacity: 0.2; width: 40%; }
+/* Cta Third End */
+/* serser-tech-box */
+.ser-tech-box h5                        {  font-size: 34px; line-height: 46px;  }
+.ser-tech-box h4                        { margin-bottom: 20px;  font-size: 22px; line-height: 32px;  }
+.ind-list-point li                      { margin-bottom: 16px; padding-left: 30px; font-size: 16px; line-height: 24px; }
+.ind-list-point li:before               {  width:22px; height:22px;  }
+/* other css */
+.page-id-27775 .service-tabstack-techicon li { margin: 0 12px 24px; width: 60px; height: 60px; }
+.page-id-27775 .service-tabstack-techicon li:nth-child(10n-4) { margin-left:12px; }
+}
+@media(min-width:768px) and (max-width:991px){
+    .page-template-service-template         { padding-top: 69px !important; }
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:0 16px; }
+    .service-img-ban                    { margin-top: 30px; }
+    .service-banner-image img                   { height:300px; }
+/* Service Section  */
+.service-content-para                   { margin-bottom: 30px; }
+.service-para-title                     { font-size: 28px; line-height: 36px; }
+.service-content-para p                 { font-size: 16px; line-height: 22px;  }
+.list-para-box h4                       { margin-bottom: 14px !important; font-size: 22px; line-height: 30px;  }
+.list-para-box p                        { font-size: 16px; line-height: 22px;  }
+.service-list-content > .row            { margin:0 -12px; }
+.service-item-bx                        { margin-bottom: 20px; padding-left: 12px; padding-right: 12px; }
+.service-item-wrp                       { padding:20px 12px; border-radius: 10px;  }
+.service-item-wrp .img-wrp              { margin-bottom: 14px; width:40px; height:40px; border-radius: 12px;   }
+.list-para-box                          { margin-bottom: 25px; }
+.service-item-wrp .img-wrp img          { width: 20px; }
+.service-item-wrp .service-item-des h5  { padding-bottom: 10px; margin-bottom: 10px; letter-spacing: -0.5px; }
+.service-item-wrp .service-item-des p   {  font-size: 16px; line-height: 22px; }
+/* Service Techstack Tab section start */
+/* .techstacktab-service .tabs-nav-box ul li .service-techstack-item:after    { border-width: 2px; } */
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon        { margin-bottom: 10px; width:50px; height: 50px;  }
+.techstacktab-service .tabs-nav-box ul               {  margin:0 -10px; }
+.techstacktab-service .tabs-nav-box ul li           { padding:0 10px;   } 
+.techstacktab-service .tabs-nav-box ul li .service-techstack-item { padding:16px; }
+.techstacktab-service                   { margin-top: 30px; }
+.service-techstack-tabs-content         { margin-top: 40px; }
+.service-techstack-content-box h5       { margin-bottom:12px;font-size: 20px; line-height: 30px; }
+.service-techstack-content-box p        { font-size: 16px; line-height: 22px; }
+.service-tabstack-conbx                 { margin-top: 20px; }
+.service-tabstack-techicon              { margin:0 -12px;  }
+.service-tabstack-techicon li           { margin:0 10px 20px; width: 60px; height: 60px; padding:4px;  }
+.service-tabstack-techicon li:nth-child(10n - 4) { margin-left: 10px; }
+.service-tabstack-techicon li img       { max-height: 100%; }
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon img { width:20px !important; }
+/* Service Techstack Tab section End */
+/* Served in industries Section start */
+.serviced-indus-imgbox img              { height: 278px; }
+.serviced-indus-box h5                  { margin-bottom: 12px; font-size: 20px; line-height: 30px; }
+.serviced-indus-box p                   {  font-size: 16px; line-height: 22px; }
+.serviced-indus-wrap                    { max-width: 100%;  }
+.serviced-indus-box                     { margin-top: 30px; }
+.service-ind-acc-list .acc-listbox      { margin-bottom: 16px; }
+.service-ind-acc-list .acc-listbox > a    {  padding: 14px; font-size: 16px; line-height: 22px; }
+.service-ind-acc-list .acc-listbox > a img { margin-right: 12px; width:25px; }
+.service-ind-acc-list .acc-listbox > a span { width:calc(100% - 37px); font-size: 16px; line-height: 22px;  }
+.service-ind-acc-list .title-desc       { padding:0 12px 12px; padding-left: 49px; }
+.service-ind-acc-list .title-desc p     {   font-size: 14px; line-height: 22px; }
+.service-ind-acc-list .acc-listbox  a:after { top:50%; right:12px; width:20px; height:20px;   }
+.reverse-serv-section .row              { flex-direction: column; }
+/* Served in industries Section End */
+/* Development Journey Section Start */
+.dev-jour-desc                          { margin-top: 10px; }
+.deve-jour-detail                       { margin-bottom: 20px; }
+.dev-jour-detailbox h5                  { margin-bottom: 10px; font-size:18px; line-height: 24px;  }
+.dev-jour-detailbox  img                { width: 40px; }
+.dev-jour-detailbox p                   {  font-size: 14px; line-height: 20px; }
+.dev-jour-detailbox                     { padding: 18px 12px; }
+.dev-jour-detailbox:hover               {  border-radius: 16px; }
+.development-journey-section .container:after ,.development-journey-section .container:before {  width: 94px; height: 78px;}
+/* Development Journey Section End */
+    /*  Our Business Process Section start */
+    .our-business-process-section .business-process-item { padding:11px; }
+    .business-process-box                           { margin-bottom:40px; }
+    .business-process-wrap                          { margin-top:40px; }
+    .business-process-item img                  { margin: -40px 0 12px; width: 45px; }
+    .business-process-item h5                       { margin-bottom: 9px; font-size: 20px; line-height: 30px; }
+    .business-process-item p                        { font-size: 16px; line-height: 28px; }
+    /*  Our Business Process Section End */
+    /* Cta First Styart */
+.service-first-cta-content              { padding:30px 15px; border-radius: 20px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 28px; line-height: 36px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 24px;  }
+.btn-ser-box                            { margin-top: 16px;  }
+.btn-ser-box > div                      { margin-right: 12px; }
+.service-first-cta-content .img-pattern-box .left-pattern          { width:140px; height:122px;}
+.service-first-cta-content .img-pattern-box .right-pattern         {  width:120px; height:165px; }
+/* Cta End */
+/* Cta Second Start*/
+.cta-sec-ser-content                    { padding:30px 50px 20px; border-radius: 20px; }
+.cta-btn-bx                             { margin-top: 20px; }
+/* Cta Second End */
+/* Cta Third Start */
+.cta-third-ser-content                  { padding:30px 32px;  border-radius: 20px; }
+.cta-third-desc h4                      { margin-bottom: 10px;  font-size: 22px; line-height: 32px;  }
+.cta-third-desc p                       { margin-bottom: 20px;  }
+.cta-third-ser-section img              { margin-bottom: 12px; }
+.cta-third-desc                         { margin-bottom:20px; }
+.cta-four-section .img-pattern-box img  { opacity: 0.2; width: 40%; }
+/* Cta Third End */
+/* serser-tech-box */
+.ser-tech-box h5                        {  font-size: 30px; line-height: 40px;  }
+.ser-tech-box h4                        { margin-bottom: 16px;  font-size: 20px; line-height: 30px;  }
+.ind-list-point li                      { margin-bottom: 16px; padding-left: 30px; font-size: 16px; line-height: 24px; }
+.ind-list-point li:before               {  width:22px; height:22px;  }
+.serviced-indus-imgbox                  { text-align: center; margin-right: 0px; }
+.reverse-serv-section .serviced-indus-imgbox { margin-right: 0; margin-left: 0px; }
+.btn-ser-box > div.solid-white.theme-btn.text-blk { display: none !important; }
+/* other css */
+.page-id-27775 .service-tabstack-techicon li { margin: 0 12px 24px; width: 50px; height: 50px; }
+.page-id-27775 .service-tabstack-techicon li:nth-child(10n-4) { margin-left:12px; }
+}
+@media(max-width:767px){
+    .page-template-service-template         { padding-top: 69px !important; }
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:16px 0px; padding:0 20px; width:calc(100% / 2); }
+    .service-img-ban                    { margin-top: 30px; }
+    .client-section-content             { flex-wrap: wrap; }
+    .service-banner-image img                   { height:300px; }
+/* Service Section  */
+.service-content-para                   { margin-bottom: 30px; }
+.service-para-title                     { font-size: 24px; line-height: 32px; }
+.service-content-para p                 { font-size: 16px; line-height: 22px;  }
+.dev-jour-detailbox h5 br               { display: none; }
+.list-para-box h4                       { margin-bottom: 12px !important; font-size: 18px; line-height: 24px;  }
+.list-para-box p                        { font-size: 16px; line-height: 22px;  }
+.service-list-content > .row            { margin:0 -12px; }
+.service-item-bx                        { margin-bottom: 20px; padding-left: 12px; padding-right: 12px; }
+.service-item-wrp                       { padding:20px 12px; border-radius: 10px;  }
+.service-item-wrp .img-wrp              { margin-bottom: 14px; width:40px; height:40px; border-radius: 12px;   }
+.list-para-box                          { margin-bottom: 25px; }
+.service-item-wrp .img-wrp img          { width: 20px; }
+.service-item-wrp .service-item-des h5  { padding-bottom: 10px; margin-bottom: 10px; letter-spacing: -0.5px; }
+.service-item-wrp .service-item-des p   {  font-size: 16px; line-height: 22px; }
+/* Service Techstack Tab section start */
+.techstacktab-service .tabs-nav-box ul { position: relative; border: 1px solid rgba(0,0,0,.1); padding-left: 6px; background: #fff; }
+/* .techstacktab-service .tabs-nav-box ul li .service-techstack-item:after    { display: none; } */
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon        { margin-bottom: 0px; margin-right: 12px; width:44px; height:44px;  }
+.techstacktab-service .tabs-nav-box ul               {  margin:0; }
+.techstacktab-service .tabs-nav-box ul li           { padding:0; width: 100%; margin:0; } 
+.techstacktab-service .tabs-nav-box ul li .service-techstack-item { background: transparent; padding: 6px 12px; border:0; flex-direction: row;  justify-content: start; }
+.techstacktab-service                   { margin-top: 30px; }
+.service-techstack-tabs-content         { margin-top: 40px; }
+.service-techstack-content-box h5       { margin-bottom:12px;font-size: 20px; line-height: 30px; }
+.service-techstack-content-box p        { font-size: 16px; line-height: 22px; }
+.service-tabstack-conbx                 { margin-top: 20px; }
+.service-tabstack-techicon              { margin:0 -12px;  }
+.service-tabstack-techicon li           { margin:0 10px 20px; width: 60px; height: 60px; padding:4px;  }
+.service-tabstack-techicon li:nth-child(10n - 4) { margin-left: 10px; }
+.service-tabstack-techicon li img       { max-height: 100%; }
+.techstacktab-service .tabs-nav-box ul li .techtack-tab-icon img { width:20px !important; }
+/* mobile */
+.techstacktab-service { overflow: hidden; }
+.techstacktab-service .tabs-nav-box ul li { padding: 5px; background-color: transparent; }
+.techstacktab-service .tabs-nav-box ul li .service-techstack-item { border:0 ; border-radius: 0;  background-color: transparent; }
+.techstacktab-service .tabs-nav-box ul { position: relative; border: 1px solid rgba(0,0,0,0.1); padding-left: 0px; background: #fff; }
+.techstacktab-service .tabs-nav-box ul li:not(.active) { position: absolute; top: -999em; }
+.techstacktab-service .tabs-nav-box ul.expanded-tab li.active , .techstacktab-service .tabs-nav-box ul li.active{ border-color: #F9A650;  }  
+.techstacktab-service .tabs-nav-box ul.expanded-tab li:not(.active) { position: relative; top: auto; }
+.techstacktab-service .tabs-nav-box ul:after { content:''; position: absolute; right: 0; top:0; height:64px;  width: 40px; background: url('../images/select-arrow.png') no-repeat center; }
+.techstacktab-service .tabs-nav-box ul li span { text-align: left; display: inline-block; width: calc(100% - 62px);}
+.techstacktab-service .tabs-nav-box ul li.active .service-techstack-item, .techstacktab-service .tabs-nav-box ul li:hover .service-techstack-item { border:0; border-left:2px solid transparent; box-shadow: none; }
+/* Service Techstack Tab section End */
+/* Served in industries Section start */
+.serviced-indus-imgbox img              { height: 232px; }
+.serviced-indus-box h5                  { margin-bottom: 12px; font-size: 20px; line-height: 30px; }
+.serviced-indus-box p                   {  font-size: 16px; line-height: 22px; }
+.serviced-indus-wrap                    { max-width: 100%;  }
+.serviced-indus-box                     { margin-top: 30px; }
+.service-ind-acc-list .acc-listbox      { margin-bottom: 20px; }
+.service-ind-acc-list .acc-listbox > a    {  padding: 14px; font-size: 16px; line-height: 22px; }
+.service-ind-acc-list .acc-listbox > a img { margin-right: 12px; width:25px; }
+.service-ind-acc-list .acc-listbox > a span { width:calc(100% - 37px); font-size: 16px; line-height: 22px;  }
+.service-ind-acc-list .title-desc       { padding:0 12px 12px; padding-left: 49px; }
+.service-ind-acc-list .title-desc p     {   font-size: 14px; line-height: 22px; }
+.service-ind-acc-list .acc-listbox  a:after { top:50%; right:12px; width:20px; height:20px;   }
+.reverse-serv-section .row              { flex-direction: column; }
+/* Served in industries Section End */
+/* Development Journey Section Start */
+.dev-jour-desc                          { margin-top: 10px; }
+.deve-jour-detail                       { margin-bottom: 20px; }
+.dev-jour-detailbox h5                  { margin-bottom: 10px; font-size:18px; line-height: 24px;  }
+.dev-jour-detailbox  img                { width: 60px; }
+.dev-jour-detailbox p                   {  font-size: 14px; line-height: 20px; }
+.dev-jour-detailbox                     { padding: 18px 12px; }
+.dev-jour-detailbox:hover               {  border-radius: 16px; }
+.development-journey-section .container:after ,.development-journey-section .container:before {  width: 94px; height: 78px;}
+/* Development Journey Section End */
+    /*  Our Business Process Section start */
+    .our-business-process-section .business-process-item { padding:11px; }
+    .business-process-box                           { margin-bottom:40px; }
+    .business-process-wrap                          { margin-top:40px; }
+    .business-process-item img                  { margin: -40px 0 12px; width: 45px; }
+    .business-process-item h5                       { margin-bottom: 9px; font-size: 20px; line-height: 30px; }
+    .business-process-item p                        { font-size: 16px; line-height: 28px; }
+    /*  Our Business Process Section End */
+        /* Cta First Styart */
+.service-first-cta-content              { padding:20px 8px; border-radius: 12px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 22px; line-height: 34px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 22px;  }
+.btn-ser-box                            { margin-top: 12px;  }
+.btn-ser-box > div                      { margin-right: 10px; }
+.service-first-cta-content .img-pattern-box .left-pattern          { width:100px; height:87px;}
+.service-first-cta-content .img-pattern-box .right-pattern         {  width:80px; height:110px; }
+/* Cta End */
+/* Cta Second Start*/
+.cta-sec-ser-content                    { padding:20px 25px 20px; border-radius: 12px; }
+.cta-btn-bx                             { margin-top: 14px; }
+/* Cta Second End */
+/* Cta Third Start */
+.cta-third-ser-content                  { padding:20px 22px;  border-radius: 12px; }
+.cta-third-desc h4                      { margin-bottom: 10px;  font-size: 20px; line-height: 30px;  }
+.cta-third-desc p                       { margin-bottom: 14px;  }
+.cta-third-ser-section img              { margin-bottom: 12px; }
+.cta-third-desc                         { margin-bottom:20px; }
+.cta-sec-ser-content > .row ,.cta-four-ser-conten > .row            { flex-direction: column-reverse; }
+.cta-sec-ser-content > .row h4 ,.cta-four-ser-conten > .row h6         { margin-top: 20px; }
+.cta-four-section .img-pattern-box img  { display: none; }
+/* Cta Third End */
+/* serser-tech-box */
+.ser-tech-box h5                        {  font-size: 26px; line-height: 34px;  }
+.ser-tech-box h4                        { margin-bottom: 12px;  font-size: 18px; line-height: 24px;  }
+.ind-list-point li                      { margin-bottom: 16px; padding-left: 30px; font-size: 16px; line-height: 24px; }
+.ind-list-point li:before               {  width:22px; height:22px;  }
+.serviced-indus-imgbox                  {  margin-right: 0px; }
+.reverse-serv-section .serviced-indus-imgbox { margin-left: 0px; }
+.btn-ser-box > div.solid-white.theme-btn.text-blk { display: none !important; }
+/* other css */
+.page-id-27775 .service-tabstack-techicon li { margin: 0 12px 24px; width: 60px; height: 60px; }
+.page-id-27775 .service-tabstack-techicon li:nth-child(10n-4) { margin-left:12px; }
+}

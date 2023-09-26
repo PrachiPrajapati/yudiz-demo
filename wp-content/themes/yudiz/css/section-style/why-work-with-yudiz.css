@@ -1,0 +1,125 @@
+/* Why Work With Yudiz Section Start */
+.why-work-with-yudiz-content .row       { margin:0; }
+.why-work-with-yudiz-img                { width:510px; padding:0; }
+.why-work-with-yudiz-detail             { padding: 40px 0 40px 60px; width:calc(100% - 510px); background-color: #fff; }
+.why-work-with-yudiz-detail h4          { margin-top: 40px; padding-bottom: 44px; font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 22px; line-height: 32px; border-bottom: 2px solid #000000; color: #000000; }
+.why-work-with-yudiz-detail h5          { text-transform: capitalize; font-size: 22px; line-height: 32px; font-family: 'Montserrat'; margin-bottom: 10px;  font-weight: 700; color: #000000;}
+.why-work-with-yudiz-detail .bottom-bor {  margin-top: 20px; padding-bottom: 44px; font-family: 'Montserrat'; font-style: normal; font-weight: 400; border-bottom: 2px solid #000000; color: #000000;  } 
+.why-work-list                          { margin-top: 44px; display: flex; flex-wrap: wrap; }
+.why-work-list li                       { margin-bottom: 24px; padding-left: 26px; width:calc(100% / 2); position: relative; font-family: 'Poppins'; font-weight: 500; font-size: 20px; line-height: 26px; color: #000000; }
+.why-work-list li:before                { content:''; position: absolute; left:0; top:50%; transform: translateY(-50%); width:10px; height: 10px; border-radius: 50%; background-color: #0487FF; }
+.why-work-detail-desc                        { width:calc(100% - 290px); }
+.why-work-shape-img                     { position: relative; margin-left: 85px; width: 205px; }
+.get-in-touch-arrow-btn                 { position: absolute; top:50%; left:-28%; }
+.get-in-touch-arrow-btn a                {position: relative; z-index: 50;  border-radius: 50%; width:93px; height: 93px; display: flex; align-items: center; justify-content: center; background: #0487FF; }
+.get-in-touch-arrow-btn:after ,.get-in-touch-arrow-btn:before   { content:''; position: absolute; width: 200%; height: 200%; background: rgba(4, 135, 255,0.5); opacity: 0; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; border-radius: 100%; left: -50%; top: -50%;  -webkit-animation: waves 3s ease-in-out infinite; animation: waves 3s ease-in-out infinite; }
+.get-in-touch-arrow-btn:after           {  -webkit-animation-delay: 0s; animation-delay: 0s; }
+.get-in-touch-arrow-btn:before          {  -webkit-animation-delay: 1s; animation-delay: 1s; }
+.why-work-shape-img:after               { content:''; position: absolute; top: -10%; left: 20%; width:32px; height: 32px; border-radius: 50%; background-color: #0487FF;  }
+.reverse-serv-section .row              { flex-direction: row-reverse; }
+.serviced-indus-imgbox                  { text-align: center; margin-right: 50px; }
+.reverse-serv-section .serviced-indus-imgbox { margin-right: 0; margin-left: 50px; }
+/* Why Work With Yudiz Section End */
+/* animation */
+@keyframes waves {
+    0% {
+      -webkit-transform: scale(0.2, 0.2) ;
+      transform: scale(0.2, 0.2) ;
+      opacity: 0;
+      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    }
+    50% {
+      opacity: 0.9;
+      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    }
+    100% {
+      -webkit-transform: scale(0.9, 0.9) ;
+      transform: scale(0.9, 0.9) ;
+      opacity: 0;
+      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    }
+  }
+@media(min-width:1400px) and (max-width:1600px){
+/* Why Work With Yudiz Section Start */
+.why-work-with-yudiz-img                { width:410px; }
+.why-work-with-yudiz-detail             { padding: 30px 0 30px 40px; width:calc(100% - 410px);  }
+.why-work-with-yudiz-detail h4          { margin-top: 30px; padding-bottom: 30px;  font-size: 20px; line-height: 30px;  }
+.why-work-with-yudiz-detail h5          {  font-size: 20px; line-height: 30px; }
+.why-work-with-yudiz-detail .bottom-bor { margin-top: 20px; padding-bottom: 30px; } 
+.why-work-list                          { margin-top: 30px;}
+.why-work-list li                       { margin-bottom: 20px; padding-left: 20px; width:calc(100% / 2);  font-size: 18px; line-height: 22px; }
+.why-work-list li:before                {  width:8px; height: 8px;  }
+.why-work-detail-desc                        { width: calc(100% - 209px); }
+.why-work-shape-img                     {  margin-left: 45px; width: 164px; }
+.get-in-touch-arrow-btn                 { top:50%; left:-28%; }
+.get-in-touch-arrow-btn a                {   width:70px; height: 70px;  }
+.why-work-shape-img:after               {  top: -10%; left: 20%; width:24px; height: 24px;  }
+/* Why Work With Yudiz Section End */
+}
+@media(min-width:1200px) and (max-width:1399px){ 
+/* Why Work With Yudiz Section Start */
+.why-work-with-yudiz-img                { width:300px; }
+.why-work-with-yudiz-detail             { padding: 20px 0 20px 30px; width:calc(100% - 300px);  }
+.why-work-with-yudiz-detail h4          { margin-top: 20px; padding-bottom: 20px;  font-size: 20px; line-height: 30px;  }
+.why-work-with-yudiz-detail h5          {  font-size: 20px; line-height: 30px; }
+.why-work-with-yudiz-detail .bottom-bor { margin-top: 20px; padding-bottom: 20px;} 
+.why-work-list                          { margin-top:20px;}
+.why-work-list li                       { margin-bottom: 20px; padding-left: 20px; width:calc(100% / 2);  font-size: 18px; line-height: 22px; }
+.why-work-list li:before                { width:8px; height: 8px;  }
+.why-work-detail-desc                   { width: calc(100% - 190px); }
+.why-work-shape-img                     { margin-left: 59px; width: 130px; }
+.get-in-touch-arrow-btn                 { top:50%; left:-28%; }
+.get-in-touch-arrow-btn a               { width:50px; height: 50px;  }
+.get-in-touch-arrow-btn a img           { width: 18px; }
+.why-work-shape-img:after               { top: -10%; left: 20%; width:20px; height: 20px;  }
+/* Why Work With Yudiz Section End */
+}
+@media(min-width:992px) and (max-width:1199px){
+/* Why Work With Yudiz Section Start */
+.why-work-with-yudiz-img                { width:280px; }
+.why-work-with-yudiz-detail             { padding: 12px 0 12px 24px; width:calc(100% - 280px);  }
+.why-work-with-yudiz-detail h4          { margin-top: 12px; padding-bottom: 12px;  font-size: 18px; line-height: 24px;  }
+.why-work-with-yudiz-detail h5          { font-size: 18px; line-height: 24px; }
+.why-work-with-yudiz-detail .bottom-bor { margin-top: 12px; padding-bottom: 12px; } 
+.why-work-list                          { margin-top:16px;}
+.why-work-list li                       { margin-bottom: 16px; padding-left: 16px;   font-size: 16px; line-height: 22px; }
+.why-work-list li:before                { width:6px; height: 6px;  }
+.why-work-detail-desc                   { width: calc(100% - 139px); }
+.why-work-shape-img                     { margin-left: 39px; width: 100px; }
+.get-in-touch-arrow-btn                 { top:50%; left:-28%; }
+.get-in-touch-arrow-btn a               {  width:40px; height: 40px;  }
+.get-in-touch-arrow-btn a img           { width: 16px; }
+.why-work-shape-img:after               { top: -10%; left: 20%; width:15px; height: 15px;  }
+/* Why Work With Yudiz Section End */
+}
+@media(min-width:768px) and (max-width:991px){
+/* Why Work With Yudiz Section Start */
+.why-work-with-yudiz-img                { width:200px; }
+.why-work-with-yudiz-detail             { padding: 12px 0 12px 16px; width:calc(100% - 200px);  }
+.why-work-with-yudiz-detail h4          { margin-top: 10px; padding-bottom: 10px;  font-size: 16px; line-height: 22px;  }
+.why-work-with-yudiz-detail h5          { font-size: 16px; line-height: 22px;  }
+.why-work-with-yudiz-detail .bottom-bor { margin-top: 10px; padding-bottom: 10px;  } 
+.why-work-list                          { margin-top:10px; }
+.why-work-list li                       { margin-bottom: 6px; padding-left: 12px; font-size: 14px; line-height: 20px;}
+.why-work-list li:before                { width:5px; height: 5px;  }
+.why-work-detail-desc                   { width: 100%; }
+.why-work-wt-box                        { display: block; position: relative; }
+.why-work-shape-img                     { display: none; }
+/* Why Work With Yudiz Section End */
+}
+@media(max-width:767px){
+/* Why Work With Yudiz Section Start */
+.why-work-with-yudiz-img                { width:auto; margin-bottom: 30px;}
+.why-work-with-yudiz-detail             { padding: 12px 0 12px 16px; width:100%;  }
+.why-work-with-yudiz-detail h4          { margin-top: 10px; padding-bottom: 10px;  font-size: 16px; line-height: 22px;  }
+.why-work-with-yudiz-detail h5          { font-size: 16px; line-height: 22px;  }
+.why-work-with-yudiz-detail .bottom-bor { margin-top: 10px; padding-bottom: 10px;  } 
+.why-work-list                          { margin-top:10px; }
+.why-work-list li                       { width: 100%; margin-bottom: 6px; padding-left: 12px; font-size: 14px; line-height: 20px;}
+.why-work-list li:before                { width:5px; height: 5px;  }
+.why-work-detail-desc                   { width: 100%; }
+.why-work-wt-box                        { display: block; position: relative; }
+.why-work-shape-img                     { display: none; }
+.why-work-with-yudiz-content > div      { display: block; }
+/* Why Work With Yudiz Section End */
+}

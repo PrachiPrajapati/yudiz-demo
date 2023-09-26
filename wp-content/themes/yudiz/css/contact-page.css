@@ -1,0 +1,22 @@
+.title-form-bx { margin: 60px 0 36px; }
+.title-form-bx img { height: 50px; width: 50px; margin: 0 16px 0 0; filter: drop-shadow(4px 4px 0 #D4DCE8); -wekbit-filter: drop-shadow(4px 4px 0 #D4DCE8); -moz-filter: drop-shadow(4px 4px 0 #D4DCE8); -ms-filter: drop-shadow(4px 4px 0 #D4DCE8); -o-filter: drop-shadow(4px 4px 0 #D4DCE8); }
+.title-form-bx span { font-size: 20px; line-height: 30px; font-weight: 500; color: #1c2530; }
+.inquiry-title-bx { position: relative; display: inline-block; padding: 0 0 15px; }
+.inquiry-title-bx:before { content: ""; width: 70px; height: 3px; background-color: #0483F9; position: absolute; bottom: 0; left: calc(50% - 35px); display: block; }
+.footer-address-block { font-size: 0; }
+@media(min-width:1400px) and (max-width:1600px){
+}
+@media(min-width:1200px) and (max-width:1399px){
+}
+@media(min-width:992px) and (max-width:1199px){
+    .title-form-bx { margin: 40px 0 20px; }
+    .title-form-bx span{ font-size: 18px; line-height: 25px; }
+}
+@media(min-width:768px) and (max-width:991px){
+    .title-form-bx { margin: 20px 0 12px; }
+    .title-form-bx span   { font-size: 14px; line-height: 18px; }
+}
+@media(max-width:767px){
+    .title-form-bx { margin: 20px 0; }
+    .our-location-bx { display: none ; }
+}

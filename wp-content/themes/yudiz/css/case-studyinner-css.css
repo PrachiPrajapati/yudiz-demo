@@ -1,0 +1,6 @@
+.case-stud-box p { margin-bottom: 32px; }
+.case-stud-box h3 { margin-bottom: 32px; }
+@media(max-width:767px){
+    .case-study-wrappper.row-rev .row { flex-direction: column-reverse; }
+    .case-study-wrappper .row {  align-items: flex-start; justify-content: start !important;  }
+}

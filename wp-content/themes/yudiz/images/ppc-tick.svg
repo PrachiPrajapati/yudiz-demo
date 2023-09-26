@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons / Tick</title>
+    <defs>
+        <path d="M21.2928932,7.29289322 C21.6834175,6.90236893 22.3165825,6.90236893 22.7071068,7.29289322 C23.0976311,7.68341751 23.0976311,8.31658249 22.7071068,8.70710678 L10.7071068,20.7071068 C10.3165825,21.0976311 9.68341751,21.0976311 9.29289322,20.7071068 L4.29289322,15.7071068 C3.90236893,15.3165825 3.90236893,14.6834175 4.29289322,14.2928932 C4.68341751,13.9023689 5.31658249,13.9023689 5.70710678,14.2928932 L10,18.5857864 L21.2928932,7.29289322 Z" id="path-1"></path>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Yudiz_PPC_Design" transform="translate(-920.000000, -2205.000000)">
+            <g id="Services" transform="translate(300.000000, 1862.000000)">
+                <g id="Group-9" transform="translate(616.000000, 96.000000)">
+                    <g id="Icons-/-Tick" transform="translate(0.000000, 240.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Icon" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Group" mask="url(#mask-2)" fill="#999999">
+                            <g id="Color">
+                                <rect x="0" y="0" width="28" height="28"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

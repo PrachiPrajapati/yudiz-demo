@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="605px" height="600px" viewBox="0 0 605 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval Copy</title>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-1">
+            <stop stop-color="#6C90F8" offset="0%"></stop>
+            <stop stop-color="#2735FF" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-29.6%" y="-29.6%" width="159.3%" height="159.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="40" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.152139353">
+        <g id="Yudiz_community_12Aug2021_v1" transform="translate(-455.000000, -421.000000)" fill="url(#radialGradient-1)">
+            <g id="Oval" transform="translate(555.000000, 197.000000)">
+                <circle id="Oval-Copy" filter="url(#filter-2)" cx="202.5" cy="524" r="202.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

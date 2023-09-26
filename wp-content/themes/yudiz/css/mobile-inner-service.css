@@ -1,0 +1,389 @@
+.mb-0                                   { margin-bottom: 0 !important; }
+.mt-0                                   { margin-top: 0 !important; }
+.pb-0                                   { padding-bottom: 0 !important; }
+.pt-0                                   { padding-top: 0 !important; }
+.inner-service-section                  { padding-bottom: 295px !important; }
+.inner-service-section h1               { letter-spacing: -0.5px; font-weight: 700; font-family: 'Montserrat'; color: #0C1D3D;}
+.inner-service-section p                { font-size: 22px; line-height: 38px; color: inherit; }
+.inner-service-section img              { filter: drop-shadow(10px 20px 50px rgba(0, 0, 0, 0.2)); }
+.client-section-content                 { border-bottom: 0; display: flex; align-items: center; justify-content: space-between; }
+.clnt-title                             {  font-family: 'Poppins'; text-align: center; font-weight: 500; font-size: 20px; line-height: 32px; color: rgba(32, 26, 45, 0.6); letter-spacing: 0; text-transform: none;}
+p:empty                                 { display: none !important; }
+.banner-desc-bx                         {color: rgba(0, 0, 0, 0.8);  }
+/* Cta First Styart */
+.service-first-cta-content              { padding:60px 0; border-radius: 40px; background:url('https://www.yudiz.com/wp-content/uploads/2023/03/ser-first-cta-bg.jpg')no-repeat center center/cover; }
+.service-first-cta h3                   { font-family: 'Montserrat'; font-weight: 700; font-size: 50px; line-height: 65px; color: #FFFFFF; }
+.service-first-cta p                    { font-family: 'Poppins'; font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(255, 255, 255, 0.8); }
+.btn-ser-box                            { margin-top: 40px; display: flex; align-items: center; justify-content: center; }
+.btn-ser-box > div                      { margin-right: 24px; }
+.btn-ser-box > div:last-child           { margin-right: 0; }
+/* Cta End */
+/* custom app development start */
+.custom-development-box h2              { margin-bottom: 24px; font-weight: 700; font-size: 54px; line-height: 68px; color: #0C1D3D; }
+.custom-development-box p               { font-weight: 500; font-size: 22px; line-height: 38px; color: rgba(0, 0, 0, 0.8); }
+.inner-services-sec                     { margin-top: 40px; }
+.inner-services-bx                      { margin-bottom:30px; }
+.inner-services-custom-dev              { padding:40px; height: 100%; border: 3px solid #EBEBEB; border-radius: 20px; position: relative; z-index: 5; background-color: #fff; transition: all 0.5s ease; }
+.inner-services-custom-dev:hover        { background-color: inherit; border-color: #EBEBEB; }
+.inner-services-custom-dev h5 ,.inner-title-bx span  { margin-bottom: 24px; font-weight: 600; font-size: 24px; line-height: 32px; color: #121212; }
+.inner-services-custom-dev h5           { width: calc(100% - (8% + 10px)); }
+.inner-title-bx span                    { width: 8%; margin-right: 10px;  color: #CFCFCF; }
+.inner-services-custom-dev p            { font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(0, 0, 0, 0.8); }
+.inner-services-bx:after                { content:''; position: absolute; top: 0; left: 0; background-color: #fff; height: 100%; width: 100%; }
+/* custom app development End */
+/* indus-expert-sec Start */
+.indus-expert-sec                       { background: #0C1D3D; }
+.indus-exper-content                    { background: #FFFFFF; border-radius: 40px; padding:70px 70px 30px; display: flex; align-items: center; flex-wrap: wrap;}
+.indus-exper-content .indus-title-box   { width:33%; margin-right: 23px; }
+.indus-exper-content .indus-title-box h3 { font-family: 'Montserrat'; font-weight: 800; font-size: 40px; line-height: 52px; color: #0C1D3D; }
+.wrapper-data-col                       { width:calc(100% - (33% + 23px)); }
+.wrapper-data-indus                     { margin:0 -20px; display: flex; flex-wrap: wrap; align-items: center; }
+.wrapper-data-indus li                  { padding:0 20px; margin-bottom: 40px; }
+.wrapper-data-indus li .indus-ex-bx     { padding:10px; width:120px; height:150px; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center; background: #FFFFFF; transition:all 0.5s ease; box-shadow: -9.6px 12.8px 40px rgba(30, 38, 68, 0.12); border-radius: 14px; }
+.wrapper-data-indus li .indus-ex-bx h5  { margin-top: 8px; font-weight: 500; font-family: 'Poppins'; font-size: 14px; line-height: 18px; text-align: center; color: #0C1D3D; }
+.wrapper-data-indus li .indus-ex-bx img { transition:all 0.5s ease; }
+.wrapper-data-indus li .indus-ex-bx:hover img { filter: brightness(0) invert(1); }
+.wrapper-data-indus li .indus-ex-bx:hover { background: #0487FF; box-shadow: -5px 16px 40px rgba(4, 135, 255, 0.5); }
+.wrapper-data-indus li .indus-ex-bx:hover h5 { color:#fff; }
+/* indus-expert-sec End */
+/* business-outcomes-sec Start */
+.business-outcomes-sec h2               { font-weight: 700; font-family: 'Montserrat'; }
+.business-outcom-bx                     { max-width: 88%; margin:0 auto; }
+.business-outcomes-box                  { margin-top:60px; }
+.busi-outcom-content                    { padding:33px 15px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; }
+.busi-outcom-content h3                 { margin-bottom: 46px;  position: relative; font-family: 'Poppins'; font-weight: 600; font-size: 90px; line-height: 80px; letter-spacing: -1.57143px; color: #0C1D3D; display: inline-block; }
+.busi-outcom-content h3:before          { content:''; z-index: -1; position: absolute; top:10px; left:-15px; width:78px; height:78px; background:url('https://www.yudiz.com/wp-content/uploads/2023/04/android-dev-inhouse.svg')no-repeat center center/cover; }
+.busi-out-col { position: relative }
+.busi-out-col:after { content:''; position: absolute; right:0; top:0; width:4px; height:100%; background: linear-gradient(0deg, rgba(231, 233, 237, 0) -6.52%, #E7E9ED 49.36%, rgba(231, 233, 237, 0) 97.64%); }
+.busi-out-col:nth-child(2) .busi-outcom-content h3:before { background-image: url('https://www.yudiz.com/wp-content/uploads/2023/04/countshape.svg'); }
+.busi-out-col:last-child .busi-outcom-content h3:before { background-image: url('https://www.yudiz.com/wp-content/uploads/2023/04/counter-shape.svg'); }
+.busi-out-col:last-child:after { display: none; }
+.busi-outcom-content span               { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; text-align: center; color: rgba(0, 0, 0, 0.8); }
+/* business-outcomes-sec end  */
+/* Second Cta Start */
+.service-sec-cta .service-sec-cta-content       { position: relative; padding:60px 80px 43px; border-radius: 16px; }
+.service-sec-cta .service-sec-cta-content h3    { margin-bottom: 24px; max-width: 80%; font-family: 'Montserrat'; font-weight: 700; font-size: 50px; line-height: 65px; color: #0C1D3D; }
+.service-sec-cta .service-sec-cta-content p     { margin-bottom: 17px; font-family: 'Poppins'; max-width:50%; font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(0, 0, 0, 0.8); }
+.service-sec-cta .service-sec-cta-content .sec-btn-right { justify-content: space-between; }
+.service-sec-cta  .img-box                      { position:absolute; top:-20%; left:20%;   }
+/* Second Cta End */
+/* experties section start */
+.main-expert-wrap                        { padding:0 70px;  }
+.inner-exper-wrapbox                    { margin-top: -334px; background: #FFFFFF;
+    border-radius: 24px; }
+.expert-col-wrap                        { display: flex; border-top: 2px solid #000; border-bottom: 2px solid #000; }
+.title-expe-sec                         { padding-top:25%; padding-bottom:40px; width:35%; }
+.title-expe-sec h2                      { padding-right: 15px; font-family: 'Montserrat'; position: sticky; top:150px; font-weight: 700; font-size: 65px; line-height: 84px; color: #0C1D3D; }
+.experties-item-col-wrap                { width:calc(100% - 35%); }
+.experties-item-col                     {  border-bottom:2px solid #000; }
+.even .experties-item-col               { border-left:2px solid #000;  }
+.even .experties-item-col:last-child ,.even .experties-item-col:nth-last-child(2)  { border-bottom: 0; }
+.odd .experties-item-col:nth-child(odd)  { border-left:2px solid #000; border-right:2px solid #000; border-bottom:2px solid #000; }
+.odd .experties-item-col:last-child     { border-bottom: 0; }
+.experties-item-col .experties-it-bx    { padding:50px 60px; background-color: #fff; }
+.experties-item-col .experties-it-bx h5 { margin:16px 0; font-family: 'Montserrat'; font-weight: 600; font-size: 32px; line-height: 39px; letter-spacing: -1.5px; color: #000000; }
+.experties-item-col .experties-it-bx p  { font-family: 'Poppins'; font-weight: 500; font-size: 18px; line-height: 30px; color: rgba(0, 0, 0, 0.8);  }
+/* experties section End */
+@media(min-width:1400px) and (max-width:1600px){
+.clnt-title                             { font-size: 18px; line-height: 28px; }
+/* Cta First Start */
+.inner-service-section p                { font-size: 20px; line-height: 32px;}
+.service-first-cta-content              { padding:50px 0; border-radius: 30px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 40px; line-height: 55px;  }
+.service-first-cta p                    { font-size: 18px; line-height: 28px;  }
+.btn-ser-box                            { margin-top: 30px;  }
+.btn-ser-box > div                      { margin-right: 20px; }
+/* Cta End */
+/* Custom App Development start */
+.custom-development-box h2              { margin-bottom: 20px;  font-size: 44px; line-height: 58px;  }
+.custom-development-box p               { font-size: 20px; line-height: 32px; }
+.inner-services-sec                     { margin-top: 30px; }
+.inner-services-bx                      { margin-bottom:20px; }
+.inner-services-custom-dev              { padding:30px; border-width: 3px;}
+.inner-services-custom-dev h5 ,.inner-title-bx span           { margin-bottom: 20px; font-size: 22px; line-height: 30px;  }
+.inner-services-custom-dev p            { font-size: 16px; line-height: 24px; }
+/* custom app development End */
+/* indus-expert-sec Start */
+.indus-exper-content                    {  border-radius: 32px; padding:60px 60px 20px; }
+.indus-exper-content .indus-title-box   { width:30%; margin-right: 14px; }
+.indus-exper-content .indus-title-box h3 { font-size: 29px; line-height:40px; }
+.wrapper-data-col                       { width:calc(100% - (30% + 14px)); }
+.wrapper-data-indus                     {  margin:0 -14px;  }
+.wrapper-data-indus li                  { padding:0 14px; margin-bottom: 30px; }
+.wrapper-data-indus li .indus-ex-bx     { padding:8px; width:108px; height:140px; }
+.wrapper-data-indus li .indus-ex-bx h5  { margin-top: 8px; font-size: 14px; line-height: 18px; }
+/* indus-expert-sec End */
+/* business-outcomes-sec Start */
+.business-outcom-bx                     { max-width: 100%;  }
+.business-outcomes-box                  { margin-top:50px; }
+.busi-outcom-content                    { padding:24px 12px;  }
+.busi-outcom-content h3                 { margin-bottom: 38px;  font-size:80px; line-height: 60px; letter-spacing: -1px;}
+.busi-outcom-content h3:before          { top:10px; left:-15px; width:60px; height:60px; }
+.busi-out-col:after                     { width:3px;  }
+.busi-outcom-content span               { font-size: 20px; line-height: 32px;  }
+/* business-outcomes-sec end  */
+/* Second Cta Start */
+.service-sec-cta .service-sec-cta-content { padding:50px 60px 30px; background-position: left top !important;}
+.service-sec-cta .service-sec-cta-content h3 { margin-bottom: 16px; max-width: 90%; font-size: 40px; line-height: 55px; }
+.service-sec-cta .service-sec-cta-content p { margin-bottom: 12px;  max-width:58%; font-size: 18px; line-height: 28px;  }
+.service-sec-cta  .img-box              { top:-26%; left:20%;   }
+/* Second Cta End */
+/* experties section start */
+.main-expert-wrap                        { padding:0 50px;  }
+.expert-col-wrap                        { border-width: 2px; }
+.title-expe-sec                         { padding-top:25%; padding-bottom:30px; width:32%; }
+.title-expe-sec h2                      {  top:150px; font-size: 54px; line-height: 68px;  }
+.experties-item-col-wrap                { width:calc(100% - 32%); }
+.experties-item-col                     { border-width: 2px; }
+.experties-item-col .experties-it-bx    { padding:40px 50px;  }
+.experties-item-col .experties-it-bx h5 { margin:12px 0; font-size: 24px; line-height: 34px; letter-spacing: -1px; }
+.experties-item-col .experties-it-bx p  { font-size: 18px; line-height: 30px; }
+/* experties section End */
+}
+@media(min-width:1200px) and (max-width:1399px){
+    .service-bannerbx h1                { letter-spacing: 0; font-size: 46px; line-height: 57px; }
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:0 20px; }
+    .inner-service-section p                { font-size: 18px; line-height: 26px;}
+    /* Cta First Styart */
+.service-first-cta-content              { padding:40px 0; border-radius: 30px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 32px; line-height: 44px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 24px;  }
+.btn-ser-box                            { margin-top: 20px;  }
+.btn-ser-box > div                      { margin-right: 14px; }
+/* Cta End */
+/* Custom App Development start */
+.custom-development-box h2              { margin-bottom: 20px;  font-size: 40px; line-height: 50px;  }
+.custom-development-box p               { font-size: 20px; line-height: 32px; }
+.inner-services-sec                     { margin-top: 30px; }
+.inner-services-bx                      { margin-bottom:20px; }
+.inner-services-custom-dev              { padding:24px; border-width: 3px;}
+.inner-services-custom-dev h5 ,.inner-title-bx span          { margin-bottom: 20px; font-size: 22px; line-height: 30px;  }
+.inner-services-custom-dev p            { font-size: 16px; line-height: 24px; }
+/* custom app development End */
+/* indus-expert-sec Start */
+.indus-exper-content                    {  border-radius: 32px; padding:40px 40px 20px; }
+.indus-exper-content .indus-title-box   { width:27%; margin-right: 14px; }
+.indus-exper-content .indus-title-box h3 { font-size: 22px; line-height:32px; }
+.wrapper-data-col                       { width:calc(100% - (27% + 14px)); }
+.wrapper-data-indus                     {  margin:0 -10px;  }
+.wrapper-data-indus li                  { padding:0 10px; margin-bottom: 30px; }
+.wrapper-data-indus li .indus-ex-bx     { padding:8px; width:108px; height:140px; }
+.wrapper-data-indus li .indus-ex-bx h5  { margin-top: 8px; font-size: 14px; line-height: 18px; }
+/* indus-expert-sec End */
+/* business-outcomes-sec Start */
+.business-outcom-bx                     { max-width: 100%;  }
+.business-outcomes-box                  { margin-top:40px; }
+.busi-outcom-content                    { padding:20px 12px;  }
+.busi-outcom-content h3                 { margin-bottom: 32px;  font-size:60px; line-height: 55px; letter-spacing: -0.5px;}
+.busi-outcom-content h3:before          { top:0px; left:-15px; width:50px; height:50px; }
+.busi-out-col:after                     { width:3px;  }
+.busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+/* business-outcomes-sec end  */
+/* Second Cta Start */
+.service-sec-cta .service-sec-cta-content { padding:40px 35px 30px; background-position: left top !important;}
+.service-sec-cta .service-sec-cta-content h3 { margin-bottom: 16px; max-width: 90%; font-size: 40px; line-height: 55px; }
+.service-sec-cta .service-sec-cta-content p { margin-bottom: 12px;  max-width:58%; font-size: 18px; line-height: 28px;  }
+.service-sec-cta  .img-box              { top:-26%; left:20%;   }
+/* Second Cta End */
+/* experties section start */
+.main-expert-wrap                        { padding:0 40px;  }
+.expert-col-wrap                        { border-width: 2px; }
+.title-expe-sec                         { padding-top:20%; width:30%; padding-bottom:20px;}
+.title-expe-sec h2                      {  top:120px; font-size: 44px; line-height: 58px;  }
+.experties-item-col-wrap                { width:calc(100% - 30%); }
+.experties-item-col                     { border-width: 2px; }
+.experties-item-col .experties-it-bx    { padding:30px 40px;  }
+.experties-item-col .experties-it-bx h5 { margin:12px 0; font-size: 20px; line-height: 30px; letter-spacing: -0.5px; }
+.experties-item-col .experties-it-bx p  { font-size: 18px; line-height: 30px; }
+/* experties section End */
+}
+@media(min-width:992px) and (max-width:1199px){
+    .service-bannerbx h1                { letter-spacing: 0; font-size: 40px; line-height: 52px; }
+    .inner-service-section p                { font-size: 18px; line-height: 26px;}
+    .clnt-title                         { font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:0 16px; }
+     /* Cta First Styart */
+.service-first-cta-content              { padding:30px 0; border-radius: 20px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 28px; line-height: 36px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 24px;  }
+.btn-ser-box                            { margin-top: 16px;  }
+.btn-ser-box > div                      { margin-right: 12px; }
+/* Cta End */
+/* Custom App Development start */
+.custom-development-box h2              { margin-bottom: 16px;  font-size: 38px; line-height: 48px;  }
+.custom-development-box p               { font-size: 18px; line-height: 28px; }
+.inner-services-sec                     { margin-top: 20px; }
+.inner-services-bx                      { margin-bottom:16px; }
+.inner-services-custom-dev              { padding:20px; border-width: 3px;}
+.inner-services-custom-dev h5 ,.inner-title-bx span        { margin-bottom: 16px; font-size: 20px; line-height: 30px;  }
+.inner-services-custom-dev p            { font-size: 16px; line-height: 24px; }
+/* custom app development End */
+/* indus-expert-sec Start */
+.indus-exper-content                    {  border-radius: 32px; padding:30px 30px 15px; }
+.indus-exper-content .indus-title-box   { width:27%; margin-right: 8px; }
+.indus-exper-content .indus-title-box h3 { font-size: 20px; line-height:30px; }
+.wrapper-data-col                       { width:calc(100% - (27% + 8px)); }
+.wrapper-data-indus                     {  margin:0 -8px;  }
+.wrapper-data-indus li                  { padding:0 8px; margin-bottom: 16px; }
+.wrapper-data-indus li .indus-ex-bx     { padding:6px; width: 92px; height: 121px; }
+.wrapper-data-indus li .indus-ex-bx h5  { margin-top: 8px; font-size: 14px; line-height: 18px; }
+/* indus-expert-sec End */
+/* business-outcomes-sec Start */
+.business-outcom-bx                     { max-width: 100%;  }
+.business-outcomes-box                  { margin-top:40px; }
+.busi-outcom-content                    { padding:20px 12px;  }
+.busi-outcom-content h3                 { margin-bottom: 32px;  font-size:60px; line-height: 55px; letter-spacing: -0.5px;}
+.busi-outcom-content h3:before          { top:0px; left:-15px; width:50px; height:50px; }
+.busi-out-col:after                     { width:3px;  }
+.busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+/* business-outcomes-sec end  */
+/* Second Cta Start */
+.service-sec-cta .service-sec-cta-content { padding:40px 35px 20px; background-position: left top !important;}
+.service-sec-cta .service-sec-cta-content h3 { margin-bottom: 12px; max-width: 90%; font-size: 30px; line-height:42px; }
+.service-sec-cta .service-sec-cta-content p { margin-bottom: 10px;  max-width:58%; font-size: 16px; line-height: 24px;  }
+.service-sec-cta  .img-box              { top:-22%; left:23%; max-width: 60px;  }
+/* Second Cta End */
+/* experties section start */
+.main-expert-wrap                        { padding:0 20px;  }
+.inner-exper-wrapbox                    { margin-top: -234px;}
+.expert-col-wrap                        { border-width: 2px; }
+.title-expe-sec                         { padding-top:12%; width:30%; padding-bottom:20px;}
+.title-expe-sec h2                      {  top:100px; font-size: 28px; line-height: 38px;  }
+.experties-item-col-wrap                { width:calc(100% - 30%); }
+.experties-item-col                     { border-width: 2px; }
+.experties-item-col .experties-it-bx    { padding: 27px 16px; }
+.experties-item-col .experties-it-bx h5 { margin:12px 0; font-size: 22px; line-height: 32px; letter-spacing: -1px; }
+.experties-item-col .experties-it-bx p  { font-size: 18px; line-height: 30px; }
+/* experties section End */
+}
+@media(min-width:768px) and (max-width:991px){
+    .clnt-title                         { letter-spacing: 0; font-size: 18px; line-height: 28px; }
+    .inner-service-section p                { font-size: 16px; line-height: 24px;}
+    .clien-bx-img                       { margin:0 16px; }
+    .service-img-ban                    { margin-top: 30px; }
+    .inner-service-section {
+        padding-bottom: 95px !important;
+    }
+    .inner-exper-wrapbox                    { margin-top: -134px;}
+    /* Cta First Styart */
+.service-first-cta-content              { padding:30px 15px; border-radius: 20px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 28px; line-height: 36px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 24px;  }
+.btn-ser-box                            { margin-top: 16px;  }
+.btn-ser-box > div                      { margin-right: 12px; }
+/* Cta End */
+/* Custom App Development start */
+.custom-development-box h2              { margin-bottom: 12px;  font-size: 30px; line-height: 40px;  }
+.custom-development-box p               { font-size: 16px; line-height: 22px; }
+.inner-services-sec                     { margin-top: 16px; }
+.inner-services-bx                      { margin-bottom:12px; }
+.inner-services-custom-dev              { padding:16px; border-width: 3px;}
+.inner-services-custom-dev h5 ,.inner-title-bx span         { margin-bottom: 12px; font-size: 18px; line-height: 28px;  }
+.inner-services-custom-dev p            { font-size: 16px; line-height: 24px; }
+/* custom app development End */
+/* indus-expert-sec Start */
+.indus-exper-content                    {  border-radius: 32px; padding:30px 30px 15px; display:block;}
+.indus-exper-content .indus-title-box   { width:100%; margin-right: 0px; margin-bottom: 20px; }
+.indus-exper-content .indus-title-box h3 { font-size: 20px; line-height:30px; }
+.wrapper-data-col                       { width:100%; }
+.wrapper-data-indus                     {  margin:0 -8px;  }
+.wrapper-data-indus li                  { padding:0 8px; margin-bottom: 16px; }
+.wrapper-data-indus li .indus-ex-bx     { padding:6px; width: 92px; height: 121px; }
+.wrapper-data-indus li .indus-ex-bx h5  { margin-top: 8px; font-size: 14px; line-height: 18px; }
+/* indus-expert-sec End */
+/* business-outcomes-sec Start */
+.business-outcom-bx                     { max-width: 100%;  }
+.business-outcomes-box                  { margin-top:30px; }
+.busi-outcom-content                    { padding:20px 12px;  }
+.busi-outcom-content h3                 { margin-bottom: 22px;  font-size:40px; line-height: 35px; letter-spacing: -0.5px;}
+.busi-outcom-content h3:before          { top:0px; left:-10px; width:30px; height:30px; }
+.busi-out-col:after                     { width:2px;  }
+.busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+/* business-outcomes-sec end  */
+/* Second Cta Start */
+.service-sec-cta .service-sec-cta-content { padding:30px 25px 12px; background-position: left top !important;}
+.service-sec-cta .service-sec-cta-content h3 { margin-bottom: 12px; max-width: 90%; font-size: 26px; line-height:40px; }
+.service-sec-cta .service-sec-cta-content p { margin-bottom: 10px;  max-width:65%; font-size: 16px; line-height: 24px;  }
+.service-sec-cta  .img-box              { top:-19%; left:23%; max-width: 60px;  }
+/* Second Cta End */
+/* experties section start */
+.main-expert-wrap                        { padding:0 20px;  }
+.expert-col-wrap                        { border-width: 2px; border:none; display: block; }
+.title-expe-sec                         { padding-top:0px; width:100%; padding-bottom:10px;}
+.title-expe-sec h2                      { position: unset; font-size: 24px; line-height: 32px;  }
+.experties-item-col-wrap                { width:100%; margin-top: 30px; }
+.experties-item-col                     { border-width: 2px; }
+.experties-item-col .experties-it-bx    { padding: 20px 12px; }
+.experties-item-col .experties-it-bx h5 { margin:12px 0; font-size: 20px; line-height: 20px; letter-spacing: -0.5px; }
+.experties-item-col .experties-it-bx p  { font-size: 16px; line-height: 24px; }
+.experties-item-col:nth-last-child(2)  { border-bottom: 2px solid #000; }
+/* experties section End */
+}
+@media(max-width:767px){
+    .clnt-title                         { letter-spacing: 0; font-size: 18px; line-height: 28px; }
+    .clien-bx-img                       { margin:16px 0px; padding:0 20px; width:calc(100% / 2); }
+    .service-img-ban                    { margin-top: 30px; }
+    .client-section-content             { flex-wrap: wrap; }
+    .inner-service-section p                { font-size: 16px; line-height: 24px;}
+     /* Cta First Styart */
+.service-first-cta-content              { padding:20px 8px; border-radius: 12px;  }
+.service-first-cta h3 ,.cta-four-section h4 ,.cta-sec-ser-content h4  { font-size: 22px; line-height: 34px;  }
+.service-first-cta p  ,.cta-third-ser-section p { font-size: 16px; line-height: 22px;  }
+.btn-ser-box                            { margin-top: 12px;  }
+.btn-ser-box > div                      { margin-right: 10px; }
+/* Cta End */
+/* Custom App Development start */
+.custom-development-box h2              { margin-bottom: 12px;  font-size: 26px; line-height: 32px;  }
+.custom-development-box p               { font-size: 16px; line-height: 22px; }
+.inner-services-sec                     { margin-top: 16px; }
+.inner-services-bx                      { margin-bottom:12px; }
+.inner-services-custom-dev              { padding:16px; border-width: 3px;}
+.inner-services-custom-dev h5 ,.inner-title-bx span         { margin-bottom: 12px; font-size: 18px; line-height: 28px;  }
+.inner-services-custom-dev p            { font-size: 16px; line-height: 24px; }
+/* custom app development End */
+/* indus-expert-sec Start */
+.indus-exper-content                    {  border-radius: 32px; padding:30px 30px 15px; display:block;}
+.indus-exper-content .indus-title-box   { width:100%; margin-right: 0px; margin-bottom: 20px; }
+.indus-exper-content .indus-title-box h3 { font-size: 20px; line-height:30px; }
+.wrapper-data-col                       { width:100%; }
+.wrapper-data-indus                     {  margin:0 -5px; justify-content: center; }
+.wrapper-data-indus li                  { padding:0 5px; margin-bottom: 12px; }
+.wrapper-data-indus li .indus-ex-bx     { padding:6px; width: 92px; height: 121px; }
+.wrapper-data-indus li .indus-ex-bx h5  { margin-top: 8px; font-size: 14px; line-height: 18px; }
+/* indus-expert-sec End */
+/* business-outcomes-sec Start */
+.business-outcom-bx                     { max-width: 100%;  }
+.business-outcomes-box                  { margin-top:16px; }
+.busi-outcom-content                    { padding:16px 10px;  }
+.busi-outcom-col .row                   { justify-content: center; }
+.busi-outcom-content h3                 { margin-bottom: 16px;  font-size:30px; line-height: 25px; letter-spacing: -0.5px;}
+.busi-outcom-content h3:before          { top:0px; left:-5px; width:20px; height:20px; }
+.busi-out-col:after                     { width:100%; height:2px; bottom:0; left: 0; top: auto; right: auto;  }
+.busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+/* business-outcomes-sec end  */
+/* Second Cta Start */
+.service-sec-cta .service-sec-cta-content { padding:20px 15px 12px; background-position: left top !important; }
+.service-sec-cta .service-sec-cta-content h3 { margin-bottom: 12px; max-width: 100%; font-size: 24px; line-height:34px; }
+.service-sec-cta .service-sec-cta-content p { margin-bottom: 10px;  max-width:100%; font-size: 16px; line-height: 24px;  }
+.service-sec-cta  .img-box              { top:-11%; left:24%; max-width: 40px;  }
+/* Second Cta End */
+/* experties section start */
+.main-expert-wrap                        { padding:0 15px;  }
+.expert-col-wrap                        { border-width: 2px; border:none; display: block; }
+.title-expe-sec                         { padding-top:0px; width:100%;padding-bottom:0px; }
+.title-expe-sec h2                      { position: unset; font-size:22px; line-height: 30px;  }
+.experties-item-col-wrap                { width:100%; margin-top: 20px; }
+.experties-item-col                     { border-width: 2px; }
+.experties-item-col .experties-it-bx    { padding: 20px 12px; }
+.experties-item-col .experties-it-bx h5 { margin:12px 0; font-size: 20px; line-height: 20px; letter-spacing: -0px; }
+.experties-item-col .experties-it-bx p  { font-size: 16px; line-height: 24px; }
+.experties-item-col:nth-last-child(2)   { border-bottom: 2px solid #000; }
+.experties-item-col,.experties-item-col:last-child                     { border: 0 !important; border: 2px solid #000 !important; border-bottom: 0 !important; }
+.even .experties-item-col:last-child,.odd .experties-item-col:last-child { border-bottom: 2px solid #000 !important;  }
+/* experties section End */
+.inner-service-section {
+    padding-bottom: 95px !important;
+}
+.inner-exper-wrapbox                    { margin-top: -134px;}
+}

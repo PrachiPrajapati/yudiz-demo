@@ -1,0 +1,365 @@
+p:empty                                             { display: none !important; }
+/* Casino Banner Css Start */
+.casino-banner-section                              { padding:58px 0; background-size:cover; background-repeat: no-repeat; background-position: center center; }
+.casino-banner-section .cs-banner-content           { color:#fff !important; }
+.casino-banner-section .cs-banner-content h6        { margin-bottom: 4px; color:#fff !important; }
+.casino-banner-section .cs-banner-content .solid-white a { color:#0C1D3D; }
+.casino-banner-section .cs-banner-content .solid-white a:hover { color:#fff; }
+/* Casino Banner Css End */
+/* Modes Section Css Start */
+.mode-of-game-section                               { background-color: #F0F6FF;}
+.common-container-box-style ,.mode-of-game-section  { position: relative; }
+.common-container-box-style                         { z-index: 5; }
+.cs-title-box                                       { margin-bottom: 48px;}
+.cm-bx-st-content                                   { justify-content: space-between; width:100%; height: 100%; background: #FFFFFF; border: 1.5px solid #66A7FF; }
+.cm-bx-st-content .cm-bx-img                        { margin-bottom: 50px; width: 112px; height: 98px; display: flex; align-items: center; justify-content: center; background-position: center center; background-size: cover; }
+.cm-bx-st-content .cm-bx-desc                       { padding:0 32px 32px; }
+.cm-bx-st-content .cm-bx-desc h5                    { margin-bottom: 16px; font-weight: 500; font-size: 20px; line-height: 28px; letter-spacing: 1px; color: #000000; }
+.cm-bx-st-content .cm-bx-desc p                     { font-weight: 400; font-size: 16px; line-height: 30px; color: #000000; }
+.common-left-img                                    { position: absolute; left:2%; top:-4%;   } 
+.common-right-img                                   { position: absolute; right:0; bottom:0; transform: translate(50%,50%);  } 
+.box-left-img                                       { position: absolute; left:0; top:0; transform: translate(-54%,-26%);  } 
+.box-right-img                                      { position: absolute; right:0; bottom:0; transform: translate(65%,13%);  }
+.bg-left-shape                                      { position: absolute; left:0; bottom:0;}
+.bg-right-shape                                     { position: absolute; top:0; right:0; }
+/* Modes Section Css End */
+/* CTA Section Start */
+.hire-now-wrap                                      { padding:54px 0; color:#fff !important; }
+.game-inner-cta h6                                  { color:#fff !important; }
+.game-inner-cta h3                                  { font-family: 'Montserrat'; font-weight: 700; font-size: 42px; line-height: 55px; color:#fff !important; }
+/* CTA Section End  */
+/* Feature Section start */
+h6                                                  { color: #1C2530; }
+.cs-feature-section                                 { background:#fff url('https://www.yudiz.com/wp-content/uploads/2023/02/game-dev-bg-pattern.png')no-repeat left top/cover;  }
+.cs-feature-desc-sec p                              { margin-bottom: 16px;  }
+.cs-feature-list li                                 { margin-left: 6px; padding-left: 22px; position: relative;  }
+.cs-feature-list li:before                          { position: absolute; content:''; left:0; top:16px; transform: translateY(-50%);  width:6px; height: 6px; background-color: #1C2530; border-radius: 50%; }
+.cs-feature-list.two-col-feature                    { margin: 0 -6px; display: flex; flex-wrap: wrap; }
+.cs-feature-list.two-col-feature li                 { padding-left: 10px; width:calc(100% / 2 - 6px); }
+.cs-feature-list.two-col-feature li:before          { transform: translate(-100%,-50%); }
+/* Feature Section End */
+/* cost */
+.cost-box-section-style > .row                      { margin:0 -54px; display: flex;  justify-content: space-between; flex-wrap: wrap; }
+.cost-box-section-style > .row .common-box-stly     { padding:0 54px; }
+/* .cost-box-section-style .cs-feature-list            { display: flex; align-items: center; flex-wrap: wrap; } */
+/* .cost-box-section-style .cs-feature-list li         { width: calc(100% / 2 - 12px); display: inline-block; } */
+.fc-bx-im                                           { width: 65%; }
+.fc-bx-con                                          { width:35%; padding-top: 30px; padding-right: 20px; }
+/* tech-sol  */
+.tech-sol-item                                      { position: relative; padding:0 24px;  margin-bottom: 24px; }
+.tech-sol-item-content                              { padding:25px 0;  border-bottom: 1px solid #66A7FF; }
+.tech-sol-item-content:after                        { content:""; position: absolute; width:1px; border-right:1px solid; border-color: inherit; height: calc(100% - 24px); top:0; right:0; }
+.tech-sol-item:last-child .tech-sol-item-content:after,.tech-sol-item:nth-child(3) .tech-sol-item-content:after { display: none; }
+.tech-sol-item:last-child .tech-sol-item-content,.tech-sol-item:nth-child(4) .tech-sol-item-content,.tech-sol-item:nth-child(5) .tech-sol-item-content{ border-bottom:none; }
+.tech-sol-item-content h5                           { margin-top:32px; font-weight: 400; font-size: 18px; line-height: 32px; color: #000000;  font-weight: 400; font-family: 'Poppins';}
+/* why-choose-section */
+.why-choose-section                                 { padding:42px 0; }
+.why-choose-section  .row                      { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; }
+.why-choose-con-bx,.why-choose-con-bx h6, .why-choose-con-bx h2 ,.why-choose-con-bx p ,.why-choose-con-bx .cs-feature-list li    { color:#fff !important; }
+.why-choose-con-bx .cs-feature-list li:before { background-color: #fff; }
+/* Client Statctics Start */
+.client-stastics-section                            { padding:39px 0; }
+.client-sta-wrap                                    { display: flex;   }
+.client-sta-box                                     { border-right: 2px solid #000000; }
+.client-sta-box .clnt-sta-desc                      { width:calc(100% - 96px); }
+.client-sta-box:last-child                          { border:0; }
+.client-sta-wrap .stat-ic                           { width:76px; margin-right: 20px; }
+.client-sta-wrap h6                                 { margin-bottom: 2px; text-transform: none; font-family: 'Poppins'; font-weight: 600; font-size: 23px; line-height: 35px; letter-spacing: 0.634204px; color: #0C1D3D; }
+.client-sta-wrap .cnt-num                           { font-family: 'Montserrat'; font-weight: 700; font-size: 34px; line-height: 45px; letter-spacing: 0.815405px; color: #0167CB; }
+.white-text *                                       { color:#ffffff !important; }
+.white-text li:before                               { background-color: #fff; }
+/* Client Statctics End */
+/* Game Solution Section */
+.game-sol-it-wrap                                   { display: flex; align-items: center;  }
+.game-sol-it-wrap img                               { width:50px; }
+.game-sol-it-wrap h6                                { margin-left: 12px; text-transform: none; width:calc(100% - 62px); font-family: 'Poppins'; font-weight: 500; font-size: 26px; line-height: 28px; letter-spacing: 1px; color: #FFFFFF; }
+.game-sol-it-bx                                     { margin-bottom: 55px; }
+/* Responsive Css Start */
+@media(min-width:1400px) and (max-width:1600px ) {
+    /* Casino Banner Css Start */
+    .casino-banner-section                              { padding:45px 0;  }
+    .casino-banner-section .cs-banner-content h6        { margin-bottom: 3px;  }
+    /* Casino Banner Css End */
+    /* Modes Section Css Start */
+    .cs-title-box                                       { margin-bottom: 40px;}
+    .cm-bx-st-content .cm-bx-img                        { margin-bottom: 40px; width: 99px; height: 84px;  }
+    .cm-bx-st-content .cm-bx-desc                       { padding:0 26px 26px; }
+    .cm-bx-st-content .cm-bx-desc h5                    { margin-bottom: 14px; font-size: 18px; line-height: 28px; letter-spacing: 1px; }
+    .cm-bx-st-content .cm-bx-desc p                     {  font-size: 16px; line-height: 30px; }
+    .common-left-img                                    {   max-width: 100px; } 
+    .common-right-img                                   {  max-width: 80px; } 
+    .box-left-img ,.box-right-img                       { max-width: 240px; } 
+    .box-right-img                                      { transform: translate(62%,13%); } 
+    .bg-left-shape ,.bg-right-shape                     { max-width: 200px; }
+                                       
+    /* Modes Section Css End */
+    /* CTA Section Start */
+    .hire-now-wrap                                      { padding:40px 0;  }
+    .game-inner-cta h3                                  { font-size: 38px; line-height: 48px; }
+    /* CTA Section End  */
+    /* Feature Section start */
+    .cs-feature-desc-sec p                              { margin-bottom: 16px;  }
+    .cs-feature-list li                                 { margin-left: 5px; padding-left: 20px; font-size: 16px; line-height: 26px; }
+    .cs-feature-list li:before                          { width:5px; height: 5px; top:13px; }
+    .cs-feature-list.two-col-feature li                 { padding-left: 8px; width: calc(100% / 2 - 5px); }
+    /* Feature Section End */
+    /* cost */
+    .cost-box-section-style > .row                      { margin:0 -40px; }
+    .cost-box-section-style > .row .common-box-stly     { padding:0 40px; }
+
+    /* .cost-box-section-style .cs-feature-list li         { width: calc(100% / 2 - 10px);  } */
+    /* tech-sol  */
+    .tech-sol-item                                      { padding:0 20px;  margin-bottom: 20px; }
+    .tech-sol-item-content                              { padding:20px 0;  }
+    .tech-sol-item-content:after                        { width:1px;  height: calc(100% - 24px); top:0; right:0; }
+    .tech-sol-item-content h5                           { margin-top:24px; font-size: 18px; line-height: 32px; }
+    /* why-choose-section */
+    .why-choose-section                                 { padding:34px 0; }
+    /* Client Statctics Start */
+    .client-stastics-section                            { padding:32px 0; }
+    .client-sta-box                                    {  border-right: 2px solid #000000;  }
+    .client-sta-box .clnt-sta-desc                      { width:calc(100% - 69px); }
+    .client-sta-wrap .stat-ic                           { width:55px; margin-right: 14px; }
+    .client-sta-wrap h6                                 { margin-bottom: 2px;  font-size: 18px; line-height: 24px; letter-spacing: 0.5px; }
+    .client-sta-wrap .cnt-num                           { font-size: 28px; line-height: 38px; letter-spacing: 0.6px;  }
+    /* Client Statctics End */
+    /* Game Solution Section */
+    .game-sol-it-wrap img                               { width:40px; }
+    .game-sol-it-wrap h6                                { margin-left: 12px; width:calc(100% - 52px);  font-size: 22px; line-height: 28px; letter-spacing: 1px; }
+    .game-sol-it-bx                                     { margin-bottom: 40px; }
+}
+@media(min-width:1200px) and (max-width:1399px ) {
+    /* Casino Banner Css Start */
+    .casino-banner-section                              { padding:36px 0;  }
+    .casino-banner-section .cs-banner-content h6        { margin-bottom: 3px;  }
+    /* Casino Banner Css End */
+    /* Modes Section Css Start */
+    .cs-title-box                                       { margin-bottom: 30px;}
+    .cm-bx-st-content .cm-bx-img                        { margin-bottom: 30px; width: 80px; height: 64px;  }
+    .cm-bx-st-content .cm-bx-desc                       { padding:0 16px 16px; }
+    .cm-bx-st-content .cm-bx-desc h5                    { margin-bottom: 12px; font-size: 18px; line-height: 26px; letter-spacing: 1px; }
+    .cm-bx-st-content .cm-bx-desc p                     { font-size: 16px; line-height: 30px; }
+    .common-left-img                                    { max-width: 70px; } 
+    .common-right-img                                   {  max-width: 47px; } 
+    .box-left-img ,.box-right-img                       { max-width: 160px; } 
+    .box-right-img                                      { transform: translate(62%,13%); } 
+    .bg-left-shape ,.bg-right-shape                     { max-width: 130px; }
+                                       
+    /* Modes Section Css End */
+    /* CTA Section Start */
+    .hire-now-wrap                                      { padding:30px 0;  }
+    .game-inner-cta h3                                  { font-size: 32px; line-height: 42px; }
+    /* CTA Section End  */
+    /* Feature Section start */
+    .cs-feature-img-sec  img                            { width: 90%;  }
+    .cs-feature-desc-sec p                              { margin-bottom: 14px;  }
+    .cs-feature-list li                                 { margin-left: 4px; padding-left: 16px; font-size: 14px; line-height: 24px; }
+    .cs-feature-list li:before                          { width:4px; height: 4px; top:12px; }
+    .cs-feature-list.two-col-feature li                 { padding-left: 6px; width: calc(100% / 2 - 4px); }
+    /* Feature Section End */
+    /* cost */
+    .cost-box-section-style > .row                      { margin:0 -30px; }
+    .cost-box-section-style > .row .common-box-stly     { padding:0 30px; }
+    /* .cost-box-section-style .cs-feature-list li         { width: calc(100% / 2 - 8px);  } */
+    /* tech-sol  */
+    .tech-sol-item                                      { padding:0 14px;  margin-bottom: 14px; }
+    .tech-sol-item-content                              { padding:14px 0;  }
+    .tech-sol-item-content:after                        {  height: calc(100% - 14px);  }
+    .tech-sol-item-content h5                           { margin-top:14px; font-size: 14px; line-height: 24px; }
+    /* why-choose-section */
+    .why-choose-section                                 { padding:30px 0; }
+     /* Client Statctics Start */
+     .client-stastics-section                            { padding:26px 0; }
+     .client-sta-box                                    {  border-right: 2px solid #000000;  }
+     .client-sta-box .clnt-sta-desc                      { width:calc(100% - 52px); }
+     .client-sta-wrap .stat-ic                           { width:40px; margin-right: 12px; }
+     .client-sta-wrap h6                                 { margin-bottom: 2px;  font-size: 18px; line-height: 24px; letter-spacing: 0.5px; }
+     .client-sta-wrap .cnt-num                           { font-size: 24px; line-height: 34px; letter-spacing: 0.4px;  }
+     /* Client Statctics End */
+     /* Game Solution Section */
+    .game-sol-it-wrap img                               { width:30px; }
+    .game-sol-it-wrap h6                                { margin-left: 10px; width:calc(100% - 40px);  font-size: 20px; line-height: 28px; letter-spacing: 0.5px; }
+    .game-sol-it-bx                                     { margin-bottom: 30px; }
+}
+@media(min-width:992px) and (max-width:1199px ) {
+    /* Casino Banner Css Start */
+    .casino-banner-section                              { padding:36px 0;  }
+    .casino-banner-section .cs-banner-content h6        { margin-bottom: 3px;  }
+    /* Casino Banner Css End */
+    /* Modes Section Css Start */
+    .cs-title-box                                       { margin-bottom: 30px;}
+    .cm-bx-st-content .cm-bx-img                        { margin-bottom: 30px; width: 80px; height: 64px;  }
+    .cm-bx-st-content .cm-bx-desc                       { padding:0 12px 12px; }
+    .cm-bx-st-content .cm-bx-desc h5                    { margin-bottom: 12px; font-size: 18px; line-height: 26px; letter-spacing: 1px; }
+    .cm-bx-st-content .cm-bx-desc p                     { font-size: 16px; line-height: 30px; }
+    .common-left-img                                    { max-width: 70px; } 
+    .common-right-img                                   {  max-width: 47px; } 
+    .box-left-img ,.box-right-img                       { max-width: 120px; } 
+    .box-left-img                                       { transform: translate(-36%,-26%); }
+    .box-right-img                                      { transform: translate(40%,13%); } 
+    .bg-left-shape ,.bg-right-shape                     { max-width: 120px; }
+                                       
+    /* Modes Section Css End */
+    /* CTA Section Start */
+    .hire-now-wrap                                      { padding:30px 0;  }
+    .game-inner-cta h3                                  { font-size: 32px; line-height: 42px; }
+    /* CTA Section End  */
+    /* Feature Section start */
+    .cs-feature-img-sec  img                            { width: 90%;  }
+    .cs-feature-desc-sec p                              { margin-bottom: 14px;  }
+    .cs-feature-list li                                 { margin-left: 3px; padding-left: 12px; font-size: 14px; line-height: 24px; }
+    .cs-feature-list li:before                          { width:3px; height: 3px; top:12px; }
+    /* Feature Section End */
+    /* cost */
+    .cost-box-section-style > .row                      { margin:0 -20px; }
+    .cost-box-section-style > .row .common-box-stly     { padding:0 20px; }
+    /* .cost-box-section-style .cs-feature-list li         { width: calc(100% / 2 - 6px);  } */
+    .cs-feature-list.two-col-feature li                 { padding-left: 8px; width: calc(100% / 2 - 3px); }
+    /* tech-sol  */
+    .tech-sol-item                                      { padding:0 14px;  margin-bottom: 14px; }
+    .tech-sol-item-content                              { padding:14px 0;  }
+    .tech-sol-item-content:after                        {  height: calc(100% - 14px);  }
+    .tech-sol-item-content h5                           { margin-top:14px; font-size: 14px; line-height: 24px; }
+    /* why-choose-section */
+    .why-choose-section                                 { padding:30px 0; }
+    /* Client Statctics Start */
+    .client-stastics-section                            { padding:20px 0; }
+    .client-sta-box                                    {  border-right: 1px solid #000000;  }
+    .client-sta-box .clnt-sta-desc                      { width:calc(100% - 31px); }
+    .client-sta-wrap .stat-ic                           { width:25px; margin-right: 6px; }
+    .client-sta-wrap h6                                 { margin-bottom: 2px;  font-size: 16px; line-height: 22px; letter-spacing: 0px; }
+    .client-sta-wrap .cnt-num                           { font-size: 20px; line-height: 30px; letter-spacing: 0px;  }
+    /* Client Statctics End */
+    /* Game Solution Section */
+    .game-sol-it-wrap img                               { width:30px; }
+    .game-sol-it-wrap h6                                { margin-left: 10px; width:calc(100% - 40px);  font-size: 18px; line-height: 28px; letter-spacing: 0.2px; }
+    .game-sol-it-bx                                     { margin-bottom: 20px; }
+}
+@media(min-width:768px) and (max-width:991px ) {
+    /* Casino Banner Css Start */
+    .casino-banner-section                              { padding:36px 0;  }
+    .casino-banner-section .cs-banner-content h6        { margin-bottom: 3px;  }
+    .cs-banner-desc                                     { margin-bottom: 40px; }
+    /* Casino Banner Css End */
+    /* Modes Section Css Start */
+    .cs-feature-desc-sec                                { margin-top: 40px; }
+    .cs-title-box                                       { margin-bottom: 30px;}
+    .cm-bx-st-content .cm-bx-img                        { margin-bottom: 30px; width: 80px; height: 64px;  }
+    .cm-bx-st-content .cm-bx-desc                       { padding:0 12px 12px; }
+    .cm-bx-st-content .cm-bx-desc h5                    { margin-bottom: 12px; font-size: 18px; line-height: 26px; letter-spacing: 1px; }
+    .cm-bx-st-content .cm-bx-desc p                     { font-size: 16px; line-height: 30px; }
+    .common-box-stly                                    { max-width: 420px; margin-bottom:16px; }
+    .common-left-img                                    { max-width: 70px; top: -2%;} 
+    .common-right-img                                   { max-width: 47px; transform: translate(0%,0); right: auto; left: 50%; } 
+    .box-left-img ,.box-right-img                       { max-width: 120px; } 
+    .box-left-img                                       { transform: translate(-36%,-26%); }
+    .box-right-img                                      { transform: translate(40%,13%); } 
+    .bg-left-shape ,.bg-right-shape                     { max-width: 120px; }  
+                                  
+    /* Modes Section Css End */
+    /* CTA Section Start */
+    .hire-now-wrap                                      { padding:30px 0;  }
+    .game-inner-cta h3                                  { font-size: 32px; line-height: 42px; }
+    /* CTA Section End  */
+    /* Feature Section start */
+    .cs-feature-img-sec                                 { float: none; }
+    .cs-feature-img-sec  img                            { width: 90%;  }
+    .cs-feature-desc-sec p                              { margin-bottom: 14px;  }
+    .cs-feature-list li                                 { margin-left: 3px; padding-left: 12px; font-size: 14px; line-height: 24px; }
+    .cs-feature-list li:before                          { width:3px; height: 3px; top:12px; }
+    /* Feature Section End */
+    /* cost */
+    .cost-box-section-style > .row                      { margin:0 -16px; display: block;}
+    .cost-box-section-style > .row .common-box-stly     { padding:0 16px; }
+    /* .cost-box-section-style .cs-feature-list li         { width: calc(100% / 2 - 6px);  } */
+    /* tech-sol  */
+    .why-choose-section .row                            {  align-items: flex-start; }
+    .flip-feature-bg  .row                              { display: flex; flex-wrap: wrap; flex-direction: column-reverse;}
+    .tech-sol-item                                      { padding:0 14px;  margin-bottom: 14px; }
+    .tech-sol-item-content                              { padding:14px 0;  }
+    .tech-sol-item-content img                          { width: 80px; height: 80px; }
+    .tech-sol-item-content:after                        {  height: calc(100% - 14px);  }
+    .tech-sol-item-content h5                           { margin-top:14px; font-size: 14px; line-height: 24px; }
+    /* why-choose-section */
+    .why-choose-section                                 { padding:30px 0; }
+        /* Client Statctics Start */
+        .client-stastics-section                            { padding:20px 0; }
+        .client-sta-box                                     { margin-bottom: 30px; border-right: 1px solid #000000;  }
+        .client-sta-box:nth-child(even)                     { border-right: 0; }
+        .client-sta-box .clnt-sta-desc                      { width:calc(100% - 42px); }
+        .client-sta-wrap .stat-ic                           { width:30px; margin-right: 12px; }
+        .client-sta-wrap h6                                 { margin-bottom: 2px;  font-size: 18px; line-height: 24px; letter-spacing: 0.3px; }
+        .client-sta-wrap .cnt-num                           { font-size: 20px; line-height: 30px; letter-spacing: 0.2px;  }
+        /* Client Statctics End */
+            /* Game Solution Section */
+    .game-sol-it-wrap img                               { width:40px; }
+    .game-sol-it-wrap h6                                { margin-left: 10px; width:calc(100% - 50px);  font-size: 18px; line-height: 28px; letter-spacing: 0.2px; }
+    .game-sol-it-bx                                     { margin-bottom: 25px; }
+}
+@media(max-width:767px ) {
+    /* Casino Banner Css Start */
+    .cs-banner-content h1                               { font-size: 36px; line-height: 46px; }
+    h2.big-h2                                           { font-size: 33px; line-height: 43px; }
+    .casino-banner-section                              { padding:36px 0;  }
+    .casino-banner-section .cs-banner-content h6        { margin-bottom: 3px;  }
+    .cs-banner-desc                                     { margin-bottom: 40px; }
+    .cs-banner-imgbox                                   { max-width: 350px; }
+    /* Casino Banner Css End */
+    /* Modes Section Css Start */
+    .cs-feature-desc-sec                                { margin-top: 40px; }
+    .cs-title-box                                       { margin-bottom: 30px;}
+    .cm-bx-st-content .cm-bx-img                        { margin-bottom: 20px; width: 80px; height: 64px;  }
+    .cm-bx-st-content .cm-bx-desc                       { padding:0 12px 12px; }
+    .cm-bx-st-content .cm-bx-desc h5                    { margin-bottom: 12px; font-size: 18px; line-height: 26px; letter-spacing: 1px; }
+    .cm-bx-st-content .cm-bx-desc p                     { font-size: 16px; line-height: 30px; }
+    .common-box-stly                                    { max-width: 420px; margin-bottom:16px; }
+    .common-left-img                                    { max-width: 70px; top: -2%;} 
+    .common-right-img                                   { max-width: 47px; transform: translate(0%,0);  } 
+    .box-left-img ,.box-right-img                       { max-width: 120px; } 
+    .box-left-img                                       { transform: translate(3%,-43%); }
+    .box-right-img                                      { transform: translate(-3%,28%); } 
+    .bg-left-shape ,.bg-right-shape                     { max-width: 100px; }  
+    .common-container-box-style                         { padding:20px 0; }                            
+    /* Modes Section Css End */
+    /* CTA Section Start */
+    .hire-now-wrap                                      { padding:30px 0;  }
+    .game-inner-cta .hire-now-wrap                      { background-position: center center; }
+    .game-inner-cta h3                                  { font-size: 28px; line-height: 40px; }
+    /* CTA Section End  */
+    /* Feature Section start */
+    .cs-feature-img-sec                                 { float: none; max-width: 380px; }
+    /* .cs-feature-section                                 { background: none !important; } */
+    .cs-feature-desc-sec p                              { margin-bottom: 14px;  }
+    .cs-feature-list li                                 { margin-left: 3px; padding-left: 12px; font-size: 14px; line-height: 24px; }
+    .cs-feature-list li:before                          { width:3px; height: 3px; top:12px; }
+    .cs-feature-list.two-col-feature li                 { padding-left: 12px; width: 100%; }
+    /* Feature Section End */
+    /* cost */
+    .cost-box-section-style > .row                      { margin:0 -15px; }
+    .cost-box-section-style > .row .common-box-stly     { padding:0 15px; }
+    /* .cost-box-section-style .cs-feature-list li         { width: 100%;  } */
+    /* tech-sol  */
+    .why-choose-section .row                            {  align-items: flex-start; }
+    .flip-feature-bg  .row                              { display: flex; flex-wrap: wrap; flex-direction: column-reverse;}
+    .tech-sol-item                                      { padding:0 14px;  margin-bottom: 14px; }
+    .tech-sol-item-content                              { padding:14px 0; border:1px solid !important; }
+    .tech-sol-item-content img                          { width: 80px; height: 80px; }
+    .tech-sol-item-content:after                        {  display: none; }
+    .tech-sol-item-content h5                           { margin-top:14px; font-size: 14px; line-height: 24px; }
+    /* why-choose-section */
+    .why-choose-section                                 { padding:30px 0; }
+    h2                                                  { font-size: 30px; line-height: 40px; }
+    /* Client Statctics Start */
+    .client-stastics-section                            { padding:30px 0 0; }
+    .client-sta-box                                     { margin-bottom: 30px; border-right: 0;  }
+    .client-sta-box .clnt-sta-desc                      { width:calc(100% - 42px); }
+    .client-sta-wrap .stat-ic                           { width:30px; margin-right: 12px; }
+    .client-sta-wrap h6                                 { margin-bottom: 2px;  font-size: 18px; line-height: 24px; letter-spacing: 0.3px; }
+    .client-sta-wrap .cnt-num                           { font-size: 20px; line-height: 30px; letter-spacing: 0.2px;  }
+    /* Client Statctics End */
+    /* Game Solution Section */
+    .game-sol-it-wrap img                               { width:30px; }
+    .game-sol-it-wrap h6                                { margin-left: 10px; width:calc(100% - 40px);  font-size: 18px; line-height: 28px; letter-spacing: 0.2px; }
+    .game-sol-it-bx                                     { margin-bottom: 20px; }
+}
+/* Responsive Css End */

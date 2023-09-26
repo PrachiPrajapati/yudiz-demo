@@ -1,0 +1,1055 @@
+.jcf-select-country-select .jcf-option {
+    position: relative;
+    -webkit-box-shadow: 0 0 1px 0 #888;
+    box-shadow: 0 0 1px 0 #888;
+    display: block;
+    height: auto !important;
+    padding-left: 30px !important;
+}
+
+.jcf-select-country-select .jcf-select-text > span { position: relative; padding-left: 40px !important; }
+.jcf-select-country-select .jcf-select-text > span:after,
+.jcf-select-country-select .jcf-option:after { content: ""; display: block; position: absolute; top: 0; left: 5px; height: 100%; display: block; width: 20px; background: url(../images/flags.png) no-repeat left center / 5630px 15px;}
+.jcf-select-country-select .jcf-select-text > span:after { left: 0; }
+
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (min--moz-device-pixel-ratio:2),
+only screen and (min-device-pixel-ratio:2),
+only screen and (min-resolution:192dpi),
+only screen and (min-resolution:2dppx) {
+   /* .country-select .flag {
+        background-image: url(/yudiz/new/wp-content/plugins/country-phone-field-contact-form-7/assets/img/flags@2x.png);
+        background-size: 5630px 15px
+    }*/
+}
+
+.jcf-select-country-select .jcf-option-flag-ac:after {
+    background-position-x: 0 !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ad:after {
+    background-position-x: -22px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ae:after {
+    background-position-x: -44px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-af:after {
+    background-position-x: -66px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ag:after {
+    background-position-x: -88px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ai:after {
+    background-position-x: -110px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-al:after {
+    background-position-x: -132px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-am:after {
+    background-position-x: -154px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ao:after {
+    background-position-x: -176px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-aq:after {
+    background-position-x: -198px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ar:after {
+    background-position-x: -220px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-as:after {
+    background-position-x: -242px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-at:after {
+    background-position-x: -264px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-au:after {
+    background-position-x: -286px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-aw:after {
+    background-position-x: -308px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ax:after {
+    background-position-x: -330px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-az:after {
+    background-position-x: -352px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ba:after {
+    background-position-x: -374px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bb:after {
+    background-position-x: -396px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bd:after {
+    background-position-x: -418px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-be:after {
+    background-position-x: -440px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bf:after {
+    background-position-x: -460px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bg:after {
+    background-position-x: -482px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bh:after {
+    background-position-x: -504px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bi:after {
+    background-position-x: -526px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bj:after {
+    background-position-x: -548px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bl:after {
+    background-position-x: -570px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bm:after {
+    background-position-x: -592px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bn:after {
+    background-position-x: -614px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bo:after {
+    background-position-x: -636px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bq:after {
+    background-position-x: -658px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-br:after {
+    background-position-x: -680px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bs:after {
+    background-position-x: -702px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bt:after {
+    background-position-x: -724px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bv:after {
+    background-position-x: -746px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bw:after {
+    background-position-x: -768px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-by:after {
+    background-position-x: -790px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-bz:after {
+    background-position-x: -812px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ca:after {
+    background-position-x: -834px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cc:after {
+    background-position-x: -856px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cd:after {
+    background-position-x: -878px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cf:after {
+    background-position-x: -900px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cg:after {
+    background-position-x: -922px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ch:after {
+    background-position-x: -944px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ci:after {
+    background-position-x: -961px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ck:after {
+    background-position-x: -983px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cl:after {
+    background-position-x: -1005px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cm:after {
+    background-position-x: -1027px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cn:after {
+    background-position-x: -1049px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-co:after {
+    background-position-x: -1071px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cp:after {
+    background-position-x: -1093px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cr:after {
+    background-position-x: -1115px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cu:after {
+    background-position-x: -1137px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cv:after {
+    background-position-x: -1159px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cw:after {
+    background-position-x: -1181px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cx:after {
+    background-position-x: -1203px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cy:after {
+    background-position-x: -1225px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-cz:after {
+    background-position-x: -1247px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-de:after {
+    background-position-x: -1269px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-dg:after {
+    background-position-x: -1291px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-dj:after {
+    background-position-x: -1313px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-dk:after {
+    background-position-x: -1335px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-dm:after {
+    background-position-x: -1357px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-do:after {
+    background-position-x: -1379px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-dz:after {
+    background-position-x: -1401px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ea:after {
+    background-position-x: -1423px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ec:after {
+    background-position-x: -1445px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ee:after {
+    background-position-x: -1467px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-eg:after {
+    background-position-x: -1489px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-eh:after {
+    background-position-x: -1511px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-er:after {
+    background-position-x: -1533px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-es:after {
+    background-position-x: -1555px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-et:after {
+    background-position-x: -1577px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-eu:after {
+    background-position-x: -1599px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-fi:after {
+    background-position-x: -1621px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-fj:after {
+    background-position-x: -1643px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-fk:after {
+    background-position-x: -1665px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-fm:after {
+    background-position-x: -1687px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-fo:after {
+    background-position-x: -1709px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-fr:after {
+    background-position-x: -1731px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ga:after {
+    background-position-x: -1753px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gb:after {
+    background-position-x: -1775px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gd:after {
+    background-position-x: -1797px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ge:after {
+    background-position-x: -1819px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gf:after {
+    background-position-x: -1841px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gg:after {
+    background-position-x: -1863px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gh:after {
+    background-position-x: -1885px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gi:after {
+    background-position-x: -1907px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gl:after {
+    background-position-x: -1929px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gm:after {
+    background-position-x: -1951px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gn:after {
+    background-position-x: -1973px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gp:after {
+    background-position-x: -1995px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gq:after {
+    background-position-x: -2017px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gr:after {
+    background-position-x: -2039px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gs:after {
+    background-position-x: -2061px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gt:after {
+    background-position-x: -2083px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gu:after {
+    background-position-x: -2105px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gw:after {
+    background-position-x: -2127px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-gy:after {
+    background-position-x: -2149px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-hk:after {
+    background-position-x: -2171px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-hm:after {
+    background-position-x: -2193px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-hn:after {
+    background-position-x: -2215px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-hr:after {
+    background-position-x: -2237px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ht:after {
+    background-position-x: -2259px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-hu:after {
+    background-position-x: -2281px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ic:after {
+    background-position-x: -2303px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-id:after {
+    background-position-x: -2325px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ie:after {
+    background-position-x: -2347px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-il:after {
+    background-position-x: -2369px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-im:after {
+    background-position-x: -2391px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-in:after {
+    background-position-x: -2413px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-io:after {
+    background-position-x: -2435px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-iq:after {
+    background-position-x: -2457px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ir:after {
+    background-position-x: -2479px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-is:after {
+    background-position-x: -2501px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-it:after {
+    background-position-x: -2523px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-je:after {
+    background-position-x: -2545px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-jm:after {
+    background-position-x: -2567px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-jo:after {
+    background-position-x: -2589px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-jp:after {
+    background-position-x: -2611px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ke:after {
+    background-position-x: -2633px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-kg:after {
+    background-position-x: -2655px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-kh:after {
+    background-position-x: -2677px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ki:after {
+    background-position-x: -2699px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-km:after {
+    background-position-x: -2721px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-kn:after {
+    background-position-x: -2743px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-kp:after {
+    background-position-x: -2765px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-kr:after {
+    background-position-x: -2787px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-kw:after {
+    background-position-x: -2809px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ky:after {
+    background-position-x: -2831px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-kz:after {
+    background-position-x: -2853px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-la:after {
+    background-position-x: -2875px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-lb:after {
+    background-position-x: -2897px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-lc:after {
+    background-position-x: -2919px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-li:after {
+    background-position-x: -2941px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-lk:after {
+    background-position-x: -2963px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-lr:after {
+    background-position-x: -2985px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ls:after {
+    background-position-x: -3007px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-lt:after {
+    background-position-x: -3029px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-lu:after {
+    background-position-x: -3051px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-lv:after {
+    background-position-x: -3073px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ly:after {
+    background-position-x: -3095px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ma:after {
+    background-position-x: -3117px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mc:after {
+    background-position-x: -3139px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-md:after {
+    background-position-x: -3160px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-me:after {
+    background-position-x: -3182px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mf:after {
+    background-position-x: -3204px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mg:after {
+    background-position-x: -3226px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mh:after {
+    background-position-x: -3248px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mk:after {
+    background-position-x: -3270px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ml:after {
+    background-position-x: -3292px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mm:after {
+    background-position-x: -3314px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mn:after {
+    background-position-x: -3336px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mo:after {
+    background-position-x: -3358px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mp:after {
+    background-position-x: -3380px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mq:after {
+    background-position-x: -3402px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mr:after {
+    background-position-x: -3424px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ms:after {
+    background-position-x: -3446px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mt:after {
+    background-position-x: -3468px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mu:after {
+    background-position-x: -3490px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mv:after {
+    background-position-x: -3512px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mw:after {
+    background-position-x: -3534px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mx:after {
+    background-position-x: -3556px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-my:after {
+    background-position-x: -3578px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-mz:after {
+    background-position-x: -3600px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-na:after {
+    background-position-x: -3622px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-nc:after {
+    background-position-x: -3644px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ne:after {
+    background-position-x: -3666px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-nf:after {
+    background-position-x: -3686px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ng:after {
+    background-position-x: -3708px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ni:after {
+    background-position-x: -3730px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-nl:after {
+    background-position-x: -3752px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-no:after {
+    background-position-x: -3774px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-np:after {
+    background-position-x: -3796px  !important;
+    background-color: transparent
+}
+
+.jcf-select-country-select .jcf-option-flag-nr:after {
+    background-position-x: -3811px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-nu:after {
+    background-position-x: -3833px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-nz:after {
+    background-position-x: -3855px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-om:after {
+    background-position-x: -3877px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pa:after {
+    background-position-x: -3899px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pe:after {
+    background-position-x: -3921px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pf:after {
+    background-position-x: -3943px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pg:after {
+    background-position-x: -3965px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ph:after {
+    background-position-x: -3987px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pk:after {
+    background-position-x: -4009px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pl:after {
+    background-position-x: -4031px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pm:after {
+    background-position-x: -4053px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pn:after {
+    background-position-x: -4075px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pr:after {
+    background-position-x: -4097px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ps:after {
+    background-position-x: -4119px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pt:after {
+    background-position-x: -4141px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-pw:after {
+    background-position-x: -4163px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-py:after {
+    background-position-x: -4185px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-qa:after {
+    background-position-x: -4207px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-re:after {
+    background-position-x: -4229px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ro:after {
+    background-position-x: -4251px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-rs:after {
+    background-position-x: -4273px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ru:after {
+    background-position-x: -4295px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-rw:after {
+    background-position-x: -4317px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sa:after {
+    background-position-x: -4339px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sb:after {
+    background-position-x: -4361px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sc:after {
+    background-position-x: -4383px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sd:after {
+    background-position-x: -4405px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-se:after {
+    background-position-x: -4427px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sg:after {
+    background-position-x: -4449px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sh:after {
+    background-position-x: -4471px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-si:after {
+    background-position-x: -4493px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sj:after {
+    background-position-x: -4515px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sk:after {
+    background-position-x: -4537px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sl:after {
+    background-position-x: -4559px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sm:after {
+    background-position-x: -4581px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sn:after {
+    background-position-x: -4603px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-so:after {
+    background-position-x: -4625px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sr:after {
+    background-position-x: -4647px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ss:after {
+    background-position-x: -4669px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-st:after {
+    background-position-x: -4691px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sv:after {
+    background-position-x: -4713px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sx:after {
+    background-position-x: -4735px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sy:after {
+    background-position-x: -4757px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-sz:after {
+    background-position-x: -4779px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ta:after {
+    background-position-x: -4801px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tc:after {
+    background-position-x: -4823px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-td:after {
+    background-position-x: -4845px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tf:after {
+    background-position-x: -4867px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tg:after {
+    background-position-x: -4889px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-th:after {
+    background-position-x: -4911px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tj:after {
+    background-position-x: -4933px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tk:after {
+    background-position-x: -4955px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tl:after {
+    background-position-x: -4977px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tm:after {
+    background-position-x: -4999px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tn:after {
+    background-position-x: -5021px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-to:after {
+    background-position-x: -5043px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tr:after {
+    background-position-x: -5065px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tt:after {
+    background-position-x: -5087px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tv:after {
+    background-position-x: -5109px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tw:after {
+    background-position-x: -5131px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-tz:after {
+    background-position-x: -5153px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ua:after {
+    background-position-x: -5175px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ug:after {
+    background-position-x: -5197px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-um:after {
+    background-position-x: -5219px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-us:after {
+    background-position-x: -5241px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-uy:after {
+    background-position-x: -5263px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-uz:after {
+    background-position-x: -5285px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-va:after {
+    height: 15p;
+    ba-xckground-position: -5307px 0
+}
+
+.jcf-select-country-select .jcf-option-flag-vc:after {
+    background-position-x: -5324px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ve:after {
+    background-position-x: -5346px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-vg:after {
+    background-position-x: -5368px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-vi:after {
+    background-position-x: -5390px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-vn:after {
+    background-position-x: -5412px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-vu:after {
+    background-position-x: -5434px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-wf:after {
+    background-position-x: -5456px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ws:after {
+    background-position-x: -5478px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-xk:after {
+    background-position-x: -5500px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-ye:after {
+    background-position-x: -5522px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-yt:after {
+    background-position-x: -5544px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-za:after {
+    background-position-x: -5566px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-zm:after {
+    background-position-x: -5588px !important;
+}
+
+.jcf-select-country-select .jcf-option-flag-zw:after {
+    background-position-x: -5610px !important;
+}

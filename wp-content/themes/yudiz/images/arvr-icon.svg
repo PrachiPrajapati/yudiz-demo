@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="24.370913%" y1="3.38788096e-14%" x2="75.629087%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#048FFF" offset="0%"></stop>
+            <stop stop-color="#093EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-26-Copy">
+            <g id="Group-26-Copy-6">
+                <g>
+                    <rect id="Rectangle-17" fill-opacity="0" fill="#EBF1F7" x="0" y="0" width="200" height="200"></rect>
+                    <g id="Group-25" transform="translate(25.000000, 49.875000)">
+                        <g id="Group-47">
+                            <polyline id="Rectangle-76" fill="#47EBC6" transform="translate(6.274942, 50.577488) rotate(5.000000) translate(-6.274942, -50.577488) " points="11.8431236 58.9108211 0.70675992 58.9108211 0.70675992 42.2441544 0.70675992 42.2441544 11.8431236 42.2441544"></polyline>
+                            <polyline id="Rectangle-76-Copy" stroke="#2D4152" stroke-width="6.25" fill="#FFFFFF" transform="translate(144.772727, 50.125000) scale(-1, 1) rotate(5.000000) translate(-144.772727, -50.125000) " points="150.340909 58.4583333 139.204545 58.4583333 139.204545 41.7916667 139.204545 41.7916667 150.340909 41.7916667"></polyline>
+                            <path d="M75.6018556,-18.8890237 L92.4332482,-19.8219807 C109.823874,-20.7859357 124.703201,-7.46948842 125.667156,9.92113686 C125.699374,10.5023776 125.715492,11.0843989 125.715492,11.6665319 L125.715492,11.6665319 C122.226316,24.6294948 120.481727,37.5924578 120.481727,50.5554208 C120.481727,63.5183837 122.226316,76.4813467 125.715492,89.4443096 L125.715492,89.4443096 C125.715492,106.386678 111.980988,120.121182 95.0386196,120.121182 C94.190246,120.121182 93.3422375,120.085989 92.4967811,120.015694 L75.6018556,118.610976 C47.2774289,116.25596 25.4882192,92.5799155 25.4882192,64.1577542 L25.4882192,34.0793169 C25.4882192,5.92150719 47.487203,-17.3306403 75.6018556,-18.8890237 Z" id="Rectangle-51" fill="url(#linearGradient-1)" transform="translate(75.601856, 50.125000) rotate(90.000000) translate(-75.601856, -50.125000) "></path>
+                            <ellipse id="Oval-27" stroke="#57AEFF" stroke-width="9.375" fill="#FFFFFF" cx="44.5454545" cy="52.9027778" rx="14.8011364" ry="14.7569444"></ellipse>
+                            <ellipse id="Oval-27-Copy" stroke="#57AEFF" stroke-width="9.375" fill="#FFFFFF" cx="105.795455" cy="52.9027778" rx="14.8011364" ry="14.7569444"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

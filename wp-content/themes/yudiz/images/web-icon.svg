@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="-5.55111512e-15%" x2="1.11022302e-14%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#048FFF" offset="0%"></stop>
+            <stop stop-color="#093EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-26-Copy">
+            <g id="Group-26">
+                <g>
+                    <rect id="Rectangle-17" fill-opacity="0" fill="#EBF1F7" x="0" y="0" width="200" height="200"></rect>
+                    <g id="Group-25" transform="translate(33.333333, 33.333333)">
+                        <rect id="Rectangle-51" fill="url(#linearGradient-1)" x="0" y="0" width="133.333333" height="133.333333" rx="6.25"></rect>
+                        <polygon id="Line" fill="#47EBC6" fill-rule="nonzero" points="13.1944444 81.25 13.1944444 68.75 117.361111 68.75 117.361111 81.25"></polygon>
+                        <polygon id="Line-Copy" fill="#FFFFFF" fill-rule="nonzero" points="13.1944444 109.027778 13.1944444 96.5277778 89.6111117 96.5277778 89.6111117 109.027778"></polygon>
+                        <circle id="Oval-3" fill="#FFFFFF" cx="19.4444444" cy="22.2222222" r="5.55555556"></circle>
+                        <circle id="Oval-3-Copy" fill="#47EBC6" cx="36.1111111" cy="22.2222222" r="5.55555556"></circle>
+                        <circle id="Oval-3-Copy-2" fill="#FFFFFF" cx="52.7777778" cy="22.2222222" r="5.55555556"></circle>
+                        <polygon id="Path-11" fill="#FFFFFF" fill-rule="nonzero" points="27.2097087 58.9014024 22.7902913 63.3208198 9.46947151 50 22.7902913 36.6791802 27.2097087 41.0985976 18.3083063 50"></polygon>
+                        <polygon id="Path-11-Copy" fill="#FFFFFF" fill-rule="nonzero" transform="translate(110.006257, 105.555556) scale(-1, 1) translate(-110.006257, -105.555556) " points="118.876375 114.456958 114.456958 118.876375 101.136138 105.555556 114.456958 92.2347358 118.876375 96.6541531 109.974973 105.555556"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

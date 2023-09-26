@@ -1,0 +1,380 @@
+.mb-0                                   { margin-bottom: 0 !important; }
+.mt-0                                   { margin-top: 0 !important; }
+.pb-0                                   { padding-bottom: 0 !important; }
+.pt-0                                   { padding-top: 0 !important; }
+.inner-service-section h1               { letter-spacing: -0.5px; font-weight: 700; font-family: 'Montserrat'; color: #FFFFFF; }
+.inner-service-section p                { font-size: 22px; line-height: 38px; color: inherit; }
+.inner-service-section img              { filter: drop-shadow(10px 20px 50px rgba(0, 0, 0, 0.2)); }
+.client-section-content                 { border-bottom: 0; display: flex; align-items: center; justify-content: space-between; }
+.clnt-title                             {  font-family: 'Poppins'; text-align: center; font-weight: 500; font-size: 20px; line-height: 32px; color: rgba(32, 26, 45, 0.6); letter-spacing: 0; text-transform: none;}
+p:empty                                 { display: none !important; }
+.banner-desc-bx                         {color: rgba(255, 255, 255, 0.9);  }
+/* Cta First Start */
+.service-first-cta-content              { padding:60px 70px; border-radius: 40px; background:url('https://www.yudiz.com/wp-content/uploads/2023/03/ser-first-cta-bg.jpg')no-repeat center center/cover; }
+.service-first-cta h3                   { margin-bottom: 40px; font-family: 'Montserrat'; font-weight: 700; font-size: 40px; line-height: 50px; color: #FFFFFF; }
+.service-first-cta p                    { font-family: 'Poppins'; font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(255, 255, 255, 0.8); }
+/* Cta End */
+/* Game Service Section Start*/
+.game-inner-service-section             { overflow: hidden; }
+.game-in-ser-bx h3                      { margin-bottom: 24px; font-family: 'Montserrat'; font-weight: 800; font-size: 54px; line-height: 68px; text-align: center; color: #0C1D3D; }
+.game-in-ser-bx p,.game-gerne-section p { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; text-align: center; color: rgba(0, 0, 0, 0.8); }
+.serv-game-det                          { position: relative; padding: 60px 35px 51px; transition: all 0.5s ease; }
+.serv-game-det:hover .ser-shape-bx      { background: #E2F6F8 !important; }
+.ser-shape-bx                           { transition: all 0.5s ease; position: absolute; top:0; left: 0; width: 304px; height: 100%; border:4px solid #E2F6F8; z-index: -1;  }
+.serv-game-col:nth-child(2) .ser-shape-bx   { border-color: #FFF3D1;  }
+.serv-game-col:nth-child(3) .ser-shape-bx   { border-color: #FFE3DB;  }
+.serv-game-col:nth-child(4) .ser-shape-bx   { border-color: #F0E3F7;  }
+.serv-game-col:nth-child(5) .ser-shape-bx   { border-color: #E1E7F9;  }
+.serv-game-col:nth-child(6) .ser-shape-bx   { border-color: #E5F6EC;  }
+.serv-game-col:nth-child(2) .serv-game-det:hover .ser-shape-bx   { background: #FFF3D1 !important;  }
+.serv-game-col:nth-child(3) .serv-game-det:hover .ser-shape-bx   { background: #FFE3DB !important;  }
+.serv-game-col:nth-child(4) .serv-game-det:hover .ser-shape-bx   { background: #F0E3F7 !important;  }
+.serv-game-col:nth-child(5) .serv-game-det:hover .ser-shape-bx   { background: #E1E7F9 !important;  }
+.serv-game-col:nth-child(6) .serv-game-det:hover .ser-shape-bx   { background: #E5F6EC !important;  }
+.ser-shape-bx:before                    { content:''; position: absolute;  bottom: -26px; right: -26px; width: 50px; height: 50px; border-bottom: 4px solid ; border-color: inherit; transform: rotate(135deg); background: #fff;   }
+.ser-shape-bx:after                     { content: ''; position: absolute; top: -26px; left: -26px; width: 50px; height: 50px; border-bottom: 4px solid ; border-color: inherit; transform: rotate(-45deg); background: #fff; }
+.titl                                   { margin-bottom: 41px; display: flex; align-items: center; justify-content: space-between; }
+.serv-game-det img                      { margin-left:5px ; }
+.serv-game-det h5                       { max-width: 58%; padding-left: 40px; width: calc(100% - 120px); font-family: 'Montserrat'; font-weight: 600; font-size: 32px; line-height: 42px; letter-spacing: -1.5px; color: #0C1D3D; }
+.serv-game-det p                        { padding-left: 90px; font-family: 'Poppins'; text-align: left; font-weight: 400; font-size: 18px; line-height: 28px; color: rgba(0, 0, 0, 0.8); }
+.serv-game-col                          { margin-bottom: 64px; }
+/* Game Service Section End*/
+/* Expert Section Start */
+.game-expert-bx                         { display: flex; flex-wrap: wrap; align-items: start; border-top: 1px solid rgba(15, 15, 25, 0.5); border-bottom: 1px solid rgba(15, 15, 25, 0.5); }
+.game-expert-bx .expertimg-box          { width: 50%; position: sticky; top:93px; }
+.game-expert-bx .expert-text            { width: 50%;   }
+.experttitle-box                        { padding-left: 113px; padding-right: 165px; height:763px; display: flex; align-items: center; justify-content: center; border-left: 1px solid rgba(15, 15, 25, 0.5); border-bottom: 1px solid rgba(15, 15, 25, 0.5); }
+.experttitle-box h3                     { font-family: 'Montserrat'; font-weight: 800; font-size: 54px; line-height: 68px; color: #0C1D3D; }
+.expert-text ul                         { margin-bottom: 0 !important; }
+.expert-text ul li                      { position: relative; padding-left: 132px; padding-right: 165px; border-left: 1px solid rgba(15, 15, 25, 0.5); border-bottom: 1px solid rgba(15, 15, 25, 0.5); }
+.expert-text ul li .count               { position: absolute; left: 8%; top: 100px; font-family: 'Poppins'; font-weight: 500; font-size: 24px; line-height: 32px; color: #000000; }
+.expert-text ul li h4                   { margin-bottom: 40px; font-family: 'Montserrat'; font-weight: 800; font-size: 40px; line-height: 52px; color: #0C1D3D; }
+.expert-text ul li p                    { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; color: #000000; }
+/* Expert Section End */
+/* business-outcomes-sec Start */
+.business-outcomes-sec h2               { font-weight: 700; font-family: 'Montserrat'; }
+.business-outcom-bx                     { max-width: 88%; margin:0 auto; }
+.business-outcomes-box                  { margin-top:60px; }
+.busi-outcom-content                    { padding:33px 15px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; }
+.busi-outcom-content h3                 { margin-bottom: 46px;  position: relative; font-family: 'Poppins'; font-weight: 600; font-size: 90px; line-height: 80px; letter-spacing: -1.57143px; color: #0C1D3D; display: inline-block; }
+.busi-outcom-content h3:before          { content:''; z-index: -1; position: absolute; top:10px; left:-15px; width:78px; height:78px; background:url('https://www.yudiz.com/wp-content/uploads/2023/04/android-dev-inhouse.svg')no-repeat center center/cover; }
+.busi-out-col { position: relative }
+.busi-out-col:after { content:''; position: absolute; right:0; top:0; width:4px; height:100%; background: linear-gradient(0deg, rgba(231, 233, 237, 0) -6.52%, #E7E9ED 49.36%, rgba(231, 233, 237, 0) 97.64%); }
+.busi-out-col:nth-child(2) .busi-outcom-content h3:before { background-image: url('https://www.yudiz.com/wp-content/uploads/2023/04/countshape.svg'); }
+.busi-out-col:last-child .busi-outcom-content h3:before { background-image: url('https://www.yudiz.com/wp-content/uploads/2023/04/counter-shape.svg'); }
+.busi-out-col:last-child:after          { display: none; }
+.busi-outcom-content span               { font-family: 'Poppins'; font-weight: 500; font-size: 22px; line-height: 38px; text-align: center; color: rgba(0, 0, 0, 0.8); }
+/* business-outcomes-sec end  */
+/* Cta Second Start */
+.cta-sec-bx .container                  { position: relative; }
+.cta-sec-bx h3                          { color:#fff; font-family: 'Montserrat'; font-weight: 800; font-size: 50px; line-height: 65px; text-align: center; }
+.cta-sec-bx .img-bx .cta-img-left       { position: absolute; left:0; top:50%; transform: translateY(-50%);  }
+.cta-sec-bx .img-bx .cta-img-right       { position: absolute; right:0; top:50%; transform: translateY(-50%);  }
+/* Cta Second End */
+/* Information Box Start */
+.information-section-bx                 { background: #FAFAFA; }
+.information-section-bx h3              { margin-bottom: 32px; font-family: 'Montserrat'; font-weight: 800; font-size: 65px; line-height: 84px; color: #0C1D3D; }
+.information-section-bx p               { font-family: 'Poppins'; font-weight: 400; font-size: 20px; line-height: 34px; color: rgba(0, 0, 0, 0.6); }
+/* Information Box End */
+/* Game Genre service start */
+.game-gerne-section                     { background: url('https://www.yudiz.com/wp-content/uploads/2023/05/game-gerne-bg.webp')no-repeat center center/cover;  }
+.game-gerne-section h3                  { text-align: center; font-family: 'Montserrat'; font-weight: 800; font-size: 54px; line-height: 68px; color: #FFFFFF; }
+.game-gerne-section p                   { color: #fff; }
+.generes-single-col                     { margin-bottom: 30px; }
+.game-genre-service-box .generes-box .generes-single-content:after { display: none; }
+.game-genre-service-box .generes-box .generes-single-content { padding:28px 32px 29px; margin-bottom: 24px; font-family: 'Poppins'; font-weight: 600; font-size: 24px; line-height: 32px; color: #FFFFFF; background: rgba(255, 255, 255, 0.1); box-shadow: 0px 28px 45px -1px rgba(0, 0, 0, 0.05); backdrop-filter: blur(20px); /* Note: backdrop-filter has minimal browser support */ border-radius: 20px; }
+.game-genre-service-box .generes-box .generes-single-content:last-child { margin-bottom: 0; }
+.game-genre-service-box .generes-box .generes-single-content:hover ,.game-genre-service-box .generes-box .generes-single-content.active{ background: linear-gradient(129.53deg, rgba(211, 81, 223, 0.8) -13.86%, rgba(38, 36, 170, 0.576) 37.86%, rgba(97, 212, 255, 0.8) 93.65%); box-shadow: 0px 28px 45px -1px rgba(0, 0, 0, 0.05); backdrop-filter: blur(20px); /* Note: backdrop-filter has minimal browser support */ border-radius: 20px; transition: all 0.5s ease; }
+.game-genre-service-box .generes-box .generes-single-content img { width: 32px; height: 32px; }
+
+/* Game Genre service End */
+
+@media(min-width:1400px) and (max-width:1600px){
+    .inner-service-section p                { font-size: 20px; line-height: 32px;}
+    .clnt-title                             { font-size: 18px; line-height: 28px; }
+    /* Cta First Start */
+    .service-first-cta-content              { padding:50px 60px; border-radius: 30px;  }
+    .service-first-cta h3                    { margin-bottom: 30px; font-size: 34px; line-height: 45px;  }
+    .service-first-cta p                    { font-size: 18px; line-height: 28px;  }
+    /* Cta End */
+    /* Expert Section Start */
+    .game-expert-bx .expertimg-box          { top:93px; }
+    .experttitle-box                        { padding-left: 60px; padding-right: 50px; height:560px;}
+    .experttitle-box h3                     { font-size: 48px; line-height: 60px; }
+    .expert-text ul li                      {  padding-left: 80px; padding-right: 50px; }
+    .expert-text ul li .count               { top: 91px; left:4%; font-size: 24px; line-height: 32px;  }
+    .expert-text ul li h4                   { margin-bottom: 30px; font-size: 30px; line-height: 42px;  }
+    .expert-text ul li p                    { font-size: 20px; line-height: 34px; }
+    /* Expert Section End */
+    /* Game Service Section Start*/
+    .game-in-ser-bx h3                      { margin-bottom: 20px; font-size: 48px; line-height: 60px;  }
+    .game-in-ser-bx p,.game-gerne-section p { font-size: 20px; line-height: 32px; }
+    .serv-game-det                          { padding: 50px 25px 41px;  }
+    .ser-shape-bx                           {  width: 304px; border:4px solid #E2F6F8; }
+    .ser-shape-bx:before                    {  bottom: -26px; right: -26px; width: 50px; height: 50px; border-bottom: 4px solid inherit;  transform: rotate(135deg);   }
+    .ser-shape-bx:after                     { top: -26px; left: -26px; width: 50px; height: 50px; border-bottom: 4px solid inherit;  transform: rotate(-45deg); }
+    .titl                                   { margin-bottom: 31px;  }
+    .serv-game-det img                      { margin-left:4px ; }
+    .serv-game-det h5                       { padding-left: 30px; width: calc(100% - 120px); font-size: 28px; line-height: 38px; letter-spacing: -1.5px; }
+    .serv-game-det p                        { padding-left: 70px;  font-size: 18px; line-height: 28px;  }
+    .serv-game-col                          { margin-bottom: 52px; }
+    /* Game Service Section End*/
+    /* business-outcomes-sec Start */
+    .business-outcom-bx                     { max-width: 100%;  }
+    .business-outcomes-box                  { margin-top:50px; }
+    .busi-outcom-content                    { padding:24px 12px;  }
+    .busi-outcom-content h3                 { margin-bottom: 38px;  font-size:80px; line-height: 60px; letter-spacing: -1px;}
+    .busi-outcom-content h3:before          { top:10px; left:-15px; width:60px; height:60px; }
+    .busi-out-col:after                     { width:3px;  }
+    .busi-outcom-content span               { font-size: 20px; line-height: 32px;  }
+    /* business-outcomes-sec end  */
+    /* Cta Second Start */
+    .cta-sec-bx h3                          { font-size: 44px; line-height: 55px; }
+    .cta-sec-bx .img-bx .cta-img-left ,.cta-sec-bx .img-bx .cta-img-right      { width: 250px; }
+    /* Cta Second End */
+    /* Information Box Start */
+    .information-section-bx h3              { margin-bottom: 32px; font-size: 55px; line-height: 74px;  }
+    .information-section-bx p               { font-size: 20px; line-height: 34px;  }
+    /* Information Box End */
+    /* Game Genre service start */
+    .game-gerne-section h3                  {  font-size: 45px; line-height: 58px; }
+    .generes-single-col                     { margin-bottom: 30px; }
+    .game-genre-service-box .generes-box .generes-single-content { padding:26px 28px 27px; margin-bottom: 20px;  font-size: 24px; line-height: 32px;  border-radius: 16px; }
+    .game-genre-service-box .generes-box .generes-single-content:hover ,.game-genre-service-box .generes-box .generes-single-content.active{ border-radius: 16px; }
+    .game-genre-service-box .generes-box .generes-single-content img { width: 28px; height: 28px; }
+    /* Game Genre service End */
+    }
+    @media(min-width:1200px) and (max-width:1399px){
+        .service-bannerbx h1                { letter-spacing: 0; font-size: 46px; line-height: 57px; }
+        .clnt-title                         { font-size: 18px; line-height: 28px; }
+        .clien-bx-img                       { margin:0 20px; }
+        .inner-service-section p                { font-size: 18px; line-height: 26px;}
+         /* Cta First Styart */
+        .service-first-cta-content              { padding:40px 50px; border-radius: 30px;  }
+        .service-first-cta h3  { margin-bottom: 28px; font-size: 30px; line-height:40px;  }
+        /* Cta End */
+        /* Expert Section Start */
+        .game-expert-bx .expertimg-box          { top:93px; }
+        .experttitle-box                        { padding-left: 50px; padding-right: 15px; height:480px;}
+        .experttitle-box h3                     { font-size: 40px; line-height: 52px; }
+        .expert-text ul li                      {  padding-left: 70px; padding-right: 15px; }
+        .expert-text ul li .count               { top: 89px; left:4%; font-size: 22px; line-height: 30px;  }
+        .expert-text ul li h4                   { margin-bottom: 20px; font-size: 26px; line-height: 36px;  }
+        .expert-text ul li p                    { font-size: 18px; line-height: 24px; }
+        /* Expert Section End */
+            /* Game Service Section Start*/
+        .game-in-ser-bx h3                      { margin-bottom: 20px; font-size: 38px; line-height: 52px;  }
+        .game-in-ser-bx p,.game-gerne-section p { font-size: 18px; line-height: 26px; }
+        .serv-game-det                          { padding: 40px 20px 30px;  }
+        .ser-shape-bx                           {  width: 280px; border:3px solid #E2F6F8; }
+        .ser-shape-bx:before                    {  bottom: -26px; right: -26px; width: 50px; height: 50px; border-bottom: 3px solid inherit;  transform: rotate(135deg);   }
+        .ser-shape-bx:after                     { top: -26px; left: -26px; width: 50px; height: 50px; border-bottom: 3px solid inherit;  transform: rotate(-45deg); }
+        .titl                                   { margin-bottom: 20px;  }
+        .serv-game-det img                      { margin-left:4px ; width: 80px; }
+        .serv-game-det h5                       { padding-left: 25px; width: calc(100% - 84px); font-size: 22px; line-height: 32px; letter-spacing: -1.5px; }
+        .serv-game-det p                        { padding-left: 50px;  font-size: 18px; line-height: 28px;  }
+        .serv-game-col                          { margin-bottom: 40px; }
+        /* Game Service Section End*/
+        /* business-outcomes-sec Start */
+        .business-outcom-bx                     { max-width: 100%;  }
+        .business-outcomes-box                  { margin-top:40px; }
+        .busi-outcom-content                    { padding:20px 12px;  }
+        .busi-outcom-content h3                 { margin-bottom: 32px;  font-size:60px; line-height: 55px; letter-spacing: -0.5px;}
+        .busi-outcom-content h3:before          { top:0px; left:-15px; width:50px; height:50px; }
+        .busi-out-col:after                     { width:3px;  }
+        .busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+        /* business-outcomes-sec end  */
+           /* Cta Second Start */
+    .cta-sec-bx h3                          { font-size: 38px; line-height: 52px; }
+    .cta-sec-bx .img-bx .cta-img-left ,.cta-sec-bx .img-bx .cta-img-right      { width: 210px; }
+    /* Cta Second End */
+       /* Information Box Start */
+       .information-section-bx h3              { margin-bottom: 28px; font-size: 45px; line-height: 64px;  }
+       .information-section-bx p               { font-size: 18px; line-height: 32px;  }
+       /* Information Box End */
+       /* Game Genre service start */
+        .game-gerne-section h3                  {  font-size: 38px; line-height: 48px; }
+        .generes-single-col                     { margin-bottom: 24px; }
+        .game-genre-service-box .generes-box .generes-single-content { padding:15px 22px 16px; margin-bottom: 16px;  font-size: 22px; line-height: 32px;  border-radius: 14px; }
+        .game-genre-service-box .generes-box .generes-single-content:hover ,.game-genre-service-box .generes-box .generes-single-content.active{ border-radius: 14px; }
+        .game-genre-service-box .generes-box .generes-single-content img { width: 24px; height: 24px; }
+        /* Game Genre service End */
+    }
+    @media(min-width:992px) and (max-width:1199px){
+        .service-bannerbx h1                { letter-spacing: 0; font-size: 40px; line-height: 52px; }
+        .inner-service-section p                { font-size: 18px; line-height: 26px;}
+        .clnt-title                         { font-size: 18px; line-height: 28px; }
+        .clien-bx-img                       { margin:0 16px; }
+        /* Cta First Styart */
+        .service-first-cta-content              { padding:30px 40px; border-radius: 20px;  }
+        .service-first-cta h3                   { margin-bottom: 24px; font-size: 26px; line-height: 34px;  }
+        /* Cta End */
+        /* Game Service Section Start*/
+        .game-in-ser-bx h3                      { margin-bottom:16px; font-size: 32px; line-height: 46px;  }
+        .game-in-ser-bx p,.game-gerne-section p { font-size: 16px; line-height: 22px; }
+        .serv-game-det                          { padding: 30px 16px 20px;  }
+        .ser-shape-bx                           {  width: 243px; border:2px solid #E2F6F8; }
+        .ser-shape-bx:before                    {  bottom: -26px; right: -26px; width: 50px; height: 50px; border-bottom: 2px solid ; border-color: inherit; transform: rotate(135deg);   }
+        .ser-shape-bx:after                     { top: -26px; left: -26px; width: 50px; height: 50px; border-bottom: 2px solid ; border-color: inherit;  transform: rotate(-45deg); }
+        .titl                                   { margin-bottom: 20px;  }
+        .serv-game-det img                      { margin-left:4px ; width: 60px; }
+        .serv-game-det h5                       { padding-left: 25px; width: calc(100% - 64px); font-size: 20px; line-height: 30px; letter-spacing: -1px; }
+        .serv-game-det p                        { padding-left: 30px;  font-size: 16px; line-height:22px;  }
+        .serv-game-col                          { margin-bottom: 30px; }
+        /* Game Service Section End*/
+        /* Expert Section Start */
+        .game-expert-bx .expertimg-box          { top:83px; }
+        .experttitle-box                        { padding-left: 40px; padding-right: 11px; height:397px;}
+        .experttitle-box h3                     { font-size: 26px; line-height: 38px; }
+        .expert-text ul li                      {  padding-left: 70px; padding-right: 11px; }
+        .expert-text ul li .count               { top: 73px; left:4%; font-size: 20px; line-height: 28px;  }
+        .expert-text ul li h4                   { margin-bottom: 20px; font-size:24px; line-height: 32px;  }
+        .expert-text ul li p                    { font-size: 16px; line-height: 22px; }
+        /* Expert Section End */
+        /* business-outcomes-sec Start */
+        .business-outcom-bx                     { max-width: 100%;  }
+        .business-outcomes-box                  { margin-top:40px; }
+        .busi-outcom-content                    { padding:20px 12px;  }
+        .busi-outcom-content h3                 { margin-bottom: 32px;  font-size:60px; line-height: 55px; letter-spacing: -0.5px;}
+        .busi-outcom-content h3:before          { top:0px; left:-15px; width:50px; height:50px; }
+        .busi-out-col:after                     { width:3px;  }
+        .busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+        /* business-outcomes-sec end  */
+        /* Cta Second Start */
+    .cta-sec-bx h3                          { font-size: 32px; line-height: 42px; }
+    .cta-sec-bx .img-bx .cta-img-left ,.cta-sec-bx .img-bx .cta-img-right      { width: 190px; }
+    /* Cta Second End */
+     /* Information Box Start */
+     .information-section-bx h3              { margin-bottom: 22px; font-size: 34px; line-height: 52px;  }
+     .information-section-bx p               { font-size: 18px; line-height: 32px;  }
+     /* Information Box End */
+     /* Game Genre service start */
+     .game-gerne-section h3                  {  font-size: 32px; line-height: 44px; }
+     .generes-single-col                     { margin-bottom: 24px; }
+     .game-genre-service-box .generes-box .generes-single-content { padding:12px 15px 13px; margin-bottom: 12px;  font-size: 20px; line-height: 32px;  border-radius: 12px; }
+     .game-genre-service-box .generes-box .generes-single-content:hover ,.game-genre-service-box .generes-box .generes-single-content.active{ border-radius: 12px; }
+     .game-genre-service-box .generes-box .generes-single-content img { width: 24px; height: 24px; }
+     /* Game Genre service End */
+     
+    }
+    @media(min-width:768px) and (max-width:991px){
+        .clnt-title                         { letter-spacing: 0; font-size: 18px; line-height: 28px; }
+        .inner-service-section p                { font-size: 16px; line-height: 24px;}
+        .clien-bx-img                       { margin:0 16px; }
+        .service-img-ban                    { margin-top: 30px; }
+        /* Cta First Styart */
+        .service-first-cta-content              { padding:30px 20px; border-radius: 20px; background-position: left top !important; }
+        .service-first-cta h3  { margin-bottom: 20px; font-size: 24px; line-height: 32px;  }
+        /* Cta End */
+        /* Game Service Section Start*/
+        .game-in-ser-bx h3                      { margin-bottom:12px; font-size: 30px; line-height: 40px;  }
+        .game-in-ser-bx p,.game-gerne-section p { font-size: 16px; line-height: 22px; }
+        .serv-game-det                          { padding: 30px 12px 24px;  }
+        .ser-shape-bx                           {  width: 100%; border:2px solid #E2F6F8; }
+        .ser-shape-bx:before                    {  bottom: -26px; right: -26px; width: 50px; height: 50px; border-bottom: 2px solid ; border-color: inherit;  transform: rotate(135deg);   }
+        .ser-shape-bx:after                     { top: -26px; left: -26px; width: 50px; height: 50px; border-bottom: 2px solid ; border-color: inherit;  transform: rotate(-45deg); }
+        .titl                                   { margin-bottom: 20px;  }
+        .serv-game-det img                      { margin-left:4px ; width: 60px; }
+        .serv-game-det h5                       { max-width: 100%; padding-left: 20px; width: calc(100% - 64px); font-size: 20px; line-height: 30px; letter-spacing: -1px; }
+        .serv-game-det p                        { padding-left: 30px;  font-size: 16px; line-height:22px;  }
+        .serv-game-col                          { margin-bottom: 30px; }
+        /* Game Service Section End*/
+        /* Expert Section Start */
+        .game-expert-bx .expertimg-box          { top:69px; }
+        .experttitle-box                        { padding-left: 20px; padding-right: 9px; height:307px;}
+        .experttitle-box h3                     { font-size: 24px; line-height: 34px; }
+        .expert-text ul li                      {  padding-left: 40px; padding-right: 9px; }
+        .expert-text ul li .count               { top: 49px; left:2.5%; font-size: 18px; line-height: 24px;  }
+        .expert-text ul li h4                   { margin-bottom: 16px; font-size:22px; line-height: 32px;  }
+        .expert-text ul li p                    { font-size: 16px; line-height: 22px; }
+        /* Expert Section End */
+        /* business-outcomes-sec Start */
+        .business-outcom-bx                     { max-width: 100%;  }
+        .business-outcomes-box                  { margin-top:30px; }
+        .busi-outcom-content                    { padding:20px 12px;  }
+        .busi-outcom-content h3                 { margin-bottom: 22px;  font-size:40px; line-height: 35px; letter-spacing: -0.5px;}
+        .busi-outcom-content h3:before          { top:0px; left:-10px; width:30px; height:30px; }
+        .busi-out-col:after                     { width:2px;  }
+        .busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+        /* business-outcomes-sec end  */
+        /* Cta Second Start */
+    .cta-sec-bx h3                          { font-size: 28px; line-height: 38px; }
+    .cta-sec-bx .img-bx .cta-img-left ,.cta-sec-bx .img-bx .cta-img-right      { width: 110px; top:80%;}
+    /* Cta Second End */
+     /* Information Box Start */
+     .information-section-bx h3              { margin-bottom: 16px; font-size: 28px; line-height: 40px;  }
+     .information-section-bx p               { font-size: 16px; line-height: 24px;  }
+     .img-info-bx                            { margin-top: 30px; }
+     /* Information Box End */
+     /* Game Genre service start */
+     .game-gerne-section h3                  {  font-size: 28px; line-height: 38px; }
+     .generes-single-col                     { margin-bottom: 20px; }
+     .game-genre-service-box .generes-box .generes-single-content { margin:0 5px; width: calc(50% - 10px); padding:12px 15px 13px; margin-bottom: 12px; margin-left: 1;  font-size: 20px; line-height: 32px;  border-radius: 12px; }
+     .game-genre-service-box .generes-box .generes-single-content:last-child {  margin-bottom: 12px;  }
+     .game-genre-service-box .generes-box .generes-single-content:hover ,.game-genre-service-box .generes-box .generes-single-content.active{ border-radius: 12px; }
+     .game-genre-service-box .generes-box .generes-single-content img { width: 24px; height: 24px; }
+     /* Game Genre service End */
+            }
+    @media(max-width:767px){
+        .clnt-title                         { letter-spacing: 0; font-size: 18px; line-height: 28px; }
+        .clien-bx-img                       { margin:16px 0px; padding:0 20px; width:calc(100% / 2); }
+        .service-img-ban                    { margin-top: 30px; }
+        .client-section-content             { flex-wrap: wrap; }
+        .inner-service-section p            { font-size: 16px; line-height: 24px;}
+        /* Cta First Styart */
+        .service-first-cta-content          { padding:20px 8px; border-radius: 12px;  background-position: left top !important;}
+        .service-first-cta h3               { margin-bottom: 18px; font-size: 22px; line-height: 32px;  }
+        /* Cta End */
+        /* Expert Section Start */
+        .game-expert-bx                         { display: block; }
+        .game-expert-bx .expertimg-box ,.game-expert-bx .expert-text { width: 100%; }
+        .game-expert-bx .expert-text        { padding-left: 15px; }
+        .game-expert-bx .expertimg-box          {  position: unset; }
+        .experttitle-box                        { padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 9px; height:auto;}
+        .experttitle-box h3                     { font-size: 24px; line-height: 34px; }
+        .expert-text ul li                      {  padding-left: 30px; padding-right: 9px; }
+        .expert-text ul li .count               { top: 49px; left:2%; font-size: 16px; line-height: 24px;  }
+        .expert-text ul li h4                   { margin-bottom: 12px; font-size:20px; line-height: 32px;  }
+        .expert-text ul li p                    { font-size: 16px; line-height: 22px; }
+        /* Expert Section End */
+        /* Game Service Section Start*/
+        .game-in-ser-bx h3                      { margin-bottom:12px; font-size: 24px; line-height: 38px;  }
+        .game-in-ser-bx p,.game-gerne-section p { font-size: 16px; line-height: 22px; }
+        .serv-game-det                          { padding: 16px 12px 12px;  }
+        .ser-shape-bx                           {  width: 260px; border:2px solid #E2F6F8; }
+        .ser-shape-bx:before                    {  bottom: -26px; right: -26px; width: 50px; height: 50px; border-bottom: 2px solid ; border-color: inherit;  transform: rotate(135deg);   }
+        .ser-shape-bx:after                     { top: -26px; left: -26px; width: 50px; height: 50px; border-bottom: 2px solid ; border-color: inherit;  transform: rotate(-45deg); }
+        .titl                                   { margin-bottom: 16px;  }
+        .serv-game-det img                      { margin-left:4px ; width: 60px; }
+        .serv-game-det h5                       { max-width: 100%; padding-left: 12px; width: calc(100% - 64px); font-size:18px; line-height: 30px; letter-spacing: -1px; }
+        .serv-game-det p                        { padding-left: 20px;  font-size: 16px; line-height:22px;  }
+        .serv-game-col                          { margin-bottom: 20px; }
+        /* Game Service Section End*/
+        /* business-outcomes-sec Start */
+        .business-outcom-bx                     { max-width: 100%;  }
+        .business-outcomes-box                  { margin-top:16px; }
+        .busi-outcom-content                    { padding:16px 10px;  }
+        .busi-outcom-col .row                   { justify-content: center; }
+        .busi-outcom-content h3                 { margin-bottom: 16px;  font-size:30px; line-height: 25px; letter-spacing: -0.5px;}
+        .busi-outcom-content h3:before          { top:0px; left:-5px; width:20px; height:20px; }
+        .busi-out-col:after                     { width:100%; height:2px; bottom:0; left: 0; top: auto; right: auto;  }
+        .busi-outcom-content span               { font-size: 18px; line-height: 24px;  }
+        /* business-outcomes-sec end  */
+         /* Cta Second Start */
+    .cta-sec-bx h3                          { font-size: 26px; line-height: 36px; }
+    .cta-sec-bx .img-bx .cta-img-left ,.cta-sec-bx .img-bx .cta-img-right      { display: none;}
+    /* Cta Second End */
+    /* Information Box Start */
+    .information-section-bx h3              { margin-bottom: 16px; font-size: 26px; line-height: 38px;  }
+    .information-section-bx p               { font-size: 16px; line-height: 24px;  }
+    .img-info-bx                            { margin-top: 20px; }
+    /* Information Box End */
+     /* Game Genre service start */
+     .game-gerne-section h3                  { font-size: 26px; line-height: 32px; }
+     .generes-single-col                     { margin-bottom: 20px; }
+     .game-genre-service-box .generes-box .generes-single-content { width: calc(100% - 30px);  padding:10px 12px 10px; margin-bottom: 6px; font-size: 17px; line-height: 22px;  border-radius: 6px; }
+     .game-genre-service-box .generes-box .generes-single-content:last-child {  margin-bottom: 6px;  }
+     .game-genre-service-box .generes-box .generes-single-content:hover ,.game-genre-service-box .generes-box .generes-single-content.active{ border-radius: 6px; }
+     .game-genre-service-box .generes-box .generes-single-content img { width: 24px; height: 24px; }
+     /* Game Genre service End */
+    }

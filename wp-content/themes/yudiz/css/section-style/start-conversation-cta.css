@@ -1,0 +1,38 @@
+    /* Middle Section ============================= */
+    .page-id-879 #get-in-touch-scroll { background: #f8faff !important;}
+    #get-in-touch-scroll {  padding-top: 60px; padding-bottom: 60px; position: relative; background: transparent; overflow: hidden; }
+    #get-in-touch-scroll:before,
+    #get-in-touch-scroll:after { position: absolute; left: 0; top: 0; height: 100%; width: 250%; display: block; content: "";}
+    #get-in-touch-scroll > .get-project-section { position: relative; z-index: 50; }
+    #get-in-touch-scroll:before { top: 8%; background: url('../../images/get-in-touch-cloud-strip.webp') repeat-x top center / 50% auto;  opacity: 0.8;}
+    #get-in-touch-scroll:after { background: url('../../images/get-in-touch-building-strip.png') repeat-x center bottom / 25% auto; }
+@media(min-width:1400px) and (max-width:1600px){
+    /* Middle Section ============================= */
+    #get-in-touch-scroll { padding-top: 50px; padding-bottom: 50px;}
+    #get-in-touch-scroll:before,
+    #get-in-touch-scroll:after { width: 300%;}
+}
+@media(min-width:1200px) and (max-width:1399px){ 
+    /* Middle Section ============================= */
+    #get-in-touch-scroll { padding-top: 50px; padding-bottom: 50px;}
+    #get-in-touch-scroll:before,
+    #get-in-touch-scroll:after { width: 300%;}
+}
+@media(min-width:992px) and (max-width:1199px){
+    /* Middle Section ============================= */
+    #get-in-touch-scroll { padding-top: 40px; padding-bottom: 40px;}
+    #get-in-touch-scroll:before,
+    #get-in-touch-scroll:after { width: 350%;}
+}
+@media(min-width:768px) and (max-width:991px){
+    /* Middle Section ============================= */
+    #get-in-touch-scroll { padding-top: 45px; padding-bottom: 45px;}
+    #get-in-touch-scroll:before,
+    #get-in-touch-scroll:after { width: 400%;}
+}
+@media(max-width:767px){
+    /* Middle Section ============================= */
+    #get-in-touch-scroll { padding: 30px 15px;}
+    #get-in-touch-scroll:before,
+    #get-in-touch-scroll:after { width: 600%;}
+}

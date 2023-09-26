@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="298px" height="545px" viewBox="0 0 298 545" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="49.9020485 -5.68434189e-14 99.3000359 49.3979874 49.3979874 99.3000359 -5.68434189e-14 49.9020485"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-3" points="49.9020485 49 99.3000359 98.3979874 49.3979874 148.300036 -5.68434189e-14 98.9020485"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <polygon id="path-5" points="49.9020485 99 99.3000359 148.397987 49.3979874 198.300036 -5.68434189e-14 148.902048"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <polygon id="path-7" points="49.9020485 149 99.3000359 198.397987 49.3979874 248.300036 -5.68434189e-14 198.902048"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <polygon id="path-9" points="49.9020485 199 99.3000359 248.397987 49.3979874 298.300036 -5.68434189e-14 248.902048"></polygon>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <polygon id="path-11" points="49.9020485 249 99.3000359 298.397987 49.3979874 348.300036 -5.68434189e-14 298.902048"></polygon>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <polygon id="path-13" points="49.9020485 299 99.3000359 348.397987 49.3979874 398.300036 -5.68434189e-14 348.902048"></polygon>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <polygon id="path-15" points="49.9020485 448 99.3000359 497.397987 49.3979874 547.300036 0 497.902048"></polygon>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <polygon id="path-17" points="49.9020485 349 99.3000359 398.397987 49.3979874 448.300036 -5.68434189e-14 398.902048"></polygon>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <polygon id="path-19" points="49.9020485 498 99.3000359 547.397987 49.3979874 597.300036 0 547.902048"></polygon>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <polygon id="path-21" points="49.9020485 399 99.3000359 448.397987 49.3979874 498.300036 -5.68434189e-14 448.902048"></polygon>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <polygon id="path-23" points="49.9020485 147 99.3000359 196.397987 49.3979874 246.300036 0 196.902048"></polygon>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <polygon id="path-25" points="49.9020485 0 99.3000359 49.3979874 49.3979874 99.3000359 0 49.9020485"></polygon>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <polygon id="path-27" points="49.9020485 196 99.3000359 245.397987 49.3979874 295.300036 0 245.902048"></polygon>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+        <polygon id="path-29" points="49.9020485 50 99.3000359 99.3979874 49.3979874 149.300036 0 99.9020485"></polygon>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-29"></use>
+        </mask>
+        <polygon id="path-31" points="49.9020485 99 99.3000359 148.397987 49.3979874 198.300036 0 148.902048"></polygon>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-31"></use>
+        </mask>
+        <polygon id="path-33" points="49.9020485 246 99.3000359 295.397987 49.3979874 345.300036 0 295.902048"></polygon>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-33"></use>
+        </mask>
+        <polygon id="path-35" points="49.9020485 296 99.3000359 345.397987 49.3979874 395.300036 0 345.902048"></polygon>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <polygon id="path-37" points="49.9020485 346 99.3000359 395.397987 49.3979874 445.300036 0 395.902048"></polygon>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+        <polygon id="path-39" points="49.9020485 396 99.3000359 445.397987 49.3979874 495.300036 0 445.902048"></polygon>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-39"></use>
+        </mask>
+        <polygon id="path-41" points="49.9020485 446 99.3000359 495.397987 49.3979874 545.300036 0 495.902048"></polygon>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-41"></use>
+        </mask>
+        <polygon id="path-43" points="49.9020485 496 99.3000359 545.397987 49.3979874 595.300036 0 545.902048"></polygon>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-43"></use>
+        </mask>
+        <polygon id="path-45" points="49.9020485 -5.68434189e-14 99.3000359 49.3979874 49.3979874 99.3000359 -5.68434189e-14 49.9020485"></polygon>
+        <mask id="mask-46" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-45"></use>
+        </mask>
+        <polygon id="path-47" points="49.9020485 49 99.3000359 98.3979874 49.3979874 148.300036 -5.68434189e-14 98.9020485"></polygon>
+        <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-47"></use>
+        </mask>
+        <polygon id="path-49" points="49.9020485 99 99.3000359 148.397987 49.3979874 198.300036 -5.68434189e-14 148.902048"></polygon>
+        <mask id="mask-50" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-49"></use>
+        </mask>
+        <polygon id="path-51" points="49.9020485 149 99.3000359 198.397987 49.3979874 248.300036 -5.68434189e-14 198.902048"></polygon>
+        <mask id="mask-52" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-51"></use>
+        </mask>
+        <polygon id="path-53" points="49.9020485 199 99.3000359 248.397987 49.3979874 298.300036 -5.68434189e-14 248.902048"></polygon>
+        <mask id="mask-54" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-53"></use>
+        </mask>
+        <polygon id="path-55" points="49.9020485 249 99.3000359 298.397987 49.3979874 348.300036 -5.68434189e-14 298.902048"></polygon>
+        <mask id="mask-56" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-55"></use>
+        </mask>
+        <polygon id="path-57" points="49.9020485 299 99.3000359 348.397987 49.3979874 398.300036 -5.68434189e-14 348.902048"></polygon>
+        <mask id="mask-58" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-57"></use>
+        </mask>
+        <polygon id="path-59" points="49.9020485 448 99.3000359 497.397987 49.3979874 547.300036 0 497.902048"></polygon>
+        <mask id="mask-60" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-59"></use>
+        </mask>
+        <polygon id="path-61" points="49.9020485 399 99.3000359 448.397987 49.3979874 498.300036 -5.68434189e-14 448.902048"></polygon>
+        <mask id="mask-62" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-61"></use>
+        </mask>
+        <polygon id="path-63" points="49.9020485 349 99.3000359 398.397987 49.3979874 448.300036 -5.68434189e-14 398.902048"></polygon>
+        <mask id="mask-64" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-63"></use>
+        </mask>
+        <polygon id="path-65" points="49.9020485 498 99.3000359 547.397987 49.3979874 597.300036 0 547.902048"></polygon>
+        <mask id="mask-66" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99.3000359" height="99.3000359" fill="white">
+            <use xlink:href="#path-65"></use>
+        </mask>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="6">
+        <g id="17_01_Case-Studies_list" transform="translate(-910.000000, -294.000000)" fill-rule="nonzero" stroke="#333333" stroke-width="4">
+            <g id="Group-4-Copy" transform="translate(710.000000, 294.000000)">
+                <g id="Group-14" transform="translate(200.000000, 0.000000)">
+                    <g id="Group-10" transform="translate(200.000000, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-2)" opacity="0.44187128" xlink:href="#path-1"></use>
+                        <use id="Rectangle-Copy-2" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                        <use id="Rectangle-Copy-3" mask="url(#mask-6)" opacity="0.44187128" xlink:href="#path-5"></use>
+                        <use id="Rectangle-Copy-4" mask="url(#mask-8)" xlink:href="#path-7"></use>
+                        <use id="Rectangle-Copy-5" mask="url(#mask-10)" opacity="0.44187128" xlink:href="#path-9"></use>
+                        <use id="Rectangle-Copy-6" mask="url(#mask-12)" xlink:href="#path-11"></use>
+                        <use id="Rectangle-Copy-7" mask="url(#mask-14)" opacity="0.44187128" xlink:href="#path-13"></use>
+                        <use id="Rectangle-Copy-14" mask="url(#mask-16)" opacity="0.44187128" xlink:href="#path-15"></use>
+                        <use id="Rectangle-Copy-8" mask="url(#mask-18)" xlink:href="#path-17"></use>
+                        <use id="Rectangle-Copy-13" mask="url(#mask-20)" xlink:href="#path-19"></use>
+                        <use id="Rectangle-Copy-9" mask="url(#mask-22)" xlink:href="#path-21"></use>
+                    </g>
+                    <g id="Group-10-Copy" transform="translate(150.000000, 298.000000) scale(1, -1) translate(-150.000000, -298.000000) translate(100.000000, 0.000000)">
+                        <use id="Rectangle" mask="url(#mask-24)" opacity="0.44187128" xlink:href="#path-23"></use>
+                        <use id="Rectangle-Copy-15" mask="url(#mask-26)" opacity="0.44187128" xlink:href="#path-25"></use>
+                        <use id="Rectangle-Copy-2" mask="url(#mask-28)" xlink:href="#path-27"></use>
+                        <use id="Rectangle-Copy-16" mask="url(#mask-30)" xlink:href="#path-29"></use>
+                        <use id="Rectangle-Copy-10" mask="url(#mask-32)" xlink:href="#path-31"></use>
+                        <use id="Rectangle-Copy-3" mask="url(#mask-34)" opacity="0.44187128" xlink:href="#path-33"></use>
+                        <use id="Rectangle-Copy-4" mask="url(#mask-36)" xlink:href="#path-35"></use>
+                        <use id="Rectangle-Copy-5" mask="url(#mask-38)" opacity="0.44187128" xlink:href="#path-37"></use>
+                        <use id="Rectangle-Copy-6" mask="url(#mask-40)" xlink:href="#path-39"></use>
+                        <use id="Rectangle-Copy-7" mask="url(#mask-42)" opacity="0.44187128" xlink:href="#path-41"></use>
+                        <use id="Rectangle-Copy-8" mask="url(#mask-44)" xlink:href="#path-43"></use>
+                    </g>
+                    <g id="Group-10-Copy-2">
+                        <use id="Rectangle" mask="url(#mask-46)" opacity="0.44187128" xlink:href="#path-45"></use>
+                        <use id="Rectangle-Copy-2" mask="url(#mask-48)" xlink:href="#path-47"></use>
+                        <use id="Rectangle-Copy-3" mask="url(#mask-50)" opacity="0.44187128" xlink:href="#path-49"></use>
+                        <use id="Rectangle-Copy-4" mask="url(#mask-52)" xlink:href="#path-51"></use>
+                        <use id="Rectangle-Copy-5" mask="url(#mask-54)" opacity="0.44187128" xlink:href="#path-53"></use>
+                        <use id="Rectangle-Copy-6" mask="url(#mask-56)" xlink:href="#path-55"></use>
+                        <use id="Rectangle-Copy-7" mask="url(#mask-58)" opacity="0.44187128" xlink:href="#path-57"></use>
+                        <use id="Rectangle-Copy-18" mask="url(#mask-60)" opacity="0.44187128" xlink:href="#path-59"></use>
+                        <use id="Rectangle-Copy-11" mask="url(#mask-62)" opacity="0.44187128" xlink:href="#path-61"></use>
+                        <use id="Rectangle-Copy-8" mask="url(#mask-64)" xlink:href="#path-63"></use>
+                        <use id="Rectangle-Copy-17" mask="url(#mask-66)" xlink:href="#path-65"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

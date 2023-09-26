@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="339px" height="361px" viewBox="0 0 339 361" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>t5 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M206.07407,278.565063 L103.807724,101.518484 C101.597799,97.6925967 102.907796,92.7996045 106.733684,90.5896802 C107.950175,89.8870055 109.330256,89.5170623 110.735106,89.5170623 L315.968205,89.5170623 C320.386483,89.5170623 323.968205,93.0987843 323.968205,97.5170623 C323.968205,98.9299469 323.594021,100.31763 322.883707,101.53898 L219.916954,278.58556 C217.69571,282.404886 212.79886,283.700388 208.979534,281.479144 C207.773516,280.777748 206.771891,279.773153 206.07407,278.565063 Z" id="path-1"></path>
+        <filter x="-54.8%" y="-53.5%" width="201.0%" height="218.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="38.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.240489806   0 0 0 0 0.83350317   0 0 0 0 0.69971357  0 0 0 0.436844406 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="t5-copy" fill-rule="nonzero" transform="translate(213.375415, 190.017062) rotate(-30.000000) translate(-213.375415, -190.017062) ">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#47EBC6" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="926px" viewBox="0 0 1024 926" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval</title>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.875849,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#F8F56C" offset="0%"></stop>
+            <stop stop-color="#FF2727" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-14.5%" y="-16.5%" width="129.0%" height="133.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="40" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.152139353">
+        <g id="Yudiz_community_12Aug2021_v1" transform="translate(-407.000000, -212.000000)" fill="url(#radialGradient-1)">
+            <g id="Oval" transform="translate(-308.000000, 109.500000)">
+                <path d="M1276,928.5 C1476.47936,928.5 1639,765.979364 1639,565.5 C1639,365.020636 1476.47936,202.5 1276,202.5 C1075.52064,202.5 602.230469,413.535156 913,565.5 C1223.76953,717.464844 1075.52064,928.5 1276,928.5 Z" filter="url(#filter-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

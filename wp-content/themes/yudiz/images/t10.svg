@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="509px" height="507px" viewBox="0 0 509 507" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <defs>
+        <path d="M192.748442,466.460893 L19.4108072,166.373557 C15.2671992,159.200018 17.7234436,150.025658 24.8969826,145.88205 C27.1779045,144.564535 29.7655547,143.870891 32.3996486,143.870891 L380.262083,143.870891 C388.546354,143.870891 395.262083,150.58662 395.262083,158.870891 C395.262083,161.52005 394.560487,164.121955 393.22865,166.411988 L218.703851,466.499324 C214.539019,473.660561 205.357425,476.089627 198.196188,471.924794 C195.934904,470.609677 194.056858,468.726061 192.748442,466.460893 Z" id="path-1"></path>
+        <filter x="-30.6%" y="-31.2%" width="156.2%" height="167.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="38.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0196078431   0 0 0 0 0.529411765   0 0 0 0 1  0 0 0 0.463914991 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="t10-copy" fill-rule="nonzero" transform="translate(206.375415, 316.370891) rotate(-315.000000) translate(-206.375415, -316.370891) ">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#0587FF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

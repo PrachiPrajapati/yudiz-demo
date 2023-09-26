@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-37" transform="translate(38.000000, 38.000000) rotate(30.000000) translate(-38.000000, -38.000000) translate(11.000000, 1.000000)" fill-rule="nonzero">
+            <path d="M13,54 L41,54 C41,34.7387993 41,34.5192845 41,21.4 C41,14.1694766 36.3592635,7.10337193 26.9616273,0.20806012 C17.6133347,6.21134656 13,13.2606752 13,21.4 C13,35.4326225 13,35.6790584 13,54 Z" id="Combined-Shape" stroke="#2D4152" stroke-width="2" fill="#FFFFFF"></path>
+            <polygon id="Rectangle-71" fill="#47EBC6" points="19 59 27 55 35 59 30.5344669 73.1318359 27 64.065918 23.7752757 69.746582"></polygon>
+            <circle id="Oval-25" fill="#0487FF" cx="27" cy="22" r="7"></circle>
+            <polygon id="Rectangle-70" fill="#0487FF" points="42 35 54 55 42 55"></polygon>
+            <polygon id="Rectangle-70-Copy" fill="#0487FF" transform="translate(6.000000, 45.000000) scale(-1, 1) translate(-6.000000, -45.000000) " points="0 35 12 55 0 55"></polygon>
+        </g>
+    </g>
+</svg>
